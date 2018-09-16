@@ -1,0 +1,58 @@
+
+
+
+performance monitoring time-sharing system
+
+a software measurement facility part of
+a general purpose time-sharing system 
+ date collection facility dcf implemented
+in michigan terminal system mts 
+system 360 model 67 exists purpose monitoring
+operating system user program behavior 
+and performance structure mts outlined
+in order explain implementation 
+the dcf events system identified recorded
+from supervisor dumped 
+magnetic tape auxiliary program off-line processing 
+ events user programs unrelated 
+to system actions recorded supervisor call 
+ time occurrence event accurately 
+recorded data items identified job and
+type overhead data collection 
+and interference normal jobs carefully analyzed 
+and shown minimal 
+examples information obtained the
+facility applications 
+useful general guidelines offered for
+the construction future monitoring programs 
+
+cacm november 1969
+
+pinkerton 
+
+performance monitoring performance measurement 
+program behavior performance data multiprogramming 
+performance software measurement time-sharing performance 
+system evaluation software monitor software 
+instrumentation
+
+4.31 4.32 4.39 4.42 4.43
+
+ca691103 jb february 15 1978 1 07 pm
+
+1827	5	1827
+1827	5	1827
+1827	5	1827
+2667	5	1827
+2668	5	1827
+1604	6	1827
+1604	6	1827
+1728	6	1827
+1728	6	1827
+1761	6	1827
+1827	6	1827
+1827	6	1827
+2677	6	1827
+
+
+

@@ -1,0 +1,29 @@
+
+
+
+note triple-precision floating-point arithmetic 132-bit numbers
+
+in recent paper gregory raney described
+a technique double-precision floating-point 
+arithmetic similar technique developed for
+triple-precision floating-point arithmetic 
+it purpose note describe technique 
+ multiplication division 
+algorithms addition-subtraction
+algorithm obtained trivial modification 
+of algorithm gregory raney paper 
+
+cacm march 1965
+
+ikebe 
+
+ca650313 jb march 7 1978 5 54 pm
+
+1294	4	1294
+1152	5	1294
+1294	5	1294
+1294	5	1294
+1294	5	1294
+
+
+

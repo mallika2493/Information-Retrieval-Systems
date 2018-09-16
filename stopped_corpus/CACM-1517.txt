@@ -1,0 +1,43 @@
+
+
+
+methods analyzing data computer simulation experiments
+
+this paper addresses problem of
+analyzing data generated computer simulations 
+of economic systems turn hypothetical firm 
+whose operation represented single-channel 
+multistation queueing model firm seeks maximize
+total expected profit coming period 
+by selecting operating plans each
+plan incorporates marketing strategy 
+an allocation productive inputs total cost 
+ results simulated activity 
+plan subjected f-test multiple comparison
+methods multiple ranking method 
+illustrate compare evaluate techniques 
+ paper adopts position 
+technique analysis possibly 
+chosen experimenter expression 
+of experimental objective f-test tests homogeneity
+of plans multiple comparison methods 
+quantify differences multiple ranking methods
+directly identify plan 
+plans 
+
+cacm november 1967
+
+naylor 
+wertz 
+wonnacott 
+
+ca671103 jb february 26 1978 3 15 pm
+
+1517	4	1517
+1435	5	1517
+1517	5	1517
+1517	5	1517
+1517	5	1517
+
+
+

@@ -1,0 +1,45 @@
+
+
+
+optimal surface reconstruction planar contours
+
+in scientific technical endeavors 
+a three-dimensional solid reconstructed 
+from serial sections aid comprehension
+of object structure facilitate 
+automatic manipulation analysis paper presents
+a general solution problem constructing 
+a surface set cross-sectional contours 
+this surface composed triangular tiles 
+is constructed separately determining optimal
+surface pair consecutive contours 
+ determining surface reduced problem
+of finding minimum cost cycles directed 
+toroidal graph fast algorithm finding such
+cycles utilized developed closed-form 
+expression term number contour poin ts for
+an upper bound number operations required 
+to execute algorithm illustrated which
+involves construction minimum area surface 
+describing human head included 
+
+cacm october 1977
+
+fuchs 
+kedem 
+uselton 
+
+surface reconstruction contour data serial sections 
+three-dimensional computer graphics minimum 
+cost paths continuous tone displays
+
+5.25 5.32 8.2
+
+ca771001 jb december 27 1977 12 40 pm
+
+2925	5	2925
+2925	5	2925
+2925	5	2925
+
+
+

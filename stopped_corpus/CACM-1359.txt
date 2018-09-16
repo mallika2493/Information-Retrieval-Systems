@@ -1,0 +1,35 @@
+
+
+
+data filtering applied information storage retrieval applications
+
+manipulation data strings complex
+processing function information storage 
+and retrieval applications data string manipulation
+is discussed context interpretive 
+processing environment controlled procedural
+directives sequence procedural directives 
+is derived job assumed expressed user-oriented
+source language data string 
+the structured data environment data bank explicitly
+or implicitly related format declaration
+residing format library processing mechanics
+associated data string manipulation developed 
+in accordance generalized data filtering concept 
+ results implementation two-part 
+data filter module satisfies internal processing
+functions filtering data strings format 
+declarations input output ports 
+
+cacm november 1966
+
+larsen 
+
+ca661101 jb march 2 1978 3 52 pm
+
+1359	5	1359
+1359	5	1359
+1359	5	1359
+
+
+

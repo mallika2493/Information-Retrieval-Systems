@@ -1,0 +1,48 @@
+
+
+
+the restriction language computer grammars natural language
+
+over past years number systems
+for computer analysis natural language 
+sentences based augmented context-free
+grammars context-free grammar defines 
+set parse trees sentence group restrictions
+to tree conform order 
+to valid sentence analysis coverage the
+grammar increased efficient representation 
+becomes essential development paper
+presents programming language designed specifically 
+for compact perspicuous statement restrictions
+of natural language grammar based 
+on ten years experience parsing text sentences with
+the comprehensive english grammar 
+linguistic string project embodies syntax
+and routines relations found 
+be adequate computerized natural language
+analysis language 
+implementation linguistic string parser 
+
+cacm july 1975
+
+sager 
+grishman 
+
+natural language parsing grammar programming languages
+
+3.42 3.79 4.22
+
+ca750703 jb january 9 1978 10 17 am
+
+2581	4	2739
+2739	4	2739
+2795	4	2739
+2921	4	2739
+3087	4	2739
+1989	5	2739
+2739	5	2739
+2739	5	2739
+2739	5	2739
+
+
+

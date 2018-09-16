@@ -1,0 +1,44 @@
+
+
+
+git-a heuristic program testing pairs
+of directed line graphs isomorphism 
+
+given pair directed line graphs problem
+of ascertaining isomorphic 
+is efficient algorithmic solution known 
+ straightforward enumerative algorithm 
+might require 40 years running time high
+speed computer order compare 15-node 
+graphs sophisticated approach called
+for situation similar prevailing 
+in areas game-playing theorem-proving where
+practical algorithms unknown interesting 
+cases practical partially
+successful techniques git-graph 
+isomorphism tester-incorporates variety processes
+that attempt narrow search 
+isomorphism demonstrate exists one
+scheme relied exclusively solution 
+and program designed avoid excessive computation
+along fruitless lines git written 
+in comit language successfully tested ibm 7090 
+
+cacm january 1964
+
+unger 
+
+ca640110 jb march 10 1978 5 24 am
+
+1145	4	1145
+1145	5	1145
+1145	5	1145
+1145	5	1145
+1504	5	1145
+3040	5	1145
+655	5	1145
+1145	6	1145
+1145	6	1145
+
+
+

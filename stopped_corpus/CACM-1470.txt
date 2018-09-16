@@ -1,0 +1,55 @@
+
+
+
+the structure programming languages
+
+the identified major components
+of programming language 1 elementary 
+program statement 2 mechanisms linking elementary
+statements 3 means 
+a program obtain data inputs alternative
+forms components 
+compared evaluated examples frequently from
+list processing languages illustrate forms 
+described elementary program statements take
+the form commands requirements implicit 
+specifications command imperative statement
+that commands action requirement 
+describes effect achieved saying anything
+about actions implicit 
+specification similar requirement programmer
+must understand actions 
+to achieve desired effect subroutines entered
+explicitly execute call function 
+composition explicitly called subroutines generally
+require special linkage conventions execute 
+subroutine call syntactically indistinguishable from
+a basic instruction programming language 
+ function composition convenient alternative to
+the explicit call principal ways 
+getting inputs routines 1 referring to
+the data 2 referring data 
+a 3 referring implicitly means
+of variables functions names 
+entry points permanent data structures can
+be error-causing distractions contexts 
+the author discusses advantages disadvantages factors
+influencing choice form component 
+for language concludes suggesting evolution
+of programming languages 
+will permit convenient ways structuring
+programs organizing systems referencing 
+data 
+
+cacm march 1966
+
+raphael 
+
+ca660302 jb march 3 1978 2 20 pm
+
+1470	5	1470
+1470	5	1470
+1470	5	1470
+
+
+

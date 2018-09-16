@@ -1,0 +1,49 @@
+
+
+
+canonical structure attribute based organization
+
+a structure attribute based retrieval
+is proposed paper queries 
+involving arbitrary boolean functions attribute-value
+pairs processed taking intersections 
+of lists structure highly dependent the
+way uniquely 
+determined specification allowed queries 
+ structure retrieval 
+on basis ranges values attribute would
+be retrieval 
+on basis single permitted file
+organization proposed based atoms 
+of boolean algebra generated queries desirable
+properties claimed structure 
+proved maintenance questions discussed 
+
+cacm september 1971
+
+wong 
+chiang 
+
+address calculation atoms boolean algebra 
+attributes boolean functions boolean queries 
+file organization information retrieval inverted
+file key words multilist queries searches 
+
+3.70 3.73 3.74
+
+ca710904 jb february 2 1978 2 22 pm
+
+2160	4	2160
+2688	4	2160
+2114	5	2160
+2160	5	2160
+2160	5	2160
+2160	5	2160
+3134	5	2160
+1976	6	2160
+2160	6	2160
+2524	6	2160
+2990	6	2160
+
+
+

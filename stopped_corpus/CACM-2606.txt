@@ -1,0 +1,42 @@
+
+
+
+a integration algorithm ordinary differential
+equations based continued fraction approximations
+
+a integration algorithm found an
+implementation compared programmed 
+algorithms algorithm step-by-step procedure
+for solving initial problem ordinary 
+differential equations designed approximate
+poles small integer order solutions 
+of differential equations continued fractions obtained
+by manipulating sums truncated taylor 
+series expansions method compared with
+gragg-bulirsh-stoer taylor series method 
+ taylor series method method shown
+to superior speed accuracy 
+new method shown superior solution
+is required singularity method 
+can finally seen pass singularities
+where methods 
+discussed failed 
+
+cacm september 1974
+
+willers 
+
+ordinary differential equations initial problem 
+integration taylor series singularities 
+continued fractions program comparison
+
+5.17
+
+ca740902 jb january 17 1978 9 06 am
+
+2606	5	2606
+2606	5	2606
+2606	5	2606
+
+
+

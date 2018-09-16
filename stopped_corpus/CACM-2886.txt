@@ -1,0 +1,47 @@
+
+
+
+semantic evaluation left right
+
+this paper describes attribute grammars their
+use definition programming languages 
+and compilers formal definition attribute grammars
+and discussion important aspects 
+are included paper concentrates evaluation
+of semantic attributes passes left 
+to derivation tree program a
+condition attribute grammar 
+assures semantics program evaluated
+in single pass derivation tree 
+and algorithm discussed decides many
+passes left general 
+given attribute grammar notions explained
+in terms grammar describes 
+the scope rules algol 60 practical questions such
+as relative efficiency evaluation 
+schemes ease adapting attribute grammar
+of programming language left-to-right 
+evaluation scheme discussed 
+
+cacm february 1976
+
+bochmann 
+
+attribute grammars semantics programming languages 
+semantic attributes left-to-right parsing 
+multipass compilers semantic evaluation semantic conditions
+
+4.10 4.20 5.23 5.24
+
+ca760201 jb january 5 1978 9 54 am
+
+2886	4	2886
+2301	5	2886
+2703	5	2886
+2886	5	2886
+2886	5	2886
+2886	5	2886
+2886	6	2886
+
+
+

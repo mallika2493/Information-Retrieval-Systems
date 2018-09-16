@@ -1,0 +1,37 @@
+
+
+
+an interactive graphic display region
+partitioning linear programming
+
+using linear programming interactive graphic
+display system implemented solve 
+the region design problem partitioning region into
+n nonoverlapping subregions 
+their areas proportions the
+total cost servicing minimum 
+a conversational manner user easily obtain different
+partitionings modifying 
+the boundary service centers locations area
+proportions cost functions examples 
+are included 
+
+cacm september 1974
+
+cheung 
+
+interactive graphic display region partitioning 
+area specification linear programming
+
+5.41 8.2 8.3
+
+ca740904 jb january 17 1978 8 56 am
+
+2604	4	2604
+1977	5	2604
+2604	5	2604
+2604	5	2604
+2604	5	2604
+
+
+

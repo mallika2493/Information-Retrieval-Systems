@@ -1,0 +1,38 @@
+
+
+
+a mathematical model mechanical part description
+
+the flexibility mathematical model takes
+advantage common information requirements 
+of computer-aided engineering drawing numerical control
+tape generation physical characteristic 
+computation judicious control man-machine communication
+requirements improved results conventional 
+engineering design processes english-like
+input language tailored draftsmen 
+and designers describe part the
+output desired approach mathematical 
+model consists group surface-defining quadric
+equations created system modular 
+subprogram subprograms convert mathematical
+model instructions driving automatic 
+drafting machines numerical controlled machine tools 
+ physical part characteristics center 
+of gravity computed subprograms in
+dynamic analysis work proposed system 
+is presented experiments demonstrations discussed 
+
+cacm february 1965
+
+luh 
+krolak 
+
+ca650216 jb march 7 1978 10 46 pm
+
+1308	5	1308
+1308	5	1308
+1308	5	1308
+
+
+

@@ -1,0 +1,44 @@
+
+
+
+dynamic partitioning array languages
+
+the classical process partitioning array
+into subarrays extended 
+array language operation modes partitioning
+are defined types arrays 
+that subarrays vary original array in
+a nearly arbitrary manner definitions 
+motivated realistic examples illustrate
+the partitioning array languages 
+ general interest data structure partitioning 
+ consists dynamic tree structures 
+which derive maintain array control
+information sufficient 
+detail design array languages 
+ description presented paper 
+is implemented array language ol 2 currently
+under development university illinois 
+
+cacm december 1972
+
+phillips 
+adams 
+
+dynamic partitioning array partitioning array language 
+data structure tree structure programming 
+language design array control blocks partition control blocks
+
+4.12 4.2 4.22
+
+ca721201 jb january 27 1978 1 20 pm
+
+2253	4	2254
+2254	4	2254
+2081	5	2254
+2254	5	2254
+2254	5	2254
+2254	5	2254
+
+
+

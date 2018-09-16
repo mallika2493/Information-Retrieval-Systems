@@ -1,0 +1,34 @@
+
+
+
+optimal starting values newton-raphson calculation sqrt 
+
+the problem obtaining starting values for
+the newton-raphson calculation sqrt 
+digital computer considered shown the
+conventionally uniform approximations 
+to sqrt provide optimal starting values 
+the problem obtaining optimal starting values 
+ problem obtaining optimal starting values is
+stated basic results proved 
+table optimal polynomial starting values 
+
+cacm july 1967
+
+moursund 
+
+ca670707 jb february 28 1978 8 53 am
+
+1566	4	1566
+1440	5	1566
+1566	5	1566
+1566	5	1566
+1566	5	1566
+1932	5	1566
+2094	5	1566
+962	6	1566
+1566	6	1566
+1566	6	1566
+
+
+

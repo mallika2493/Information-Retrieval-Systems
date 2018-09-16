@@ -1,0 +1,38 @@
+
+
+
+axle axiomatic language string transformations
+
+axle language designed data manipulation 
+ data arranged linear form workspace 
+is transformed according table axioms called imperatives 
+ transformation consists matching 
+procedure decides imperative applicable 
+and replacement procedure modifies 
+that part workspace imperatives applied
+in accordance definitions symbolic terms 
+presented systematically assertion table the
+process definition includes special case 
+of recursive assertions complete programs
+of imperatives show applications
+of language 
+
+cacm november 1965
+
+cohen 
+wegstein 
+
+ca651101 jb march 6 1978 6 22 pm
+
+1180	5	1180
+1180	5	1180
+1180	5	1180
+1395	5	1180
+1706	5	1180
+1180	6	1180
+1180	6	1180
+1395	6	1180
+210	6	1180
+
+
+

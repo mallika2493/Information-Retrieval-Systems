@@ -1,0 +1,41 @@
+
+
+
+on coordination reduction sentence analysis
+
+a class coordination phenomena natural
+languages considered frame work 
+of transformational theory account phenomena
+it proposed machinery 
+added syntactic component transformational
+grammar machinery includes rule 
+schemata conditions be
+applied conditions determining sequence 
+of subtrees performed solution
+to syntactic analysis problem 
+class grammars outlined precise specification
+of generative procedure paper 
+and inverse form lisp function definitions 
+
+cacm april 1969
+
+petrick 
+postal 
+rosenbaum 
+
+natural languages generative grammar transformational
+theory syntax coordination sentence 
+coordination sentence coordination coordination reduction 
+syntactic analysis grammar testing program 
+rule testing
+
+3.42
+
+ca690406 jb february 17 1978 4 25 pm
+
+1911	5	1911
+1911	5	1911
+1911	5	1911
+
+
+

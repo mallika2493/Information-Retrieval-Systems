@@ -1,0 +1,85 @@
+
+
+
+on external storage fragmentation produced
+by first-fit best-fit allocation strategies
+
+published comparisons external fragmentation
+produced first-fit best-fit memory 
+allocation consistent simulation 
+a series experiments performed order 
+to obtain data relative performance of
+first-fit best-fit understanding 
+of reasons underlying observed differences the
+time-memory-product efficiencies first-fit 
+best-fit generally 1 3 percent each
+other small populations size 
+of request population effect allocation
+efficiency exponential hyperexponential 
+distributions requests first-fit outperformed best-fit 
+but normal uniform distributions 
+and exponential distributions distorted various
+ways best-fit outperformed first-fit 
+hypothesized first-fit outperforms best-fit 
+it first-fit preferentially 
+allocating end memory encourages large blocks
+to grow end sufficient contiguous 
+space likely relatively
+large requests results simulation experiments 
+supported hypothesis showed relative
+performance first-fit best-fit depends 
+on frequency request coefficient of
+variation request distribution greater 
+than approximately equal unity first-fit outperformed best-fit 
+
+cacm august 1975
+
+shore 
+
+storage fragmentation dynamic memory allocation first-fit best-fit
+
+3.73 4.32 4.35
+
+ca750801 jb january 9 1978 9 41 am
+
+2095	4	2734
+2218	4	2734
+2218	4	2734
+2498	4	2734
+2596	4	2734
+2734	4	2734
+2734	4	2734
+2902	4	2734
+2911	4	2734
+3000	4	2734
+3000	4	2734
+1879	5	2734
+2095	5	2734
+2734	5	2734
+2734	5	2734
+2734	5	2734
+2902	5	2734
+2911	5	2734
+2983	5	2734
+1051	6	2734
+1062	6	2734
+1184	6	2734
+1211	6	2734
+1552	6	2734
+1879	6	2734
+1879	6	2734
+273	6	2734
+2435	6	2734
+2435	6	2734
+2498	6	2734
+2596	6	2734
+2734	6	2734
+2734	6	2734
+2734	6	2734
+2747	6	2734
+2768	6	2734
+2773	6	2734
+2983	6	2734
+
+
+

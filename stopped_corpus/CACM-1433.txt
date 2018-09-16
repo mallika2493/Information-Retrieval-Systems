@@ -1,0 +1,39 @@
+
+
+
+a note linear programming algorithm design combinatorial problem
+
+as linear programming models grow bigger and
+bigger size actual data 
+memorized put magnetic tape disk and
+consequently improportionality fast 
+rise consumption computer timeo cut down
+this expense increasing effort made 
+to design efficient algorithms paper is
+meant support effort attempted 
+find characteristics pivot column
+is found number repetitions 
+transfer data tape core memory considered 
+ simplification problem restated 
+in general generating function probability
+distribution moment generating 
+function number repetitions found asymptotic
+formulas moments 
+a result paper narumi results
+may applied write efficient routines 
+that search extreme table formulas
+provide means calculating computer timings 
+in case 
+
+cacm 1966
+
+roes 
+
+ca660504 jb march 3 1978 10 10 am
+
+1433	5	1433
+1433	5	1433
+1433	5	1433
+
+
+

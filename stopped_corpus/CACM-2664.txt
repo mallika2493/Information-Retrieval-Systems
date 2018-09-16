@@ -1,0 +1,34 @@
+
+
+
+parallelism tape-sorting
+
+two methods employing parallelism tape-sorting
+are presented method natural 
+way parallelism method approximately
+achieve goal reducing processing 
+time divisor number processors 
+
+cacm april 1974
+
+even 
+
+tape sorting parallelism external sorting queues stacks
+
+5.31 6.22
+
+ca740406 jb january 18 1978 9 44 am
+
+2664	5	2664
+2664	5	2664
+2664	5	2664
+2714	5	2664
+3075	5	2664
+2289	6	2664
+2557	6	2664
+2664	6	2664
+2664	6	2664
+2714	6	2664
+
+
+

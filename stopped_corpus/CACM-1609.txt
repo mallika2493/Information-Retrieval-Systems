@@ -1,0 +1,41 @@
+
+
+
+scheduling university course examinations computer
+
+a approach problem scheduling
+course examinations presented principle 
+an examination schedule requires minimum number
+of examination periods satisfies constraint 
+that student required take examinations
+simultaneously found steps 
+course examinations scheduled at
+the period grouped 
+ways minimum number groups that
+each course included selected 
+ removing multiple occurrences courses scheduling
+each group period minimal 
+schedule obtained known algorithms carrying
+out procedures prohibitively expensive 
+ approximations ideal procedure outlined are
+given yield nonminimal feasible schedules 
+with small expenditure time results experiments
+using techniques 
+are encouraging experimentation worthwhile 
+
+cacm april 1967
+
+hall jr 
+acton 
+
+ca670406 jb february 28 1978 11 22 am
+
+1609	4	1609
+2052	4	1609
+1013	5	1609
+1609	5	1609
+1609	5	1609
+1609	5	1609
+
+
+

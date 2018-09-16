@@ -1,0 +1,47 @@
+
+
+
+a computer analysis method thermal diffusion biochemical systems
+
+in thermal detection rapid biochemical
+reactions correct temperature 
+data transient heat conduction losses cylindrical
+calorimeter handle complexities arising 
+from varying thermal-relaxation times concentric insulating
+layers computer program developed 
+which temperature distribution system
+as function radius time distribution 
+is corrected step subroutine calculates
+the instantaneous chemical state 
+action heat produced reaction 
+ program based direct statement 
+fourier law heat conduction chemical rate
+equation provide bookkeeping law follow 
+the reactants flow heat packets a
+way computer continually stores heat 
+distribution computer analysis method regarded
+as physical laws process 
+are explicitly program results
+in passing mathematical procedures 
+conventionally program tested against
+some known exact solutions heat equation 
+and gave identical results compared experimental
+data known biochemical reaction 
+ construction computer programs based direct
+statement physical laws principle 
+of general applicability applied
+to physical phenomena 
+
+cacm september 1964
+
+davids 
+berger 
+
+ca640908 jb march 9 1978 5 13 pm
+
+1003	5	1003
+1003	5	1003
+1003	5	1003
+
+
+

@@ -1,0 +1,43 @@
+
+
+
+analyzing english syntax pattern-learning parser
+
+a dependency analysis system based pattern
+recognition learning logic developed 
+to infer word classes rules syntactic combination
+from experience text analyzed 
+ characteristics form word classes the
+depth dependency tree word 
+direction governor features for
+each neighbors syntactic rules 
+of combination show relation word governor
+in depth pattern sentence 
+system tested 400 elementary basic english sentences
+including 300 earlier knowlton 
+a learning parser 400 sentences after
+experience 300 sentences able 
+generalize 77 percent accuracy 100 
+ accumulative learning trials 
+200 sentences averaged probability .9 accurately
+parsing sentence encountered 
+ concluded system adequate learning
+to parse bulk basic english 
+further development required conclusions about
+its application ordinary english stored 
+ system operational on
+the arpa sdc time-shared computing system 
+
+cacm november 1965
+
+mcconlogue 
+simmons 
+
+ca651111 jb march 6 1978 4 45 pm
+
+1170	5	1170
+1170	5	1170
+1170	5	1170
+
+
+

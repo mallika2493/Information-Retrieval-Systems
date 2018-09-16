@@ -1,0 +1,32 @@
+
+
+
+a queuing model multiprogrammed
+computer two-level storage system
+
+the results presented analysis of
+a probabilistic model multiprogrammed computer 
+system two-level storage system there
+is sequential dependency accesses 
+devices expressions obtained long-run probability
+that cpu storage 
+devices busy numerical results which
+quantify gains cpu utilization obtainable 
+by multiprogramming presence type storage system 
+
+cacm january 1973
+
+shedler 
+
+multiprogrammed computer system storage system hierarchical index sets
+
+4.32
+
+ca730101 jb january 24 1978 4 55 pm
+
+2560	5	2560
+2560	5	2560
+2560	5	2560
+
+
+

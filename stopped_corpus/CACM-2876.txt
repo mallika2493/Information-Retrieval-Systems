@@ -1,0 +1,53 @@
+
+
+
+intentional resolution privacy protection database systems
+
+traditionally privacy protection database
+systems understood control 
+what information user database 
+ paper concerned independent 
+dimension privacy protection control what
+a user allowed piece information 
+supplied database ability condition
+the supply information intended 
+use called intentional resolution privacy
+protection practical importance intentional 
+resolution demonstrated examples realization
+is discussed shown intentional 
+resolution achieved involves radical
+change traditional approach 
+process user-database interaction 
+it appears database 
+impose amount control internal
+behavior users programs interact 
+it model user-database interaction
+which admits control developed 
+
+cacm march 1976
+
+minsky 
+
+protection database protection programming
+languages privacy security intentional resolution 
+of privacy interaction databases
+
+3.50 3.70 4.20 4.30
+
+ca760304 jb january 4 1978 4 44 pm
+
+2785	4	2876
+2868	4	2876
+2870	4	2876
+2876	4	2876
+2876	4	2876
+3105	4	2876
+3144	4	2876
+2632	5	2876
+2685	5	2876
+2876	5	2876
+2876	5	2876
+2876	5	2876
+
+
+

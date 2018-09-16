@@ -1,0 +1,37 @@
+
+
+
+dynamic computation derivatives
+
+it shown wengert procedure computation
+of derivatives implemented conveniently 
+by compiler-generated complex addition subtraction 
+and linkage complex arithmetic subroutines 
+ evaluation function derivative proceed in
+parallel wengert procedure 
+ imaginary parts variables declared complex bearing
+the values derivatives real parts 
+ technique simple compute the
+derivatives function need 
+deriving programming evaluation of
+explicit formulas derivatives 
+
+cacm september 1967
+
+lesk 
+
+ca670908 jb february 27 1978 3 11 pm
+
+1028	4	1536
+1216	4	1536
+1278	4	1536
+1347	4	1536
+1396	4	1536
+1536	4	1536
+1029	5	1536
+1536	5	1536
+1536	5	1536
+1536	5	1536
+
+
+

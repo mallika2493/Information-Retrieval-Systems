@@ -1,0 +1,28 @@
+
+
+
+a method data list processing application eeg analysis
+
+a set subroutines discussed is
+designed aid programming computations 
+on indexed lists numbers machine language
+or symbolic assembly system commonly 
+performed list operations outlined logically
+arranged groups 
+computation power spectral density autocovariance
+function discussed class eeg 
+signals 
+
+cacm 1965
+
+philpott 
+lago 
+
+ca650516 jb march 7 1978 12 52 pm
+
+1255	5	1255
+1255	5	1255
+1255	5	1255
+
+
+

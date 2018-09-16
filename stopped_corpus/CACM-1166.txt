@@ -1,0 +1,34 @@
+
+
+
+a macros translation symbolic
+assembly language computer another
+
+a set macro-operations prepared
+to assist translating ibm 7090 symbolic assembly 
+language programs ibm 7040 machine language programs 
+ set inserted beginning 
+7090 symbolic deck treats incompatible instruction mnemonics
+as macro-instructions produce equivalent 
+7040 instruction sets incompatible instructions are
+categorized basic operational classes 
+can expressed single basic skeleton levels
+of macro calls required supply arguments 
+to basic skeleton instruction 
+ modification execution time address 
+or tag incompatible instruction requires incorporation
+of address-tag equivalent handled 
+by generating calls simulation subroutines 
+
+cacm december 1965
+
+dellert jr 
+
+ca651203 jb march 6 1978 4 20 pm
+
+1166	5	1166
+1166	5	1166
+1166	5	1166
+
+
+

@@ -1,0 +1,33 @@
+
+
+
+multi-tape infinite-state automata -- survey
+
+a survey machines powerful
+than finite automata powerful general 
+turing machines presented felt machines
+in category closely related 
+digital computers finite automata the
+unrestricted turing machines intermediate machines 
+can created adjoining infinite-state memory
+to finite-state machine performing 
+or 1 restrict manner in
+which unbounded portion memory 
+accessed 2 bound number steps allowed a
+computation increasing recursive function 
+of length input 3 restrict total amount
+of memory manner examples 
+from classes properties discussed 
+
+cacm december 1965
+
+fischer 
+
+ca651215 jb march 6 1978 3 24 pm
+
+1154	5	1154
+1154	5	1154
+1154	5	1154
+
+
+

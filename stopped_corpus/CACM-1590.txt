@@ -1,0 +1,32 @@
+
+
+
+pitch period determination speech sounds
+
+a computer procedure determines pitch
+periods recognition peak structure 
+of speech waveform speech sounds were
+sampled microphone analog-to-digital 
+converter attached interconnected ibm 7090-pdp-1
+system utterances recorded 
+normal noise level computer room not
+band-compressed phase-distorted manner 
+ sequence operations defined speech wave selects
+a list points waveform candidates 
+for pitch markers markers validated by
+an error detection correction procedurebout 
+95 percent pitch periods recognized correctly
+within 1 2 times real-time ibm 7090 
+
+cacm june,1967
+
+reddy 
+
+ca670602 jb february 28 1978 9 42 am
+
+1590	5	1590
+1590	5	1590
+1590	5	1590
+
+
+

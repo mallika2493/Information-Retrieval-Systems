@@ -1,0 +1,39 @@
+
+
+
+a vector space model automatic indexing
+
+in document retrieval pattern matching
+environment stored entities documents 
+are compared incoming patterns
+ search requests appears indexing 
+ property space entity lies away
+from circumstances 
+the indexing system expressible
+as function density object space 
+in retrieval performance correlate inversely
+with space density approach based 
+space density computations choose optimum
+indexing vocabulary collection documents 
+ typical evaluation results shown demonstrating
+the usefulness model 
+
+cacm november 1975
+
+salton 
+wong 
+yang 
+
+automatic information retrieval automatic
+indexing content analysis document space
+
+3.71 3.73 3.74 3.75
+
+ca751101 jb january 6 1978 10 14 am
+
+2711	5	2711
+2711	5	2711
+2711	5	2711
+
+
+

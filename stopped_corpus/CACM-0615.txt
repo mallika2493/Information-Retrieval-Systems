@@ -1,0 +1,38 @@
+
+
+
+addressing multidimensional arrays
+
+a method representing function of
+n variables consider function assume 
+its values selected points n-dimensional space 
+ picture analyst 
+the elements n-dimensional array exist in
+conventional storage linear array vector 
+ means performing transformation set
+of indices locating array element n-space 
+to location address element storage
+vector subject paper noted 
+that index address transformation computationally
+identical conversion number 
+a fixed mixed radix number system ways
+of implementing transformation 
+
+cacm april 1962
+
+hellerman 
+
+ca620402 jb march 20 1978 2 29 pm
+
+435	5	615
+615	5	615
+615	5	615
+615	5	615
+849	5	615
+155	6	615
+196	6	615
+615	6	615
+615	6	615
+
+
+

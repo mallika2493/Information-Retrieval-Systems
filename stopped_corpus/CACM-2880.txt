@@ -1,0 +1,31 @@
+
+
+
+a fast division technique constant divisors
+
+a fast algorithm division constant divisors
+is presented method proved 
+useful implemented microcode ona binary machine 
+and adapted directly hardware 
+mathematical foundations algorithm presented
+as performance measures 
+
+cacm february 1976
+
+artzy 
+hinds 
+saal 
+
+constant divisors division algorithms 
+bit addressable memory microprogram
+
+4.13 4.49 6.32
+
+ca760207 jb january 5 1978 8 48 am
+
+2880	5	2880
+2880	5	2880
+2880	5	2880
+
+
+

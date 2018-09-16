@@ -1,0 +1,31 @@
+
+
+
+a rapid method digital filtering
+
+since computer time spent time-series
+analysis multiplications 
+a minimum multiplication method devised digital
+filtering expectation 
+be line real-time analysis biological
+data filters constructed succession 
+of readily analyzable components manner facilitates
+cascading repertoire frequency 
+response curves includes good low-pass and
+band-pass designs programs 
+implementing synthesis filters and
+their application computers assemblers 
+allow definition recursive macros 
+
+cacm september 1964
+
+whittlesey 
+
+ca640909 jb march 9 1978 5 03 pm
+
+1002	5	1002
+1002	5	1002
+1002	5	1002
+
+
+

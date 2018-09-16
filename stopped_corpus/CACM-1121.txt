@@ -1,0 +1,35 @@
+
+
+
+comments continued operation notation 
+
+this note intended clarify correct
+several points recent paper describing 
+notations symbol manipulation barnett 
+
+cacm march 1964
+
+barnett 
+gerard 
+sambles 
+
+ca640310 jb march 10 1978 2 45 am
+
+1062	4	1121
+1121	4	1121
+1121	4	1121
+1139	4	1121
+1265	4	1121
+1781	4	1121
+659	4	1121
+720	4	1121
+759	4	1121
+964	4	1121
+1121	5	1121
+1121	5	1121
+1121	5	1121
+464	5	1121
+759	5	1121
+
+
+

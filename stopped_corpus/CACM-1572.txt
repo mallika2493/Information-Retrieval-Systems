@@ -1,0 +1,75 @@
+
+
+
+the simulation time sharing systems
+
+the development large scale time-sharing
+systems raised number problems 
+computation center management necessary
+to develop hardware configuration 
+for systems software adjustments
+must made unfortunately systems 
+do respond manner intuition
+would suggest guides assist 
+in analysis performance characteristics the
+development comprehensive simulation model 
+to assist investigation questions is
+described paper resulting model 
+a general purpose design study a
+variety time-sharing systems 
+used assist design development time-sharing
+algorithms techniques sake 
+of efficiency greater applicability model was
+implemented limited fortran subset 
+compatible fortran iv compilers of
+the simulation demonstrated study 
+ibm 360 67 time-sharing system 
+
+cacm july 1967
+
+nielsen 
+
+ca670701 jb february 28 1978 9 15 am
+
+1572	5	1572
+1572	5	1572
+1572	5	1572
+1805	5	1572
+1846	5	1572
+1892	5	1572
+2188	5	1572
+2218	5	1572
+2317	5	1572
+1198	6	1572
+1380	6	1572
+1380	6	1572
+1424	6	1572
+1484	6	1572
+1518	6	1572
+1526	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1693	6	1572
+1728	6	1572
+1728	6	1572
+1748	6	1572
+1749	6	1572
+1751	6	1572
+1751	6	1572
+1753	6	1572
+1752	6	1572
+1752	6	1572
+1781	6	1572
+1810	6	1572
+1879	6	1572
+2095	6	1572
+2126	6	1572
+2148	6	1572
+576	6	1572
+
+
+

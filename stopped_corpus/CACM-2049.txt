@@ -1,0 +1,32 @@
+
+
+
+accurate floating-point summation
+
+this paper describes alternate method summing set
+of floating-point numbers comparison error bound for
+this method standard summation method shows it
+is considerably sensitive propagation round-off error 
+
+cacm june 1970
+
+linz 
+
+summation floating-point addition 
+round-off error round-off propagation
+
+5.11
+
+ca700606 jb february 13 1978 11 36 am
+
+2049	5	2049
+2049	5	2049
+2049	5	2049
+2183	5	2049
+2282	5	2049
+1328	6	2049
+2049	6	2049
+2049	6	2049
+
+
+

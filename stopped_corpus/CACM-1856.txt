@@ -1,0 +1,95 @@
+
+
+
+the teachable language comprehender 
+a simulation program theory language
+
+the teachable language comprehender tlc is
+a program designed capable taught 
+to comprehend english text text program
+has seen input comprehends 
+that text correctly relating explicit implicit 
+assertion text large memory 
+ memory semantic network representing factual
+assertions world program 
+creates copies parts memory have
+been found relate text adapting 
+combining copies represent meaning the
+new text means meaning text 
+the program successfully comprehends encoded into
+the format memory 
+form added memory factual
+assertions memory capabilities 
+correctly relating text memory prior content
+are taught program needed 
+ tlc presently small number of
+examples assertions capabilities 
+within system notations expressing these
+are provided program corresponds 
+to general process comprehending language and
+it methodology adding additional 
+information process requires actually comprehend
+text kind memory structure 
+and comprehension process tlc allow factual assertions
+and capabilities relating text 
+stored assertions generalize that
+is assertion capability put 
+into system help comprehend
+a great sentences future 
+ addition single factual assertion or
+linguistic capability provide large 
+increment tlc effective knowledge world and
+in ability comprehend text 
+program strategy presented general theory language comprehension 
+
+cacm august,1969
+
+quillian 
+
+natural language processing natural language comprehension 
+teachable computer program psychological 
+simulation human memory simulation computer
+linguistics linguistic performance theory
+
+3.36 3.42 3.62 3.65 3.74
+
+ca690807 jb february 15 1978 5 46 pm
+
+1155	4	1856
+1350	4	1856
+1456	4	1856
+1468	4	1856
+1515	4	1856
+1659	4	1856
+1699	4	1856
+1856	4	1856
+1856	4	1856
+1856	4	1856
+2050	4	1856
+2127	4	1856
+1225	5	1856
+1324	5	1856
+1553	5	1856
+1856	5	1856
+1856	5	1856
+1856	5	1856
+2127	5	1856
+2309	5	1856
+2310	5	1856
+2396	5	1856
+1155	6	1856
+1324	6	1856
+1487	6	1856
+1487	6	1856
+1527	6	1856
+1781	6	1856
+1856	6	1856
+1856	6	1856
+1856	6	1856
+1856	6	1856
+2092	6	1856
+2127	6	1856
+2398	6	1856
+
+
+

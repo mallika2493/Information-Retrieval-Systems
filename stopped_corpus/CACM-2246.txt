@@ -1,0 +1,34 @@
+
+
+
+levels language portable software
+
+an increasing amount software being
+implemented portable form popular 
+accomplishing encode software specially
+designed machine-independent language 
+then map language macro processor 
+into assembly language desired 
+object machine design machine-independent
+language key factor operation 
+ paper discusses relative merits pitching
+this language high level low level 
+presents comparative results 
+
+cacm december 1972
+
+brown 
+
+portable software level language machine
+independent macro processor efficiency
+
+4.12 4.21 4.22
+
+ca721209 jb january 27 1978 11 02 am
+
+2246	5	2246
+2246	5	2246
+2246	5	2246
+
+
+

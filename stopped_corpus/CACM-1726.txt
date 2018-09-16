@@ -1,0 +1,51 @@
+
+
+
+preliminary investigation techniques
+for automated reading unformatted text
+
+methods converting unstructured printed
+material computer code experimentally 
+investigated operator-controlled mode depending
+on human demarcation regions 
+the page guiding scanner implemented by
+means joystick crt display mode 
+for performance figures obtained thought
+to suitable processing complicated 
+material technical journals simpler material 
+for instance claims sections patents 
+and applications utmost accuracy 
+an unsupervised mode advocated 
+the textual portions page located during
+a rapid prescan rudimentary form frequency 
+analysis areas rescanned higher
+resolution suitable character recognition 
+ error rates order 0.1 percent obtained in
+a simple problem involving photographs telephone 
+company meter boards matters related the
+design general purpose page reader 
+the segmentation printed text possibility of
+time-sharing scanner interactive man-machine 
+operation facsimile reproduction illustrations discussed 
+
+cacm july 1968
+
+nagy 
+
+pattern recognition character recognition text
+reading information retrieval unformatted text 
+operator-controlled reader online reader 
+text-image discrimination reading machine
+
+3.63 3.79 3.89 6.29 6.35
+
+ca680703 jb february 22 1978 2 52 pm
+
+1726	5	1726
+1726	5	1726
+1726	5	1726
+2370	5	1726
+1726	6	1726
+
+
+

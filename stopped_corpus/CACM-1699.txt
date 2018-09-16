@@ -1,0 +1,60 @@
+
+
+
+experimental evaluation information
+retrieval teletypewriter
+
+experiments designed evaluate capabilities
+of mechanized information retrieval systems 
+with emphasis interactive man-machine language on
+some mechanical psychological limitations 
+in design conducted moore school information
+systems laboratory basic assumption 
+of research information retrieval system
+that man-machine dialogue remote 
+inquiry terminal provide searcher many
+of tools 
+he actually performing search library repository
+of documents factors involved evaluation 
+of system include ease learning time and
+effectiveness actual retrieval experiments 
+and conclusions resulting detailed 
+
+cacm september 1968
+
+rubinoff 
+bergman 
+franks 
+rubinoff 
+
+information retrieval testing information system
+evaluation experimental document retrieval 
+document retrieval document perusal man-machine communication 
+remote console communication teletypewriter 
+communication remote terminal communication retrieval
+command language symbolic command language 
+interactive systems user learning factors on-line searching
+
+3.72 3.74 3.79 3.81
+
+ca680902 jb february 22 1978 9 30 am
+
+1155	4	1699
+1456	4	1699
+1468	4	1699
+1515	4	1699
+1681	4	1699
+1699	4	1699
+1699	4	1699
+1699	4	1699
+1856	4	1699
+2127	4	1699
+1194	5	1699
+1324	5	1699
+1681	5	1699
+1699	5	1699
+1699	5	1699
+1699	5	1699
+
+
+

@@ -1,0 +1,35 @@
+
+
+
+the application sequential sampling
+to simulation inventory model
+
+four sequential sampling procedures applied
+to analysis data generated computer simulation
+experiment multi-item inventory model procedure
+the cost computer time required achieve levels of
+statistical precision calculated cost computer time
+using comparable fixed sample size methods calculated the
+computer costs fixed sample size procedures versus
+sequential sampling procedures compared 
+
+cacm 1970
+
+sasser 
+burdick 
+graham 
+naylor 
+
+simulation inventory models sequential
+sampling models experimental design
+
+3.31 3.50 3.54 5.5
+
+ca700504 jb february 13 1978 2 11 pm
+
+2062	5	2062
+2062	5	2062
+2062	5	2062
+
+
+

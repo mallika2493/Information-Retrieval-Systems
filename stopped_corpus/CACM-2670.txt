@@ -1,0 +1,32 @@
+
+
+
+efficient implementation variable projection
+algorithm nonlinear squares problems
+
+nonlinear squares frequently arise which
+the variables solved separated 
+into linear nonlinear part variable projection
+algorithm developed recently 
+is designed take advantage structure problem
+whose variables separate 
+paper slightly efficient slightly more
+general version algorithm appeared 
+earlier 
+
+cacm march 1974
+
+krogh 
+
+nonlinear squares parameter estimation variable projection
+
+5.14 5.15
+
+ca740313 jb january 18 1978 10 49 am
+
+2670	5	2670
+2670	5	2670
+2670	5	2670
+
+
+

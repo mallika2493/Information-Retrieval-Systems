@@ -1,0 +1,43 @@
+
+
+
+proving termination multiset orderings
+
+a common tool proving termination programs well-founded
+set set ordered admit infinite descending sequences 
+the basic approach find termination function maps
+the values program variables well-founded set 
+such termination function repeatedly reduced
+throughout computation termination functions required 
+are difficult find complexity out
+of proportion program consideration multisets bags 
+over well-founded set sets admit multiple occurrences
+of elements ordering induces
+an ordering finite multisets multiset ordering
+is shown well-founded multiset ordering enables the
+use simple intuitive termination functions otherwise
+difficult termination proofs multiset
+ordering prove termination production systems 
+programs defined terms sets rewriting rules 
+
+cacm august 1979
+
+dershowitz 
+manna 
+
+program correctness program termination program verification well-founded
+orderings well-founded sets multisets bags production systems 
+term rewriting systems tree replacement systems reduction rules
+
+5.24 5.7
+
+ca790803 db january 4 1980 3 44 pm
+
+3157	4	3157
+3014	5	3157
+3157	5	3157
+3157	5	3157
+3157	5	3157
+
+
+

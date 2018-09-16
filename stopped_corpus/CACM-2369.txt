@@ -1,0 +1,38 @@
+
+
+
+hidden lines elimination rotating object
+
+a method presented determining which
+parts three-dimensional objects visible 
+which invisible objects rotated about
+some axis paper describes polygon comparison 
+scheme relationships polygons can
+be classified tree types discusses 
+how relationship changed pair polygons
+under rotation axis rotation 
+table defined pair polygons remains
+fixed long rotation axis 
+and means rapidly determining visible
+and hidden line relationship polygons 
+ additional work extend approach
+to simultaneous rotation axes 
+
+cacm april 1972
+
+matsushita 
+
+hidden line problem display programming computer
+graphics displays graphics computer drawn 
+picture
+
+4.40 4.41 4.49
+
+ca720404 jb january 31 1978 1 40 pm
+
+2369	5	2369
+2369	5	2369
+2369	5	2369
+
+
+

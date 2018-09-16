@@ -1,0 +1,55 @@
+
+
+
+subexpression ordering execution arithmetic expressions
+
+an arithmetic expression broken
+down component subexpressions depending 
+on hardware environment expression is
+to executed subexpressions evaluated 
+in serials parallel combination these
+modes paper shows expression execution 
+time minimized consideration to
+the ordering subexpressions 
+subexpressions executed order decreasing
+memory processor time requirements 
+observation valid configurations ranging from
+a uniprocessor unbuffered main memory 
+multiprocessor cache buffer memory the
+number subexpressions executed 
+parallel exceeds number processors 
+then execution subexpressions 
+be postponed procedure combines this
+requirement earlier ordering considerations 
+to provide optimal execution sequence 
+
+cacm july 1971
+
+ramamoorthy 
+gonzalez 
+
+parallel processing cache arithmetic expressions 
+subexpression ordering computational trees 
+compilers
+
+4.12 4.32
+
+ca710707 jb february 2 1978 4 49 pm
+
+1781	4	2175
+1807	4	2175
+1934	4	2175
+2175	4	2175
+2175	4	2175
+2175	4	2175
+1551	5	2175
+1613	5	2175
+1886	5	2175
+2175	5	2175
+2175	5	2175
+2175	5	2175
+2413	5	2175
+2175	6	2175
+
+
+

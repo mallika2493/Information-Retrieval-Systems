@@ -1,0 +1,51 @@
+
+
+
+using synthetic images register real images surface models
+
+a number image analysis tasks benefit
+from registration image model 
+the surface imaged automatic navigation visible
+light radar images requires exact alignment 
+of images digital terrain models addition 
+automatic classification terrain 
+satellite imagery requires alignment deal correctly
+with effects varying sun angle 
+surface slope inspection techniques certain
+industrial parts improved means 
+we achieve required alignment matching real
+image synthetic image obtained surface 
+model known positions light sources the
+synthetic image intensity calculated 
+reflectance map convenient describing surface reflection
+as function surface gradient 
+ illustrate technique landsat images digital terrain models 
+
+cacm november 1978
+
+horn 
+bachman 
+
+image registration synthetic images surface models 
+automatic hill shading digital terrain models 
+image transformation image matching shaded images 
+
+3.63 3.11 3.14 8.2 3.83
+
+ca781104 dh january 26 1979 11 16 am
+
+2816	4	3047
+2816	4	3047
+2828	4	3047
+2827	4	3047
+2913	4	3047
+3047	4	3047
+3047	4	3047
+2751	5	3047
+2829	5	3047
+3047	5	3047
+3047	5	3047
+3047	5	3047
+
+
+

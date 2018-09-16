@@ -1,0 +1,45 @@
+
+
+
+a graph formulation school scheduling algorithm
+
+the problem classically titled examination
+schedule problem takes forms 
+literature formulations presented
+in terminology classical network theory 
+ formulation nondirected network 
+partition nodes minimal number 
+subsets members subset
+are connected anarc obvious lower limit 
+to number size largest strongly connected
+subgraph kirchgassner proved upper 
+limit size logical extension of
+the previous work introduction variable 
+length examinations number periods
+for exam object paper generalize 
+the definition largest strongly connected subgraph
+to include weighting nodes present 
+approximate algorithm finds largest
+strongly connected subgraph discuss 
+application algorithm solution of
+school scheduling exam scheduling problems 
+
+cacm december 1974
+
+salazar 
+oakford 
+
+scheduling school scheduling examination scheduling 
+nondirected network graph subgraph strongly 
+connected subgraph
+
+3.51 3.52
+
+ca741206 jb january 13 1978 4 37 pm
+
+2568	5	2568
+2568	5	2568
+2568	5	2568
+
+
+

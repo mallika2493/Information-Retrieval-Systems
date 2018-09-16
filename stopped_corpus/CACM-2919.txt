@@ -1,0 +1,52 @@
+
+
+
+the programmer workbench-a machine software development
+
+on software development projects the
+assumption made program development 
+function machine the
+eventual system run 
+production machine unavailable programming
+environment totally inadequate alternatives 
+are considered paper suggested that
+there situations 
+advantageous separate program development and
+main tenance function specialized computer 
+which dedicated purpose computer
+is called programmer workbench 
+basic sections paper troduce subject outline
+the general concept discuss areas 
+an approach prove beneficial describe
+an operational system utilizing concept 
+
+cacm october 1977
+
+ivie 
+
+computer configurations computer networks software
+development software engineering software 
+main tenance unix
+
+3.2 3.5 3.7 3.8 4.0
+
+ca771007 jb december 27 1977 10 37 am
+
+2626	4	2919
+2786	4	2919
+2840	4	2919
+2919	4	2919
+2919	4	2919
+2919	4	2919
+3017	4	2919
+3110	4	2919
+3174	4	2919
+2536	5	2919
+2593	5	2919
+2629	5	2919
+2919	5	2919
+2919	5	2919
+2919	5	2919
+
+
+

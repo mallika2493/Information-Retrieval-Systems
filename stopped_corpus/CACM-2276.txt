@@ -1,0 +1,48 @@
+
+
+
+computer methods sampling from
+the exponential normal distributions
+
+various methods known transforming uniformly
+distributed random numbers exponentially
+and distributed quantities efficient
+ones compared terms memory requirements 
+and speed algorithms number procedures
+convert taylor series expansions directly 
+into sampling steps approach for
+sampling continuous distribution 
+the exponential distribution definite recommendation
+can made case normal 
+distribution remains choice slower and
+shorter algorithms faster space consuming 
+methods 
+
+cacm october 1972
+
+ahrens 
+dieter 
+
+random numbers pseudorandom normal distribution 
+exponential distribution exponential distribution 
+simulation numerical analysis
+
+3.29 3.57 5.11 5.5
+
+ca721002 jb january 27 1978 3 55 pm
+
+1073	4	2276
+2137	4	2276
+2276	4	2276
+2276	4	2276
+1073	5	2276
+1153	5	2276
+2276	5	2276
+2276	5	2276
+2276	5	2276
+2565	5	2276
+1716	6	2276
+2276	6	2276
+
+
+

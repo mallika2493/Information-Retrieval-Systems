@@ -1,0 +1,32 @@
+
+
+
+some theorems aid solving allocation problem
+
+the allocation problem-i problem
+of finding optimal set network sites 
+which locate copies file-is known general 
+polynomial complete heuristics 
+aids finding optimal near-optimal solutions are
+therefore needed paper present 
+three theorems applied priori indicate
+that sites 
+included optimal allocation 
+
+cacm november 1977
+
+grapa 
+belford 
+
+file allocation computer networks distributed data management
+
+4.33
+
+ca771116 jb december 27 1977 8 45 am
+
+2900	5	2900
+2900	5	2900
+2900	5	2900
+
+
+

@@ -1,0 +1,44 @@
+
+
+
+extremely portable random number generator
+
+extremely portable subroutines sometimes
+needed moderate quality efficiency 
+suffice typically occurs library functions
+ random number generation core sorting 
+which entirely universal a
+standardized literature random number 
+generators algorithm that
+meets requirements sort extremely 
+portable 8-line fortran program provided based
+on important paper coveyou macpherson 
+ 1967 sing methods fourier analysis applied
+to probability function consecutive 
+n-tuples provided generator than
+or equal 4 small modulus 
+be maintain portability prevents quality
+of generator high generator 
+compares bounds established mentioned paper 
+
+cacm february 1969
+
+kruskal 
+
+random number generators random numbers random
+number analysis random generators linear sequential 
+generators random number program pseudo random numbers 
+
+4.49 5.19 5.5
+
+ca690208 jb february 20 1978 10 43 am
+
+1930	5	1930
+1930	5	1930
+1930	5	1930
+2115	5	1930
+1691	6	1930
+1930	6	1930
+
+
+

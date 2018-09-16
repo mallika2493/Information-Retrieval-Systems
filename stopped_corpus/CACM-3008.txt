@@ -1,0 +1,48 @@
+
+
+
+preserving average proximity arrays
+
+programmers data structure designers often
+forced choose alternative structures 
+ storing structures preserving logical adjacencies
+or proximity important consideration 
+ combinatorial problem storing arrays various
+kinds list structures examined embeddings 
+of graphs model loss proximity involved
+in storage schemes elementary 
+proof arrays stored linear lists with
+bounded loss proximity presented average 
+loss proximity considered shown
+that arrays stored linear lists 
+only bounded loss average proximity so
+stored binary trees result implies 
+for instance row major order asymptotically
+optimal storage strategy arrays 
+
+cacm march 1978
+
+demillo 
+eisenstat 
+lipton 
+
+arrays graph embedding linear lists 
+proximity average proximity trees
+
+4.34 5.24 5.25 5.32
+
+ca780305 jb march 28 1978 1 07 pm
+
+1050	4	3008
+1102	4	3008
+378	4	3008
+3008	4	3008
+731	4	3008
+798	4	3008
+209	5	3008
+3008	5	3008
+3008	5	3008
+3008	5	3008
+
+
+

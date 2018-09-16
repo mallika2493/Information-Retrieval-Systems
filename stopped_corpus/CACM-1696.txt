@@ -1,0 +1,33 @@
+
+
+
+an algorithm identifying ergodic subchains
+and transient states stochastic matrix
+
+an algorithm identifying ergodic subchains
+and transient states stochastic matrix
+is presented applications markov renewal programming
+and construction variable length 
+codes reviewed updating procedure dealing
+with sequences stochastic matrices 
+is discussed computation times investigated experimentally
+and compared recently 
+propose method 
+
+cacm september 1968
+
+fox 
+landi 
+
+stochastic matrix ergodic chain identification
+
+5.39 5.5
+
+ca680905 jb february 22 1978 9 04 am
+
+1696	5	1696
+1696	5	1696
+1696	5	1696
+
+
+

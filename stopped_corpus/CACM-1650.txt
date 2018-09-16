@@ -1,0 +1,41 @@
+
+
+
+a unifying computational method the
+analysis complete factorial experiments
+
+a computational method for
+the calculation sums squares analysis 
+of variance complete factorial experiments in
+the computation main effect interaction means 
+is method elucidated unifying since
+one method variety purposes 
+each previously requiring methods programming
+advantages method obvious 
+ variants discussed 1 standard
+analysis variance 2 analyses omitting 
+levels factors 3 separate analyses
+for levels factor combinations 
+of levels factor performed
+simultaneously 4 calculation main effect 
+or interaction means mean expects data standard
+order leaves data order 
+so analyses data performed
+without rearrangement total sum squares 
+excluding replication sum squares partitioned
+into polynomial partitions interactions 
+each degree freedom even
+if factors unequally spaced factor levels 
+
+cacm january 1967
+
+cooper 
+
+ca670105 jb february 28 1978 4 49 pm
+
+1650	5	1650
+1650	5	1650
+1650	5	1650
+
+
+

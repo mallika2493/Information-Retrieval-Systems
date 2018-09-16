@@ -1,0 +1,33 @@
+
+
+
+a syntactic algorithm peak detection
+in waveforms applications cardiography
+
+peaks digitized waveform detected an
+algorithm incorporating piecewise linear approximation 
+and tabular parsing techniques parameters serve
+to identify waveform context enabling accurate 
+measurement peak amplitude duration shape the
+algorithm sufficient speed allow on-line 
+real-time processing application
+is demonstrated electrocardiogram 
+
+cacm 1975
+
+horowitz 
+
+peak detection digitized waveform piecewise linear
+approximation context-free grammar bottom-up 
+parsing electrocardiogram 
+
+3.12 3.24 3.34 3.63 4.19 5.13 5.23
+
+ca750513 jb january 9 1978 2 18 pm
+
+2754	5	2754
+2754	5	2754
+2754	5	2754
+
+
+

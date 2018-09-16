@@ -1,0 +1,43 @@
+
+
+
+storage retrieval aspects meaning directed graph structures
+
+an experimental system lisp make
+a conceptual dictionary dictionary 
+associates english word syntactic information 
+definitional material references 
+the contexts define words 
+ relations class inclusion possession 
+and active passive actions definitional
+material resulting structure serves 
+powerful vehicle research logic question answering 
+ examples methods inputting information 
+and answering simple english questions an
+important conclusion lisp 
+other list processing languages ideally suited for
+producing complex associative structures 
+are inadequate vehicles language processing any
+large scale-at east auxiliary 
+memory continuous extension core memory 
+
+cacm march 1966
+
+simmons 
+
+ca660316 jb march 3 1978 11 25 am
+
+1155	4	1456
+1456	4	1456
+1468	4	1456
+1515	4	1456
+1699	4	1456
+1856	4	1456
+2127	4	1456
+1324	5	1456
+1456	5	1456
+1456	5	1456
+1456	5	1456
+
+
+

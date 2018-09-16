@@ -1,0 +1,49 @@
+
+
+
+plexus-an on-line system modeling neural networks
+
+a description presented plexus system
+which enables user construct 
+a neural network analyze output data produced
+by network store retrieve networks 
+and data library system operated entirely
+from digital display unit interacts directly 
+with user permits easy rapid transitions
+between phases modeling process 
+ plexus designed complement neurophysiological research
+so systematic development neural 
+models coordinated experimental work plexus
+networks built components representing 
+individual neurons external stimuli interconnecting
+fibers component 
+detailed nature provision made of
+experimental data input network convenient 
+means specification modification network and
+extensive error-checking capabilities provided 
+data resulting simulation network be
+analyzed variety techniques ranging 
+examinations gross characteristics data to
+the determination detailed statistical properties 
+
+cacm september 1968
+
+dill 
+randall 
+richer 
+
+biological modeling data analysis discrete system
+simulation library systems modeling network 
+simulation neural networks neurophysiological
+models on-line simulation simulation
+
+3.12 3.19 3.29 3.65
+
+ca680906 jb february 22 1978 8 56 am
+
+1695	5	1695
+1695	5	1695
+1695	5	1695
+
+
+

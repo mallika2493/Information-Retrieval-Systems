@@ -1,0 +1,42 @@
+
+
+
+use disk stretch
+
+the paper begins briefly describing the
+stretch ibm 7030 computer special emphasis 
+given organization operation input-output
+equipment physical characteristics 
+two-disk system 4,194,304 72-bit words 8 usec-per-word
+transmission rate noted timing 
+limitations due arm motion disk rotation discussed 
+ applications disk usage discussed 
+separately problem programs systems programs
+such compilers supervisory program 
+approximately 260,000 words disk storage reserved
+for storage systems programs 
+subroutine library problem programs not
+currently filed disk programming 
+techniques discussed transmitting words between
+disk core storage minimum delaying 
+interruption arithmetic unit dumps disk are
+considered recovery computer malfunction 
+and mathematical physical developments during
+the calculation comments made regarding 
+the reliability economics utility weaknesses or
+limitations disk system 
+future applications noted disk connotations 
+
+cacm october 1963
+
+carlson 
+voorhes 
+
+ca631030 jb march 13 1978 4 28 pm
+
+695	5	695
+695	5	695
+695	5	695
+
+
+

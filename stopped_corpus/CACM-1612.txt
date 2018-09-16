@@ -1,0 +1,31 @@
+
+
+
+top-to-bottom parsing rehabilitated 
+
+this note concerned efficiency
+of top-to-bottom parsing algorithm 
+connection programming language grammars is
+shown instance retracing unprofitable 
+paths eliminated suitable rearrangement
+of productions defining grammar 
+essential weakness method dealing complicated
+syntactic structures practice 
+only sparsely occupied arithmetic expressions 
+
+cacm april 1967
+
+brooker 
+
+ca670403 jb february 28 1978 11 32 am
+
+1612	4	1612
+1781	4	1612
+1945	4	1612
+1139	5	1612
+1612	5	1612
+1612	5	1612
+1612	5	1612
+
+
+

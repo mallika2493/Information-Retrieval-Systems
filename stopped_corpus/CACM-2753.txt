@@ -1,0 +1,57 @@
+
+
+
+a heuristic problem solving design system
+for equipment furniture layouts
+
+the designer problem solver dps demonstrates
+that computer perform simple design 
+tasks designs furniture equipment
+layouts task chosen 
+simple defined characteristic design
+tasks architecture engineering urban planning 
+and natural resource management space planning
+tasks involve manipulating two-dimensional 
+representations objects create feasible optimal
+solutions problems involving topological 
+and metric spatial constraints paper describes
+extensive tests performed program dps 
+a heuristic problem solver planning phase prefixed
+to planning process give 
+it sense direction diagnostic procedures locate
+difficulties remedial actions recover 
+from difficulties convex polygon representation
+to accurately describe objects 
+layout representation topological and
+metric constraints tested design 
+be easily updated dps applied 50 problems 
+ slow limited scope 
+ideas general demonstrates need
+for selectivity controlling search 
+methods achieve task-specific information 
+planning diagnostic procedures remedial actions 
+and selective alternative generators 
+
+cacm 1975
+
+pfefferkorn 
+
+artificial intelligence computer-aided design 
+design synthesis diagnostic search heuristics 
+planning problem solving representations search strategies 
+space planning spatial representations
+
+3.20 3.25 3.64 3.66
+
+ca750514 jb january 9 1978 2 10 pm
+
+1531	4	2753
+2707	4	2753
+2753	4	2753
+1185	5	2753
+2753	5	2753
+2753	5	2753
+2753	5	2753
+
+
+

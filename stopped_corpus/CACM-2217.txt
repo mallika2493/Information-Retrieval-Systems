@@ -1,0 +1,55 @@
+
+
+
+experiments automatic learning multipurpose heuristic program
+
+an automatic learning capability developed
+and implemented multiple 
+ multipurpose program learns heuristic tree-searching
+program presently applied 
+to resolution theorem-proving predicate calculus 
+multiple proving program pp evaluation 
+functions guide search proof whether
+or goal achievable thirteen 
+general features predicate calculus clauses created
+for automatic learning 
+evaluation functions pp multiple regression
+program produce optimal coefficients 
+for linear polynomial functions terms features 
+ automatic data-handling routines 
+written passing data learning program
+and proving program analyzing 
+summarizing results data generally collected for
+learning regression analysis experience 
+of pp number experiments performed test
+the effectiveness generality learning 
+program results showed learning produced dramatic
+improvements solutions problems 
+which domain collection
+learning data learning shown 
+generalize successfully domains used
+for data collection experiment demonstrated 
+that learning program simultaneously improve
+performance problems specific domain 
+on problems variety domains variations
+of learning program tested 
+
+cacm february 1971
+
+slagle 
+farrell 
+
+learning theorem-providing heuristic automatic
+learning self-modifying tree-searching artificial 
+intelligence problem-solving adaptive lisp multiple regression resolution
+
+3.62 3.64
+
+ca710204 jb february 8 1978 9 33 am
+
+2217	5	2217
+2217	5	2217
+2217	5	2217
+
+
+

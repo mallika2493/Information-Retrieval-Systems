@@ -1,0 +1,36 @@
+
+
+
+pert time calculations topological ordering
+
+a simplified technique presented pert
+time calculations topological ordering 
+ event assigned unique memory location activity
+is represented link link defined 
+as memory location address another
+memory location time information 
+activity carried link typical net 
+the majority activities 
+one 36-bit cell remainder 36-bit
+cells links unidirectional forward 
+during calculation expected completion time for
+an activity backward calculation 
+ time latest allowable completion activity 
+the calculations progress net topologically 
+even net represented topologically core 
+
+cacm march 1965
+
+lass 
+
+ca650312 jb march 7 1978 6 00 pm
+
+1295	5	1295
+1295	5	1295
+1295	5	1295
+1611	5	1295
+1295	6	1295
+340	6	1295
+
+
+

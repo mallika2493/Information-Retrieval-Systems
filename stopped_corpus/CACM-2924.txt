@@ -1,0 +1,45 @@
+
+
+
+an interactive computer graphics approach surface representation
+
+an teractive computer graphics method been
+developed rapid generation arbitrary 
+shaped three-dimensional surfaces method synthesis
+of spline theory algorithms teractive 
+means man-machine communication software for
+static dynamic graphics display basic 
+technique employed modified lofting method on
+which sectional curves represented uniform 
+b-splines surface terpolated sections
+by cardinal splines features 
+this method algorithms enable teractive
+modification b-spline representation 
+sectional curves stages process the
+spatial information graphically displayed 
+the user complex surfaces created combination
+of number shapes separately 
+generated joined system been
+successfully terfaced variety analytical 
+routines structural medical graphical applications 
+
+cacm october 1977
+
+wu sheng-chuan
+abel 
+greenberg 
+
+computer graphics three-dimensional surface representation 
+splines lofting finite element input 
+methods
+
+3.20 3.23 3.34 8.1 8.2
+
+ca771002 jb december 27 1977 11 53 am
+
+2924	5	2924
+2924	5	2924
+2924	5	2924
+
+
+

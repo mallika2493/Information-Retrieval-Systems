@@ -1,0 +1,52 @@
+
+
+
+sp system teaching computer programming
+
+sp compatible subset pl language
+that designed teaching programming 
+the features sp language chosen encourage
+structured problem solving computers 
+make language easy learn eliminate
+confusing redundant constructs make 
+the language easy compile resulting language
+is suitable troducing programming concepts 
+used applications including business data
+processing scientific calculations non-numeric 
+computation sp actually sequence language
+subsets called sp 1 sp 2 8 subset 
+in troduces programming language constructs while
+retaining constructs preceding subsets 
+each subset precisely defined learned
+or implemented subsets 
+
+cacm 1977
+
+holt 
+wortman 
+barnard 
+cordy 
+
+programmer education universities community colleges 
+high schools pl sp minicomputers 
+programming language design teaching programming troductory computing
+
+1.5 4.2 4.12 4.13
+
+ca770501 jb december 29 1977 4 40 am
+
+2708	4	2971
+2820	4	2971
+2971	4	2971
+2971	4	2971
+2971	4	2971
+3045	4	2971
+1835	5	2971
+1974	5	2971
+2534	5	2971
+2971	5	2971
+2971	5	2971
+2971	5	2971
+
+
+

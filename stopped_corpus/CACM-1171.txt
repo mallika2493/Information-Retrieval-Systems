@@ -1,0 +1,32 @@
+
+
+
+a comparison primal-simplex primal-dual
+algorithms linear programming
+
+a statistical comparison primal-dual
+and commonly primal-simplex algorithm 
+for solving linear programming problems made under
+the assumption starting full artificial 
+basis conditions primal-dual method
+shows statistically significant superiority 
+randomly generated problems found via
+a regression analysis relevant parameters 
+in determining difference number iterations
+between algorithms number 
+of constraints number variables but
+also ratio 
+
+cacm november 1965
+
+mueller 
+cooper 
+
+ca651110 jb march 6 1978 4 50 pm
+
+1171	5	1171
+1171	5	1171
+1171	5	1171
+
+
+

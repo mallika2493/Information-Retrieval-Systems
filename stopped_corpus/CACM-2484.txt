@@ -1,0 +1,42 @@
+
+
+
+a note information organization storage
+
+since logical structure data base
+can represented tree graph 
+natural view process designing data
+base constructing tree graph 
+ general method constructing tree graph
+is provided important elements 
+in general construction method set of
+binary relations algorithm constructing 
+subsets set algorithm selecting an
+element set objects 
+different relations algorithms results different
+information structures list tree ring 
+etc problem information organization and
+storage reduced defining relations 
+and formulating algorithms set constraints 
+ results presented valuable 
+designers design concepts serve as
+a basis developing formal theory subject 
+
+cacm july 1973
+
+huang 
+
+data base data-base management information retrieval 
+information structure organization 
+storage allocation tree graph
+
+3.70 3.73 3.74 5.32
+
+ca730702 jb january 23 1978 1 14 pm
+
+2484	5	2484
+2484	5	2484
+2484	5	2484
+
+
+

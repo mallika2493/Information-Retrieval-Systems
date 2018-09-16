@@ -1,0 +1,34 @@
+
+
+
+fast finite-difference solution biharmonic problems
+
+setting reynolds number equal in
+a method solving navier-strokes equations 
+numerically results fast numerical method for
+biharmonic problems equation treated 
+a system order equations simple
+smoothing process essential convergence 
+an application made crack-type problem 
+
+cacm 1972
+
+greenspan 
+schultz 
+
+numerical analysis partial differential equations 
+biharmonic equation boundary problem
+
+5.17
+
+ca720507 jb january 31 1978 9 43 am
+
+2352	4	2353
+2353	4	2353
+2094	5	2353
+2353	5	2353
+2353	5	2353
+2353	5	2353
+
+
+

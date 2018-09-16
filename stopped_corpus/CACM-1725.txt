@@ -1,0 +1,50 @@
+
+
+
+a simple proof lewin ordered-retrieval
+theorem associative memories
+
+an efficient method ordered retrieval binary
+words associative memory described
+by lewin based special readout circuits
+which digit values present 
+the individual digit columns memory the
+circuits individual digit 
+columns digits values one
+value digits 
+memory empty circuits which
+in paper termed column indicators 
+reduces considerably number memory accesses necessary
+to retrieve order number distinct 
+words memory lewin proves readout
+by method distinct binary 
+words 2m - 1 memory accesses he
+proves number memory accesses 
+of method unlike methods independent
+of word length paper 
+simple proof theorem derived elementary
+aspects structure sets binary 
+numbers presented 
+
+cacm july 1968
+
+wolinsky 
+
+associative memories content-addressed memories 
+ordered lists ordered information retrieval 
+ordered retrieval theorem column digit values digit
+value variety column sensing arrangement digit 
+value readout digit variety readout memory access memory
+access frequency ordered retrieval efficiency 
+access frequency proof retrieval theorem proof
+
+3.74 3.79 5.29 5.31 6.31 6.36
+
+ca680704 jb february 22 1978 12 24 pm
+
+1725	5	1725
+1725	5	1725
+1725	5	1725
+
+
+

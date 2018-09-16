@@ -1,0 +1,41 @@
+
+
+
+a correctness proof topology information
+main tenance protocol distributed computer 
+network
+
+in order nodes distributed computer
+network communicate node 
+information network topology nodes
+and links crash scheme needed 
+to update information major constrain ts
+on topology information scheme 
+it involve central controller topology
+information protocol implemented 
+merit computer network presented explained this
+protocol general implemented 
+on computer network based baran hot
+potato heuristic routing doctrine correctness 
+proof topology information protocol presented 
+
+cacm july 1977
+
+tajibnapis 
+
+distributed computer network correctness proofs 
+computer networks distributed control network 
+topology routing problem networks distributed operating
+system store forward packet switching 
+store forward message switching traffic control
+
+3.81 4.32
+
+ca770703 jb december 28 1977 11 59 am
+
+2949	5	2949
+2949	5	2949
+2949	5	2949
+
+
+

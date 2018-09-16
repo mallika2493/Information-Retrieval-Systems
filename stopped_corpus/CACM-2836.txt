@@ -1,0 +1,32 @@
+
+
+
+weighted derivation trees
+
+the nodes weighted derivation tree associated
+with weighting functions vocabulary 
+of context-free grammar algorithm presented
+for constructing optimal derivation tree 
+the structure weighted derivation tree 
+ addition correctness algorithm 
+is established method applied problems
+involving probabilistic parsing combinatorial 
+optimization 
+
+cacm september 1976
+
+loui 
+
+derivation tree parse tree probabilistic grammar 
+structural ambiguity combinatorial optimization
+
+5.23 5.49
+
+ca760903 jb january 4 1978 9 41 am
+
+2836	5	2836
+2836	5	2836
+2836	5	2836
+
+
+

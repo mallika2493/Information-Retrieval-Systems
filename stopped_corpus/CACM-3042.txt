@@ -1,0 +1,54 @@
+
+
+
+power trees
+
+the class pk trees presented where
+height balance maintained nodes iying 
+on paths number nodes pk tree
+asymptotically grows power height 
+in worst case procedure node insertion 
+and class trees considered restricted 
+to ipk trees buildable procedure 
+ average behavior trees studied 
+an extensive set simulation runs close that
+of avl trees family ipo 
+trees main advantage reduced number of
+restructurings required node insertion 
+analyzed 
+
+cacm november 1978
+
+luccio 
+pagli 
+
+binary search trees pk trees ipk trees search
+length node insertion subtree rotation
+
+3.73 3.74 4.34 5.25 5.31
+
+ca781109 dh january 25 1979 4 29 pm
+
+2839	4	3042
+2889	4	3042
+2968	4	3042
+3009	4	3042
+3042	4	3042
+3042	4	3042
+3042	4	3042
+3042	4	3042
+3065	4	3042
+3096	4	3042
+3096	4	3042
+3163	4	3042
+3163	4	3042
+2455	5	3042
+2839	5	3042
+2889	5	3042
+2968	5	3042
+3042	5	3042
+3042	5	3042
+3042	5	3042
+
+
+

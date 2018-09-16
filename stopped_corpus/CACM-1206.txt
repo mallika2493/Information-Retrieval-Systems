@@ -1,0 +1,35 @@
+
+
+
+the self-judgment method curve fitting
+
+a computer-oriented method processing and
+communicating numerical data 
+instrument reliability factors irf exactly
+define limits reliability measured 
+item information compute maximum
+permitted error mpe values 
+of ordinate self-judgment principle sjp 
+is discard wrong information compute 
+mean values parameters mpe terms
+of irf data compatibility tests 
+number equations made quickly 
+otherwise intractable problems easily solved 
+and design experiments greatly simplified 
+ computational mathematical techniques 
+used reduce bias sjp discussed inadequacies
+in statistical graphical methods 
+of curve fitting noted 
+
+cacm august 1965
+
+demaine 
+
+ca650818 jb march 6 1978 7 50 pm
+
+1206	5	1206
+1206	5	1206
+1206	5	1206
+
+
+

@@ -1,0 +1,55 @@
+
+
+
+estimates distributions random variables
+for computer communications traffic models
+
+a study multiaccess computer communications has
+characterized distributions underlying elementary
+ model user-computer interactive process model is
+elementary sense random variables that
+generally interest computer communications studies be
+decomposed elements model data examined
+from operational multiaccess systems model shown to
+be robust variables model the
+same distribution independent systems examined 
+it shown gamma distribution to
+describe discrete variables approximations gamma distribution
+by exponential distribution discussed systems studied 
+
+cacm december 1970
+
+fuchs 
+jackson 
+
+computer communications time-sharing 
+operating systems optimization models
+
+3.80 3.81 6.20
+
+ca701212 jb february 9 1978 2 46 pm
+
+1533	4	1951
+1604	4	1951
+1951	4	1951
+1951	4	1951
+2373	4	1951
+2667	4	1951
+2668	4	1951
+1410	5	1951
+1604	5	1951
+1951	5	1951
+1951	5	1951
+1951	5	1951
+2373	5	1951
+2894	5	1951
+1410	6	1951
+1751	6	1951
+1810	6	1951
+1951	6	1951
+1951	6	1951
+2016	6	1951
+2374	6	1951
+
+
+

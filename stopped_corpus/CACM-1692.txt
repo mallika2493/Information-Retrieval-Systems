@@ -1,0 +1,32 @@
+
+
+
+numerical solution thin plate heat transfer problem
+
+the numerical solution system linear
+equations resulting discrete approximation 
+to thin plate heat transfer problem considered 
+ slow convergence point iterative methods 
+is analyzed shown caused boundary
+conditions difficulty removed 
+a standard line iterative technique 
+
+cacm september 1968
+
+stewart iii 
+lick 
+
+heat transfer problem poisson equation boundary
+value problem thin domain successive overrelaxation 
+ sor block sor
+
+3.20 5.17
+
+ca680909 jb february 21 1978 4 48 pm
+
+1692	5	1692
+1692	5	1692
+1692	5	1692
+
+
+

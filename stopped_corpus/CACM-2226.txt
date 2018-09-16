@@ -1,0 +1,33 @@
+
+
+
+further evidence analysis algorithms
+for zero-one programming problem
+
+the purpose note report computational
+experience additional recently 
+summarized gue al algorithms the
+zero-one linear programming problem error 
+gue paper corrected utility of
+the algorithms suboptimizer 
+
+cacm january 1971
+
+proll 
+
+operations research integer programming zero-one variables algorithms
+
+5.39 5.41
+
+ca710108 jb february 8 1978 10 32 am
+
+2226	4	2226
+2226	4	2226
+1658	5	2226
+1666	5	2226
+2226	5	2226
+2226	5	2226
+2226	5	2226
+
+
+

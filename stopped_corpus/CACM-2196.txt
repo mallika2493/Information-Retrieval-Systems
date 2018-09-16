@@ -1,0 +1,50 @@
+
+
+
+a man-machine approach solving traveling salesman problem
+
+the traveling salesman problem belongs an
+important class scheduling routing problems 
+ subproblem solving as
+the warehouse distribution problem 
+attacked mathematical methods meager
+success special forms problem 
+or problems moderate number points can
+it solved exactly large amounts 
+of computer time heuristic procedures have
+been proposed tested slightly 
+results paper describes computer aided heuristic
+technique modest amount 
+computer time real-time solve large 100-200 
+point problems technique takes advantage 
+both computer human problem-solving
+abilities computer asked solve 
+problem brute force today heuristics 
+but asked organize data 
+the human human solve problem easily 
+ technique paper 
+point directions field man-machine interaction
+and field artificial intelligence 
+
+cacm 1971
+
+krolak 
+felts 
+marble 
+
+heuristic procedures computer-aided heuristic technique 
+man-machine interaction artificial intelligence 
+assignment problem mask assignment rubber band
+tour generator interaction process traveling 
+salesman problem
+
+3.57 3.66 5.30
+
+ca710503 jb february 3 1978 3 00 pm
+
+2196	5	2196
+2196	5	2196
+2196	5	2196
+
+
+

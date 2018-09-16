@@ -1,0 +1,34 @@
+
+
+
+notes recursion elimination
+
+various methods recursion elimination are
+applied schematic recursive procedure 
+proc px fx gx fi procedures
+with general form arise connection 
+with tree traversal sorting algorithms method
+of recursion removal involves 
+or stacks solutions compared
+on basis running time 
+
+cacm june 1977
+
+bird 
+
+recursion elimination optimization programs 
+stacks trees sorting algorithms computational 
+induction
+
+4.0 4.2 5.20 5.24 5.25 5.31
+
+ca770610 jb december 28 1977 12 50 pm
+
+2953	5	2953
+2953	5	2953
+2953	5	2953
+3020	5	2953
+2953	6	2953
+
+
+

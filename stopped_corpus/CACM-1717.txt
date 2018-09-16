@@ -1,0 +1,31 @@
+
+
+
+generating prime implicants ternary encoding decimal arithmetic
+
+decimal arithmetic ternary encoding cubes 
+and topological considerations 
+algorithm obtain extremals prime implicants
+of boolean functions algorithm 
+been programmed fortran language generally requires
+less memory minimization procedures 
+and treats don care terms efficient manner 
+
+cacm july 1968
+
+dietmeyer 
+duley 
+
+prime implicants extremal switching function 
+minimization cubical complexes ternary encoding
+
+3.24 6.1
+
+ca680712 jb february 22 1978 11 30 am
+
+1717	5	1717
+1717	5	1717
+1717	5	1717
+
+
+

@@ -1,0 +1,38 @@
+
+
+
+fortran subroutines time series analysis
+
+the authors recently concerned a
+time-series study constituted fairly typical 
+piece applied statistical research involving extensive
+computations moderately large quantity 
+of data wehave found numerical
+processes required built 
+up completely small number basic operations 
+and set fortran subroutines 
+written perform main purpose this
+note describe subroutines 
+the question general statistical programs is
+topical include general remarks 
+
+cacm january 1963
+
+healy 
+bogert 
+
+ca630106 jb march 14 1978 2 55 pm
+
+942	5	942
+942	5	942
+942	5	942
+948	5	942
+1118	5	942
+826	5	942
+826	6	942
+942	6	942
+942	6	942
+942	6	942
+
+
+

@@ -1,0 +1,33 @@
+
+
+
+remarks practical solution characteristic problems
+
+this paper concerned practical
+solution characteristic problem 
+ordinary differential equation apparent
+that sequential computers digital 
+analog solve initial problems boundary
+value problems mathematical process 
+must found compensate machine inadequacy 
+ compensating machine imperfection 
+of course normal activity numerical analyst 
+ number papers applied 
+devices problems purpose this
+note establish mathematical framework 
+model practical procedures assist in
+the extension ideas 
+problems 
+
+cacm june 1959
+
+wouk 
+
+ca590606 jb march 22 1978 6 30 pm
+
+78	5	78
+78	5	78
+78	5	78
+
+
+

@@ -1,0 +1,38 @@
+
+
+
+automatic parsing content analysis
+
+although automatic syntactic semantic analysis for
+all unrestricted natural language text applications 
+content analysis stringent coverage requirement 
+preliminary studies show harvard syntactic analyzer can
+produce correct unambiguous identification subject and
+object verbs approximately half relevant occurrences 
+this degree coverage content analysis variables 
+compares favorably methods variables compares favorably 
+to methods sample total text 
+normally processed 
+
+cacm june 1970
+
+damerau 
+
+content analysis parsing syntactic analysis natural language processing 
+information retrieval language analysis text processing
+
+3.42 3.71
+
+ca700605 jb february 13 1978 11 43 am
+
+1350	4	2050
+1659	4	2050
+1856	4	2050
+2050	4	2050
+1225	5	2050
+2050	5	2050
+2050	5	2050
+2050	5	2050
+
+
+

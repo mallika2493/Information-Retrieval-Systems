@@ -1,0 +1,42 @@
+
+
+
+considerations future programming language standards activities
+
+this paper reviews state programming
+language standards activities respect 
+to anomalies exist published
+and proposed standards fortran cobol 
+pl basic proposals made inclusion
+of formalisms future standards 
+extension standards include additional items
+such error conditions documentation 
+
+cacm november 1977
+
+lee 
+
+programming languages standards formalisms 
+formal descriptions fortran cobol pl basic 
+vienna definition language vdl 
+
+2.4 4.2 4.29 4.6 5.23
+
+ca771101 jb december 27 1977 8 10 am
+
+2154	4	2915
+2299	4	2915
+2501	4	2915
+2629	4	2915
+2915	4	2915
+2915	4	2915
+3060	4	2915
+3114	4	2915
+1502	5	2915
+1900	5	2915
+2915	5	2915
+2915	5	2915
+2915	5	2915
+
+
+

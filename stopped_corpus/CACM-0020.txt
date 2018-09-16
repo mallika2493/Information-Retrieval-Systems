@@ -1,0 +1,23 @@
+
+
+
+accelerating convergence iterative processes
+
+a technique discussed applied
+to iterative procedure solution of
+an equation accelerates rate convergence if
+the iteration converges induces convergence if
+the iteration diverges illustrative 
+
+cacm june 1958
+
+wegstein 
+
+ca580602 jb march 22 1978 9 09 pm
+
+20	5	20
+20	5	20
+20	5	20
+
+
+

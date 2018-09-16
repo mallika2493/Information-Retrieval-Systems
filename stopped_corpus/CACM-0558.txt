@@ -1,0 +1,30 @@
+
+
+
+a modified inversion procedure product
+form inverse linear programming codes
+
+this paper describes algorithm the
+selection pivot row matrix inversion 
+when product form inverse algorithm
+has developed linear programming 
+codes valuable inversion
+of non-dense matrix procedures 
+in paper tested been
+in operation esso research engineering 
+ibm 7090 computer months substantial computer
+cost savings realized 
+procedure 
+
+cacm july,1962
+
+larsen 
+
+ca620703 jb march 17 1978 9 07 pm
+
+558	5	558
+558	5	558
+558	5	558
+
+
+

@@ -1,0 +1,49 @@
+
+
+
+a grammar base question answering procedure
+
+the subject paper procedure for
+the automatic retrieval segments 
+stored information explicitly implicitly represented 
+through questions posed natural language 
+sentences procedure makes sentence recognition
+device class grammars 
+will correctly decide grammatical ungrammatical
+sentences natural language 
+is make recognition device this
+sort reason data fully 
+expressible set sentences natural language 
+a set exhaustively exclusively 
+generated grammar based rules grammar 
+a sentence recognizer evaluate sentences 
+questions normal situation recognition
+function succeeds case posed question 
+is drawn set sentences expressing data 
+or correctly grammatical terms 
+the grammar set sentences sentence recognition
+itself procedure retrieving information 
+ recognition function succeeds its
+value represents requested information 
+
+cacm october 1967
+
+rosenbaum 
+
+ca671006 jb february 27 1978 2 14 pm
+
+1527	5	1527
+1527	5	1527
+1527	5	1527
+2092	5	1527
+2127	5	1527
+1155	6	1527
+1324	6	1527
+1487	6	1527
+1527	6	1527
+1527	6	1527
+1781	6	1527
+1856	6	1527
+
+
+

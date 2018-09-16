@@ -1,0 +1,29 @@
+
+
+
+code structures protection manipulation variable-length items
+
+when items made variable number
+of characters number 
+of bits control information partition symbols 
+is inserted mark separations 
+errors identification control characters
+can lead trouble methods protecting 
+these symbols 6-bit code assignment
+of alphanumeric characters fixed word-length 
+computers suitability error detection
+and variable-length item manipulation shown 
+ flexibility arithmetic operations 
+
+cacm january 1965
+
+ramamoorthy 
+
+ca650106 jb march 8 1978 2 48 pm
+
+1331	5	1331
+1331	5	1331
+1331	5	1331
+
+
+

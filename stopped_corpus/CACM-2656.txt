@@ -1,0 +1,36 @@
+
+
+
+scalar- planar- valued curve fitting splines tension
+
+the spline tension introduced by
+schweikert attempt imitate cubic splines 
+but avoid spurious critical points induce 
+the defining equations presented 
+with efficient method determining necessary
+parameters computing resultant spline 
+ standard scalar-valued curve fitting problem discussed 
+as fitting open closed 
+curves plane curves the
+importance tension fitting contour 
+lines mentioned application 
+
+cacm april 1974
+
+cline 
+
+interpolation splines contouring curve fitting
+
+5.13 8.2
+
+ca740414 jb january 18 1978 9 23 am
+
+2656	4	2656
+2655	5	2656
+2656	5	2656
+2656	5	2656
+2656	5	2656
+2656	6	2656
+
+
+

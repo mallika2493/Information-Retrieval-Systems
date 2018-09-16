@@ -1,0 +1,33 @@
+
+
+
+recursion analysis compiler optimization
+
+a simple method detection
+of recursive procedures presented 
+use compiler optimization implementation considerations
+are discussed modification 
+algorithm improve optimization 
+ analysis determine 
+possible subset values assumed variables
+which take small discrete 
+set values common parameters variables
+assuming values label procedure pascal 
+enumerated type 
+
+cacm september 1976
+
+walter 
+
+recursion compiler optimization
+
+4.12
+
+ca760904 jb january 4 1978 9 36 am
+
+2835	5	2835
+2835	5	2835
+2835	5	2835
+
+
+

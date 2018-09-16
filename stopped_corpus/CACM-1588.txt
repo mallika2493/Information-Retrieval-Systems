@@ -1,0 +1,31 @@
+
+
+
+pl list processing
+
+the concepts list processing introduced
+into pl language 
+facilities write pl procedures that
+operate simple complex data list organizations 
+ list-processing languages suffered their
+inability deal directly complex data 
+structures inability perform the
+complete range programming language operations 
+upon data list structures problems have
+been eliminated list-processing facilities 
+of pl basic concepts list processing and
+the philosophy pl language extensions 
+discussed addition detailed list-processing examples provided 
+
+cacm june 1967
+
+lawson jr 
+
+ca670604 jb february 28 1978 9 30 am
+
+1588	5	1588
+1588	5	1588
+1588	5	1588
+
+
+

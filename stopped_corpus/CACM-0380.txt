@@ -1,0 +1,27 @@
+
+
+
+comparison iterative methods calculation nth roots
+
+three iterative methods calculation of
+nth roots including proposed author 
+are compared ways 1 theoretical convergence
+estimates 2 macrocompiler 
+estimates machine running time compare the
+running time methods variety 
+of input data 
+
+cacm march 1961
+
+traub 
+
+ca610302 jb march 17 1978 12 45 am
+
+319	5	380
+380	5	380
+380	5	380
+380	5	380
+380	6	380
+
+
+

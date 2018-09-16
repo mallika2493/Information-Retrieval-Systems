@@ -1,0 +1,63 @@
+
+
+
+experiments deductive question-answering program
+
+as investigation artificial intelligence 
+computer experiments deductive question-answering 
+were run lisp program called deducom acronym
+for deductive communicator 68 facts 
+deducom answered 10 questions answerable facts 
+ fact tells deducom specific information 
+or method answering general kind question 
+ conclusions drawn article 1 
+deducom answer wide variety questions 2 
+a human increase deductive power deducom 
+by telling facts 3 deducom write very
+simple programs hoped ability 
+is forerunner ability self-program which
+is learn 4 deducom search procedure 
+at present bad defects questions answerable
+from facts answered 
+some answerable questions answered if
+the relevant facts order 
+ 6 present deducom method making logical deductions
+in predicate calculus bad defects 
+some facts changed logically equivalent ones
+before deducom redundant 
+facts deducom 
+
+cacm december 1965
+
+slagle 
+
+ca651214 jb march 6 1978 3 34 pm
+
+1155	4	1155
+1456	4	1155
+1468	4	1155
+1515	4	1155
+1699	4	1155
+1856	4	1155
+2127	4	1155
+1155	5	1155
+1155	5	1155
+1155	5	1155
+1324	5	1155
+1515	5	1155
+2096	5	1155
+2127	5	1155
+2210	5	1155
+1155	6	1155
+1155	6	1155
+1155	6	1155
+1155	6	1155
+1324	6	1155
+1324	6	1155
+1487	6	1155
+1527	6	1155
+1781	6	1155
+1856	6	1155
+
+
+

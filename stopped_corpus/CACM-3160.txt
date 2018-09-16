@@ -1,0 +1,39 @@
+
+
+
+rejuvenating experimental computer science
+
+this report based results nsf sponsored
+workshop held wasington november 2 1978 co-authors 
+report gordon bell digital equipment corporation bernard galler 
+university michigan patricia goldberg ibm corporation john
+hamblen university missouri rolla elliot pinson bell telephone
+laboratories ivan sutherland california institute of
+technology participating workshop representatives
+of nsf government agencies addition authors 
+a number people contributed contents this
+report preparation original workshop doctorate-granting 
+computer science departments nation asked
+for comments suggestions problems experimental computer science 
+a version report dated january 15 circulated 
+departments number industrial government groups criticism 
+the editors authors final version gratefully acknowledge 
+contribution large number people stages preparation 
+of report 
+ note presentation report a
+position paper crisis experimental computer
+science written acm executive committee 
+
+cacm september 1979
+
+feldman 
+sutherland 
+
+ca790901 db january 14 1980 10 05 am
+
+3160	5	3160
+3160	5	3160
+3160	5	3160
+
+
+

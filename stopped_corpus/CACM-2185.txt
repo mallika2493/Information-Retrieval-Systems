@@ -1,0 +1,38 @@
+
+
+
+a note compiling fixed point binary multiplications
+
+an algorithm developed compiling as
+a sequence shifts additions subtractions 
+many fixed point binary multiplications involving a
+constant significant characteristics 
+the algorithm simplicity test which
+determines algorithm applied 
+the degree suggests efficient object code 
+
+cacm june 1971
+
+glaswin 
+
+compiling multiplications fixed point arithmetic
+
+4.12
+
+ca710605 jb february 3 1978 10 04 am
+
+2185	5	2185
+2185	5	2185
+2185	5	2185
+2296	5	2185
+2952	5	2185
+142	6	2185
+162	6	2185
+163	6	2185
+192	6	2185
+2185	6	2185
+2185	6	2185
+2727	6	2185
+
+
+

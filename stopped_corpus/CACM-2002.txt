@@ -1,0 +1,56 @@
+
+
+
+amesplot-a higher level data plotting software system
+
+amesplot extensible software system designed make display 
+data simple painless neat system 
+hardware-independent implemented variety installations 
+of manufacturers diverse configurations elements 
+common types data plots outlined 
+elements combined system based simple modules demonstrated 
+these modules independently independent axis
+systems attributes plot enables plots any
+complexity constructed adding replacing modules the
+basic syntax amesplot outlined description given
+of utility software consisting macros produce
+self-scaled plots formal tablets text-interspersed subplots 
+map coastlines 3-d plots system formulate
+d user supply minimum information 
+and fully integrable user program written
+in conventional higher languages functions positioning 
+locating scaling layout multiple subplots of
+axes labels elements plot handled automatically
+by software system user specifies structuring 
+of plots multiple independent self-contained subplots 
+transformation projection scaling rotation shifting entire plots 
+subplots action simple modules user 
+may interact freely amesplot levels enabling construct 
+his data markers alphabetic characters transformations and
+to produce variety artistic effects 
+
+cacm september 1970
+
+hirschsoln 
+
+computer graphics data potting data display
+syntax hardware independent software 
+display device independent software plot elements self-scaled plots 
+user interaction tablet organization map display projection
+
+4.13 4.29 4.49 4.9
+
+ca700903 jb february 10 1978 2 08 pm
+
+2003	4	2002
+2002	4	2002
+2002	4	2002
+2152	4	2002
+1767	5	2002
+1937	5	2002
+2002	5	2002
+2002	5	2002
+2002	5	2002
+
+
+

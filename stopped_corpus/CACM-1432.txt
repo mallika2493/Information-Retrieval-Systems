@@ -1,0 +1,27 @@
+
+
+
+incorporation nonstandard input output devices fortran systems
+
+a fortran system readily modified to
+handle input output nonstandard media 
+same basis handles standard media this
+is providing character-handling subroutine 
+suited nonstandard medium arranged called
+by unused output statement type 
+or unit number method control output
+of alphanumeric information digital graph 
+plotter 
+
+cacm 1966
+
+cohn 
+
+ca660505 jb march 3 1978 10 01 am
+
+1432	5	1432
+1432	5	1432
+1432	5	1432
+
+
+

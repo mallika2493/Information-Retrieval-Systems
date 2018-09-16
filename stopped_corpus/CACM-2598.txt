@@ -1,0 +1,102 @@
+
+
+
+extending information theory approach converting
+limited-entry decision tables computer 
+programs
+
+this paper modifies earlier algorithm for
+converting decision tables flowcharts 
+minimize subsequent execution time compiled into
+a computer program algorithms considered 
+in paper perform limited search 
+do necessarily result globally optimal 
+solutions greater search effort needed
+to obtain globally optimal solution complex 
+decision tables justified sufficient
+savings execution time analogy 
+between problem converting decision tables into
+efficient flowcharts well-understood problem 
+in information theory noiseless coding results
+of noiseless coding literature 
+explore limitations algorithms solve
+the decision table problem analogy 
+the problems develop improvements
+to information algorithm extending depth 
+of search conditions proposing
+additional conditions added decision 
+table finally information algorithm compared
+with algorithm proposed recent paper 
+verhelst 
+
+cacm september 1974
+
+shwayder 
+
+coding decision tables flowcharting information
+theory noiseless channel sorting
+
+3.50 5.31
+
+ca740910 jb january 17 1978 8 40 am
+
+1354	4	2598
+2053	4	2598
+2220	4	2598
+2220	4	2598
+2273	4	2598
+2273	4	2598
+2453	4	2598
+2453	4	2598
+2492	4	2598
+2518	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2616	4	2598
+2691	4	2598
+2726	4	2598
+2726	4	2598
+2726	4	2598
+2726	4	2598
+2856	4	2598
+2856	4	2598
+2856	4	2598
+3113	4	2598
+3113	4	2598
+1172	5	2598
+1548	5	2598
+2220	5	2598
+2263	5	2598
+2453	5	2598
+2598	5	2598
+2598	5	2598
+2598	5	2598
+2691	5	2598
+2845	5	2598
+2856	5	2598
+3113	5	2598
+1172	6	2598
+1184	6	2598
+1327	6	2598
+1354	6	2598
+1354	6	2598
+2053	6	2598
+2220	6	2598
+2263	6	2598
+2435	6	2598
+2453	6	2598
+2598	6	2598
+2598	6	2598
+2598	6	2598
+2691	6	2598
+2736	6	2598
+2747	6	2598
+2768	6	2598
+2856	6	2598
+
+
+

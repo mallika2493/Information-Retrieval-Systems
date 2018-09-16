@@ -1,0 +1,69 @@
+
+
+
+formal verification parallel programs
+
+two formal models parallel computation
+are presented abstract conceptual model 
+a parallel-program model model not
+distinguish control data states 
+latter model includes capability representation
+of infinite set control states allowing 
+there arbitrarily instruction pointers or
+processes executing program induction 
+principle presented treats control and
+data state sets ground 
+use place variables observed certain
+correctness conditions expressed 
+enumeration set control states 
+ examples presented induction 
+principle demonstrate proofs mutual exclusion 
+ shown assertions-oriented proof 
+methods special cases induction principle 
+a special case assertions method 
+is called parallel place assertions shown be
+incomplete formalization deadlock 
+presented concept norm introduced which
+yields extension deadlock problem 
+of floyd technique proving termination discussed
+is extension program model 
+allows process local variables
+and permits shared global variables correctness 
+of forms implementation discussed 
+ appendix included relates work 
+to previous work satisfiability logical formulas 
+
+cacm july 1976
+
+keller 
+
+parallel program correctness verification 
+assertions deadlock mutual exclusion petrinet
+
+4.6 5.2 6.9 8.1
+
+ca760702 jb january 4 1978 1 20 pm
+
+2228	4	2851
+2280	4	2851
+2379	4	2851
+2320	4	2851
+2482	4	2851
+2597	4	2851
+2740	4	2851
+2777	4	2851
+2851	4	2851
+2851	4	2851
+2895	4	2851
+2912	4	2851
+2920	4	2851
+2946	4	2851
+3128	4	2851
+1877	5	2851
+2150	5	2851
+2851	5	2851
+2851	5	2851
+2851	5	2851
+
+
+

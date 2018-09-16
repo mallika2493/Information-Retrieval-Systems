@@ -1,0 +1,47 @@
+
+
+
+an algorithm hidden line elimination
+
+the algorithm presented elimination of
+hidden lines representation perspective 
+view concave convex plane-faced objects the
+picture plane edges objects 
+considered sequentially planes hide every
+point edge found computing time 
+increases roughly square number edges 
+ algorithm takes advantage reduced number 
+of concave points recognizes only
+one object concave points considered 
+in case result obtained simpler 
+
+cacm april 1969
+
+galimberti 
+montanari 
+
+hidden line elimination back line recognition three-dimensional
+representation plane-faced objects 
+perspective view machine rendering solids automatic
+drawing displaying techniques computer graphics 
+man machine interaction man machine communication computer-aided design
+
+4.40 4.41 4.49
+
+ca690402 jb february 17 1978 4 44 pm
+
+1915	5	1915
+1915	5	1915
+1915	5	1915
+2004	5	1915
+2687	5	1915
+2692	5	1915
+1686	6	1915
+1741	6	1915
+1915	6	1915
+1915	6	1915
+1915	6	1915
+2004	6	1915
+
+
+

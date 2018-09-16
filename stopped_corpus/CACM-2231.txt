@@ -1,0 +1,39 @@
+
+
+
+the reconstruction binary patterns projections
+
+given horizontal vertical projections
+of finite binary pattern construct 
+the original pattern paper give characterization
+of patterns reconstructable 
+from projection algorithms developed
+to reconstruct unambiguous ambiguous 
+patterns shown unambiguous pattern can
+be perfectly reconstructed time 
+a pattern similar ambiguous pattern constructed
+in time dimensions 
+of pattern frame 
+
+cacm january 1971
+
+chang 
+
+pattern reconstruction image reconstruction data
+compression pattern recognition integral geometry
+
+3.63 5.30
+
+ca710103 jb february 8 1978 12 33 pm
+
+2142	5	2231
+2231	5	2231
+2231	5	2231
+2231	5	2231
+2529	5	2231
+1929	6	2231
+2231	6	2231
+2231	6	2231
+
+
+

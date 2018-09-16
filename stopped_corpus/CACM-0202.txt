@@ -1,0 +1,31 @@
+
+
+
+a control system logical block diagnosis data loading
+
+this paper describes section integrated
+diagnostic monitor system facilitates 
+the checking sections instructions subroutines
+anywhere object program method 
+of diagnostic operations format similar
+to computer program makes system convenient 
+to simple understand paper
+also describes number diagnostic 
+features included system 
+
+cacm april 1960
+
+senko 
+
+ca600409 jb march 22 1978 1 45 pm
+
+931	5	202
+202	5	202
+202	5	202
+202	5	202
+202	6	202
+396	6	202
+634	6	202
+
+
+

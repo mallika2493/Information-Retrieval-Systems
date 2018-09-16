@@ -1,0 +1,38 @@
+
+
+
+a controlled experiment program testing
+and code walkthroughs inspections
+
+this paper describes experiment program
+testing employing 59 highly experienced data 
+processing professionals methods test
+a small pl program results show 
+popular code walk inspection method effective
+as computer-based methods finding 
+errors effective methods terms of
+errors found cost employed pairs subjects 
+who tested program independently pooled
+their findings study shows 
+is tremendous amount variability subjects
+and ability detect types 
+errors varies method method 
+
+cacm september 1978
+
+myers 
+
+software reliability program verification debugging 
+testing code walkthroughs code inspections 
+personnel selection
+
+4.6
+
+ca780906 dh february 5 1979 10 47 am
+
+3066	5	3066
+3066	5	3066
+3066	5	3066
+
+
+

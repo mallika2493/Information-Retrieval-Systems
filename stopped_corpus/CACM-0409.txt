@@ -1,0 +1,36 @@
+
+
+
+cl-1 environment compiler
+
+a flexible large-scale programming system to
+facilitate solution information processing 
+problems provide intercommunication programs
+and programmers developed 
+realized ibm 709 7090 computer system is
+based master concept provisions 
+for accepting storing retrieving descriptions
+and instances large complex data sets 
+as algorithms defined data sets both
+data algorithms expressed family 
+of command descriptive languages concept
+of distinct data descriptions content 
+use descriptions discussed detail 
+
+cacm january 1961
+
+cheatham jr 
+collins jr 
+leonard 
+
+ca610105 jb march 17 1978 1 26 am
+
+409	5	409
+409	5	409
+409	5	409
+657	5	409
+279	6	409
+409	6	409
+
+
+

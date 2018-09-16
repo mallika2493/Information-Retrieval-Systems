@@ -1,0 +1,48 @@
+
+
+
+on optimal detection curves noisy pictures
+
+a technique recognizing systems lines
+is presented technique heuristic 
+of problem embedded recognition algorithm
+but expressed figure merit 
+a multistage decision process able recognize
+in input picture optimal system lines 
+according figure merit due the
+global approach greater flexibility adequacy 
+in problem achieved relation
+between structure figure merit 
+the complexity optimization process discussed 
+ method suitable parallel 
+processing operations relative each
+state computed parallel number
+of stages equal length curves or
+to log2 approximate method 
+
+cacm 1971
+
+montanari 
+
+picture processing picture recognition picture
+description curve detection line detection 
+edge detection optimal detection heuristic methods 
+global recognition parallel processing dynamic 
+programming interaction graph secondary optimization problem
+
+3.63 3.66 5.42
+
+ca710504 jb february 3 1978 2 49 pm
+
+1663	4	2195
+2195	4	2195
+2679	4	2195
+1190	5	2195
+2195	5	2195
+2195	5	2195
+2195	5	2195
+2883	5	2195
+2195	6	2195
+
+
+

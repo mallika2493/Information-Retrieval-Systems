@@ -1,0 +1,43 @@
+
+
+
+storage utilization memory hierarchy storage
+assignment performed hashing algorithm
+
+the utilization storage studied two-level
+memory hierarchy storage level 
+which fast store divided number of
+storage areas entry filed 
+the hierarchy hashing algorithm attempt to
+place entry areas 
+particular area full entry placed
+into slower second-level store 
+other areas first-level store space
+available entries filed 
+the entire hierarchy expression derived the
+expected number entries filed first-level 
+storehis expression measure effectively
+the first-level store means 
+of examples storage utilization studied a
+function hashing algorithm number 
+storage areas first-level store divided
+and total size first-level store 
+
+cacm march 1971
+
+williams 
+
+hashing algorithms memory allocation memory hierarchy 
+memory utilization storage allocation 
+storage hierarchy storage utilization
+
+3.74 4.3
+
+ca710304 jb february 3 1978 4 37 pm
+
+2208	5	2208
+2208	5	2208
+2208	5	2208
+
+
+

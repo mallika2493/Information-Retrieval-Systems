@@ -1,0 +1,45 @@
+
+
+
+empirical working set behavior
+
+the working set model program behavior
+has proposed recent years basis 
+the design scheduling paging algorithms although
+the words working set commonly encountered 
+in literature dealing resource allocation there
+is dearth published data program measurements 
+in hope workers field find experimental
+evidence substantiate 
+base theoretical work 
+
+cacm september 1973
+
+rodriguez-rosell 
+
+virtual memory paging working set 
+software measurement program behavior
+
+4.3
+
+ca730905 jb january 23 1978 9 22 am
+
+2373	4	2450
+2374	4	2450
+2380	4	2450
+2450	4	2450
+2450	4	2450
+2595	4	2450
+2996	4	2450
+3006	4	2450
+3006	4	2450
+3067	4	2450
+3067	4	2450
+2373	5	2450
+2374	5	2450
+2450	5	2450
+2450	5	2450
+2450	5	2450
+
+
+

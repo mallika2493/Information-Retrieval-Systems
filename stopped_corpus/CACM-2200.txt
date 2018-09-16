@@ -1,0 +1,41 @@
+
+
+
+on complement division
+
+the division algorithm theorem expressed
+in form permits serve basis 
+for devising division operations produce quotient
+and remainder complement form algorithms 
+for division yielding complement results derived
+for numbers represented base greater 
+one radix radix-less-one complementation schemes
+are considered binary form algorithms 
+thus includes complement implementation 
+ problem quotient overflow complement 
+results dealt selecting appropriate
+form remainder condition complement 
+division 
+
+cacm april 1971
+
+stein 
+munro 
+
+division algorithm complement arithmetic complement
+division complement arithmetic 
+complement arithmetic
+
+3.15 4.0 4.9 5.11 6.32
+
+ca710405 jb february 3 1978 3 28 pm
+
+1965	4	2200
+2200	4	2200
+1718	5	2200
+2200	5	2200
+2200	5	2200
+2200	5	2200
+
+
+

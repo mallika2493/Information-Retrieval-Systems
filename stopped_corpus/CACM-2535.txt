@@ -1,0 +1,42 @@
+
+
+
+the effects multiplexing computer-communications system
+
+a study made asynchronous
+time division multiplexing stochastic 
+nature arrival process user computer
+and affects performance 
+of time-shared computer-communications system is
+concluded values system 
+parameters noticeable improvement the
+performance computer model sense 
+that time-shared scheduling delays reduced these
+improvements offset transmission delays 
+imposed multiplexing or
+no change computer-communications system 
+performance analytical simulation results are
+based model computer-communications 
+system 1 queue multiplexor tandem
+with single exponential server computer 
+ analytical results include general description the
+output process 1 queue conditions 
+under output process approximately poisson 
+
+cacm march 1973
+
+pack 
+
+computer communications time-sharing multiplexing 
+scheduling algorithms operating systems
+
+3.80 3.81 6.20
+
+ca730304 jb january 24 1978 11 13 am
+
+2535	5	2535
+2535	5	2535
+2535	5	2535
+
+
+

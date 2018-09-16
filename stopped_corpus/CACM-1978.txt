@@ -1,0 +1,45 @@
+
+
+
+the interactive graphics solve numerical problems
+
+with advent on-line time-sharing computer systems
+and graphic terminals dimension
+in numerical problem solving capabilities simply use
+the power achieve fast turnaround develop interactive
+routines easy take advantage the
+insight visual capabilities human problem solver several
+on-line systems general purpose mathematical problem solving
+have implemented special purpose
+systems solving problems area ordinary
+differential equations advantage restricting problem
+area interface user greatly simplified 
+in paper discuss advantages accrued such
+systems design considerations interactive routines 
+an implementation on-line squares data-fitting
+program peg presented results obtained empirical
+data conclusion area future work field discussed 
+
+cacm october 1970
+
+smith 
+
+interactive graphics computer graphics graphics squares 
+data-fitting interactive computing on-line mathematics
+
+1.3 3.1 5.13 5.5
+
+ca701012 jb february 10 1978 9 14 am
+
+1978	4	1978
+1978	4	1978
+1978	4	1978
+1307	5	1978
+1589	5	1978
+1813	5	1978
+1978	5	1978
+1978	5	1978
+1978	5	1978
+
+
+

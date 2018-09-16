@@ -1,0 +1,30 @@
+
+
+
+an algorithm solving special class
+of tridiagonal systems linear equations
+
+an algorithm presented solving system
+of linear equation bu tridiagonal 
+and special form shown algorithm
+is fast gaussian elimination 
+method suggested solving systems 
+in addition explicit formulas inverse 
+determinant matrix 
+
+cacm april 1969
+
+rose 
+
+tridiagonal gaussian elimination central difference
+
+5.14 5.17
+
+ca690407 jb february 17 1978 4 18 pm
+
+1910	5	1910
+1910	5	1910
+1910	5	1910
+
+
+

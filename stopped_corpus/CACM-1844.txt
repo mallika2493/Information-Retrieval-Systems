@@ -1,0 +1,58 @@
+
+
+
+a modular computer sharing system
+
+an alternative approach design organization
+of general purpose interactive multiterminal 
+computing system presented system organization described
+is conceptually simple arrangement 
+of bank interchangeable computers which
+is memory processor pair assigned 
+process terminal jobs arrive computers
+serves master control computer 
+and supervises collection distribution messages
+from remote terminals 
+simplest form disk drive connected
+terminal crosspoint switching network 
+any disk drive connected computer 
+ active terminal user occupies 
+a dedicated disk drive share computer with
+many terminal users simple manner 
+ ratio users computers dependent both
+the size power machines 
+computation requirements mix users 
+ system organization inherently simpler 
+and reliable approach time-sharing computers
+and potential highly 
+system low cost economic configurations
+are range systems sizes 
+span order magnitude finally problem
+programs developed remote terminal users 
+be run dedicated batch system compatible computers 
+
+cacm october 1969
+
+baskin 
+horowitz 
+tennison 
+rittenhouse 
+
+multiple terminal systems terminal oriented systems 
+multiple processor systems high availability 
+conversational systems general purpose time-sharing systems 
+real-time response system modular constructed 
+systems modular computer-sharing systems graphics 
+file switch intercomputer communications control 
+computer problem computer roll-in roll-out
+
+6.21
+
+ca691002 jb february 15 1978 3 52 pm
+
+1844	5	1844
+1844	5	1844
+1844	5	1844
+
+
+

@@ -1,0 +1,40 @@
+
+
+
+polyphase sorting overlapped rewind 
+
+a variation polyphase merge technique
+of sorting permits tape 
+at time rewound merge continued on
+the remaining tapes result overlapping 
+of major portion rewind time technique
+should considered sort written 
+to operate tapes read backwards 
+ savings overlap method 
+to increase number tapes increased 
+
+cacm march 1964
+
+mcalester 
+
+ca640315 jb march 10 1978 2 38 am
+
+1117	4	1117
+1117	4	1117
+1117	4	1117
+2017	4	1117
+2017	4	1117
+2146	4	1117
+2146	4	1117
+677	4	1117
+860	4	1117
+861	4	1117
+1117	5	1117
+1117	5	1117
+1117	5	1117
+636	5	1117
+862	5	1117
+861	5	1117
+
+
+

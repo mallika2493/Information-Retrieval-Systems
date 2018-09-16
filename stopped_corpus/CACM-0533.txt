@@ -1,0 +1,38 @@
+
+
+
+digital synthesis correlated stationary noise
+
+in note propose method generating
+stationary noise prescribed auto-covariance 
+function digital methods need technique
+often arises testing performance 
+data processing engineering systems inputs
+corrupted correlated noise known form 
+are required technique simple produces
+strict-sense stationary noise agrees 
+approximately prescribed auto-covariance
+function acf interval 
+ method consists approximating spectral density
+by periodic process spectral lines 
+and synthesizing periodic noise random
+phases amplitudes order 
+simplify discussion statistical properties the
+noise generated technique presented 
+in terms exact harmonic analysis practice discrete
+harmonic analysis presented 
+section 
+
+cacm july 1962
+
+peabody 
+adorno 
+
+ca620728 jb march 17 1978 7 59 pm
+
+533	5	533
+533	5	533
+533	5	533
+
+
+

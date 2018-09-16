@@ -1,0 +1,40 @@
+
+
+
+on automatic simplification source-language programs
+
+methods simplification applied
+automatically programs written algol-like 
+language discussed simplifications based
+on form program knowledge obtained 
+by processor understanding the
+program supposed methods 
+been implemented processor called sure accepts
+a program written jovial outputs equivalent 
+jovial program shorter executed
+faster original sure 
+some problems encountered automatic improvement
+at source-language level discussed 
+and types automatic program improvement suggested 
+
+cacm march 1967
+
+clark 
+
+ca670304 jb february 28 1978 1 33 pm
+
+1084	4	1625
+1379	4	1625
+1625	4	1625
+1625	4	1625
+1807	4	1625
+1945	4	1625
+1947	4	1625
+1248	5	1625
+1625	5	1625
+1625	5	1625
+1625	5	1625
+669	5	1625
+
+
+

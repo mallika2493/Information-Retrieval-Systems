@@ -1,0 +1,32 @@
+
+
+
+addition arbitrary base radix conversion
+
+this paper presents generalization an
+old programming technique add 
+and subtract numbers represented radix including
+a mixed radix stored digit byte 
+in bytes sufficient size radix conversion unnecessary 
+no looping required numbers 
+even stored display format applications
+to cobol mix hexadecimal sums discussed 
+
+cacm june 1975
+
+soule 
+
+addition subtraction decimal arithmetic arbitrary
+radix arithmetic radix conversion mix arithmetic 
+cobol display arithmetic mixed radix arithmetic
+
+4.49 4.9 5.9
+
+ca750609 jb january 9 1978 12 52 pm
+
+2744	5	2744
+2744	5	2744
+2744	5	2744
+
+
+

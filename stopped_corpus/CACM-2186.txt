@@ -1,0 +1,42 @@
+
+
+
+numerical properties ritz-trefftz algorithm optimal control
+
+in paper ritz-trefftz algorithm applied
+to computer solution state regulator 
+problem algorithm represents modification of
+the ritz direct method designed improve 
+the speed solution storage requirements to
+the point real-time implementation 
+feasible modification shown stable
+computationally traditional ritz approach 
+ concern paper describe the
+algorithm establish properties valid 
+and numerical technique useful
+properties definiteness reasonableness 
+of condition established method second
+part paper devoted comparison 
+of techniques standard procedure of
+numerically integrating matrix riccati equation 
+to determine feedback matrix technique is
+shown significantly faster comparable 
+accuracy 
+
+cacm june 1971
+
+bosarge jr 
+johnson 
+
+splines regulator problem control theory numerical analysis
+
+5.1
+
+ca710604 jb february 3 1978 10 12 am
+
+2186	5	2186
+2186	5	2186
+2186	5	2186
+
+
+

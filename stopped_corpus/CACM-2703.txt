@@ -1,0 +1,42 @@
+
+
+
+the intrinsically exponential complexity of
+the circularity problem attribute grammars
+
+attribute grammars extension context-free
+grammars devised knuth mechanism 
+for including semantics context-free language
+with syntax language circularity 
+problem grammar determine semantics
+for sentences programs 
+fact defined proved problem
+is general computationally intractable 
+ specifically shown deterministic algorithm
+which solves problem infinitely 
+many cases exponential amount timen improved
+version knuth circularity testing algorithm 
+is actually solves problem exponential time 
+
+cacm december 1975
+
+jazayeri 
+ogden 
+rounds 
+
+attribute grammars circularity problem context-free
+grammars computational complexity exponential 
+time semantics
+
+4.12 5.25
+
+ca751204 jb january 5 1978 4 38 pm
+
+2703	4	2703
+2703	5	2703
+2703	5	2703
+2703	5	2703
+2886	5	2703
+
+
+

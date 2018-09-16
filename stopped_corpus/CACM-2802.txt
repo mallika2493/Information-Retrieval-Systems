@@ -1,0 +1,43 @@
+
+
+
+the math computer programming
+
+structured programming proved important
+methodology systematic program design 
+and development structured programs identified
+as compound function expressions algebra 
+of functions algebraic properties function
+expressions permit reformulation expansion 
+as reduction nested subexpression independently
+of environment modeling 
+is known stepwise program refinement program
+execution finally structured programming 
+is characterized terms selection solution
+of elementary equations defined 
+algebra functions solutions in
+general formulas involving single parameter 
+which display entire freedom available
+in creating correct structured programs 
+
+cacm january 1975
+
+mills 
+
+structured programming algebra functions 
+stepwise refinement program correctness
+
+4.6 5.21 5.24
+
+ca750109 jb january 12 1978 9 50 am
+
+2709	4	2802
+2802	4	2802
+3004	4	2802
+1425	5	2802
+2802	5	2802
+2802	5	2802
+2802	5	2802
+
+
+

@@ -1,0 +1,37 @@
+
+
+
+quasilinearization estimation
+of differential operators eigenvalues
+
+given linear ordinary differential operator
+containing unknown constants number 
+of eigenvalues values unknown constants
+are estimated precise formulation provided 
+and effective numerical procedure solution 
+ results computational experiments 
+are 
+
+cacm april 1968
+
+bellman 
+kagiwada 
+kalaba 
+vasudenvan 
+
+quasilinearization eigenvalues differential operators 
+nonlinear boundary-value problems inverse 
+problems differential equations system identification
+
+3.15 3.17 5.17
+
+ca680404 jb february 23 1978 11 12 am
+
+1766	4	1766
+1401	5	1766
+1766	5	1766
+1766	5	1766
+1766	5	1766
+
+
+

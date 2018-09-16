@@ -1,0 +1,43 @@
+
+
+
+a unifying approach scheduling
+
+this paper presents scheme classifying
+scheduling algorithms based abstract model 
+of scheduling system formalizes notion of
+priority classes scheduling algorithms
+are defined related existing algorithms a
+criterion implementation efficiency 
+algorithm developed results definition
+of time-invariant algorithms include 
+of commonly implemented time-invariant
+algorithms dependence processing rates 
+on priorities derived abstract model provides
+a framework implementing flexible schedulers 
+in real operating systems policy-driven scheduler
+of bernstein sharp discussed 
+of implementation
+
+cacm july 1977
+
+ruschitzka 
+fabry 
+
+scheduling algorithms scheduling models priority 
+operating systems processor sharing implementation 
+efficiency
+
+4.31 4.32 4.34 4.35 8.1
+
+ca770702 jb december 28 1977 12 32 pm
+
+2950	4	2950
+3072	4	2950
+2219	5	2950
+2950	5	2950
+2950	5	2950
+2950	5	2950
+
+
+

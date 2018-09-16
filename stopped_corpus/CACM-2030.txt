@@ -1,0 +1,35 @@
+
+
+
+context-sensitive parsing
+
+this paper presents canonical form context-sensitive
+derivations parsing algorithm finds
+each context-sensitive analysis amount memory
+required algorithm essentially required 
+store single complete derivation addition modified
+version basic algorithm presented blocks infinite analyses 
+for grammars loops algorithm is
+also compared previous parsers context-sensitive
+grammars general rewriting systems difference between
+the types analyses discussed algorithm appears to
+be complementary algorithm kuno respects including 
+the space-time trade-off degree context dependence involved 
+
+cacm july 1970
+
+woods 
+
+context-sensitive grammars context-sensitive parsing formal grammars 
+formal language theory parsing parsing algorithms recognition algorithms
+
+3.42 5.22 5.23
+
+ca700707 jb february 10 1978 4 43 pm
+
+2030	5	2030
+2030	5	2030
+2030	5	2030
+
+
+

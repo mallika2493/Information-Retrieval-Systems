@@ -1,0 +1,40 @@
+
+
+
+experiments automated instructional system numerical methods
+
+a computer system developed purdue
+university teach portions undergraduate 
+course numerical methods instructional unit
+or lesson divided modes instruction 
+which allow student press computer-controlled
+presentation student-controlled investigation 
+the system designed classroom-independent course
+of study semesters 
+by students lieu conventional classroom instruction 
+ initial measures effectiveness student 
+acceptance operational cost result testing
+the system independent instructor intervention 
+ system operational cdc 6500 teletype terminals 
+
+cacm october 1971
+
+oldehoeft 
+conte 
+
+computer-assisted instruction numerical
+methods cai instructional systems
+
+1.52 3.62 5.10
+
+ca711003 jb february 2 1978 1 22 pm
+
+2153	4	2153
+3003	4	2153
+2097	5	2153
+2153	5	2153
+2153	5	2153
+2153	5	2153
+
+
+

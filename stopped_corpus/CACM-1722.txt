@@ -1,0 +1,38 @@
+
+
+
+methods convergence improvement improper integrals
+
+in numerical integration improper
+integral kind customary 
+truncate integral change yielded last
+iteration predetermined constant 
+the efficiency integration schemes often
+be improved recent advances theory 
+of nonlinear transformations important
+integrals integrals integrands 
+are rational polynomials transformations fail
+to yield improvement paper 
+methods convergence improvement developed greatly
+improve convergence improper integrals 
+including integrals rational polynomials 
+
+cacm july 1968
+
+mcwilliams 
+thompson 
+
+approximation nonlinear improper integral convergence
+improvement numerical integration rational 
+polynomials truncation
+
+3.15 5.13 5.16 5.19
+
+ca680707 jb february 22 1978 11 58 am
+
+1722	5	1722
+1722	5	1722
+1722	5	1722
+
+
+

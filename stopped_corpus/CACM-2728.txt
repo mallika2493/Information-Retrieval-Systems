@@ -1,0 +1,33 @@
+
+
+
+consecutive storage relevant records redundancy
+
+this paper studies properties new
+class organizations crwr records 
+relevant query stored consecutive storage
+locations organizations redundancy 
+some theorems provide tools reducing redundancy
+in crwr organizations developed 
+redundancies obtained application theorems
+are compared query-inverted 
+organizations crwr organization minimum redundancy
+have developed queries 
+specify sets keys 
+
+cacm august 1975
+
+ghosh 
+
+consecutive retrieval storage records query redundancy key
+
+3.70 3.73 3.74
+
+ca750807 jb january 6 1978 4 34 pm
+
+2728	5	2728
+2728	5	2728
+2728	5	2728
+
+
+

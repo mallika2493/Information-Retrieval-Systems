@@ -1,0 +1,39 @@
+
+
+
+automatic data structure choice language high level
+
+setl set-theoretically oriented language
+of high level repertoire semantic 
+objects includes finite sets ordered n-tuples and
+sets ordered n-tuples usable mappings 
+paper describes structure optimizer this
+language methods interest 
+optimizer techniques allow relations inclusion
+and membership established domains 
+and ranges tabulated mappings estimated from
+above single-valuedness 
+ tabulated mappings proved facts this
+kind established automatic choice 
+data structures methods employed
+are based extend known techniques 
+data flow analysis 
+
+cacm december 1975
+
+schwartz 
+
+program optimization automatic programming high-level
+languages set-theoretic languages data 
+structure choice
+
+4.12 4.20 4.22
+
+ca751208 jb january 5 1978 3 53 pm
+
+2699	5	2699
+2699	5	2699
+2699	5	2699
+
+
+

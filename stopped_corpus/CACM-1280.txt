@@ -1,0 +1,34 @@
+
+
+
+numerical integration differential-difference
+equation decreasing time-lag
+
+systems variable time-lags present
+are common occurrence biology variable 
+flow rates common variable lags 
+ present extensive body knowledge exists 
+concerning effects variable lags can
+cause shown method reducing 
+differential-difference equations ordinary differential
+equations studied numerically 
+with ease subsequent study deal situations
+in multiple-lags lags dependent 
+solution present 
+
+cacm april 1965
+
+bellman 
+buell 
+kalaba 
+
+ca650411 jb march 7 1978 3 46 pm
+
+1280	5	1280
+1280	5	1280
+1280	5	1280
+1364	5	1280
+1280	6	1280
+
+
+

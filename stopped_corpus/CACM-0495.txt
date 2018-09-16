@@ -1,0 +1,34 @@
+
+
+
+a procedure inverting large symmetric matrices
+
+in squares method simultaneous
+adjustment parameters coefficients 
+of normal equations elements symmetric
+positive-definite matrix order solve 
+the normal equations evaluate precision measures
+of resulting parameters inversion 
+matrix coefficients required procedures
+for matrix inversion take advantage 
+of symmetry programmed high-speed
+computer 2 elements stored 
+manipulated 1 2 independent 
+ order allow computer memory 
+capacity handle larger matrix procedure
+for inverting symmetric matrix 
+devised 
+
+cacm august 1962
+
+busing 
+levy 
+
+ca620833 jb march 17 1978 9 09 pm
+
+495	5	495
+495	5	495
+495	5	495
+
+
+

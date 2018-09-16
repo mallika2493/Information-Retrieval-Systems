@@ -1,0 +1,34 @@
+
+
+
+performance rollback recovery systems intermittent failures
+
+a mathematical model transaction-oriented
+system intermittent failures proposed 
+ system assumed operate checkpointing
+and rollback recovery method ensure reliable 
+information processing model derive the
+principal performance measures including availability 
+response time system saturation point 
+
+cacm june 1978
+
+gelenbe 
+derochette 
+
+database reliability systems checkpoints recovery
+procedures checking techniques reliability 
+and system performance evaluation
+
+3.72 3.73 4.33 4.35 4.6 5.5 8.1
+
+ca780608 dh february 9 1979 10 26 am
+
+3089	4	3089
+2599	5	3089
+3089	5	3089
+3089	5	3089
+3089	5	3089
+
+
+

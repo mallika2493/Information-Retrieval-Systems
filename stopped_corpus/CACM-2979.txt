@@ -1,0 +1,47 @@
+
+
+
+studies machine cognition game poker
+
+a progress report presented on-going
+research efforts concerning human decision making 
+under uncertainly risk human problem solving
+and learning processes hand machine 
+learning large scale programming systems novel
+programming techniques 
+also terest humans make deductive inductive
+inferences form optimize heuristic 
+rules machines reach similar results 
+ vehicle investigations 
+been game poker conceptual framework been
+provided fairly wide range 
+of applicability models human judgment choice 
+and decision making incorporated large 
+scale complex program represent descriptive
+and normative theories behavior teractive 
+game environment recently established 
+besides usefulness experiments game 
+playing enables humans construct machine strategies
+ on-line question answering advice taking 
+mode 
+
+cacm april 1977
+
+findler 
+
+machine learning game playing programs decision
+making uncertain ty risk automatic 
+forming optimizing heuristic rules automatic
+inductive deductive inference making models 
+of game learning poker gambling bluffing
+
+3.36 3.62 3.61 3.64 3.65 3.66
+
+ca770403 jb december 29 1977 5 34 am
+
+2979	5	2979
+2979	5	2979
+2979	5	2979
+
+
+

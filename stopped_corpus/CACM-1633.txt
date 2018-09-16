@@ -1,0 +1,26 @@
+
+
+
+a modified newton method polynomials
+
+a modified newton method polynomials is
+discussed assumed approximations 
+for roots polynomial variations
+are roots simple 
+shown conditions two
+of variations cubically convergent 
+
+cacm february 1967
+
+ehrlich 
+
+ca670209 jb february 28 1978 2 33 pm
+
+1633	4	1633
+1452	5	1633
+1633	5	1633
+1633	5	1633
+1633	5	1633
+
+
+

@@ -1,0 +1,35 @@
+
+
+
+the optimal approach recursive programs
+
+the classical fixed poin approach recursive
+programs suggests choosing defined 
+fixed poin solution recursive
+program approach 
+in troduction optimal fixed point contrast
+to defined fixed poin embodies 
+maximal amount valuable information embedded the
+program practical implications approach 
+are discussed techniques proving properties
+of optimal fixed poin presentation 
+is informal emphasis examples 
+
+cacm november 1977
+
+manna 
+shamir 
+
+recursive programs fixed poin ts fixedpoints 
+optimal fixed poin ts proof techniques
+
+5.24
+
+ca771109 jb december 27 1977 7 13 am
+
+2907	5	2907
+2907	5	2907
+2907	5	2907
+
+
+

@@ -1,0 +1,44 @@
+
+
+
+on complexity lr testing
+
+the problem determining arbitrary
+context-free grammar member easily 
+parsed subclass grammars lr grammars
+is considered time complexity problem 
+is analyzed considered fixed
+integer considered parameter 
+of test case shown for
+every exists 2 algorithm 
+testing lr property size the
+grammar question hand 
+k subject grammar problem parameters then
+the complexity problem depends strongly 
+on representation chosen specifically 
+it shown problem np-complete 
+when expressed unary expressed in
+binary problem complete nondeterministic 
+exponential time results carry many
+other parameterized classes grammars 
+the ll strong ll slr lc strong lc grammars 
+
+cacm december 1975
+
+hunt iii
+szymanski 
+ullman 
+
+computational complexity context-free grammars 
+parsing lr grammars np-complete problems
+
+4.12 5.23 5.25
+
+ca751205 jb january 5 1978 4 28 pm
+
+2702	5	2702
+2702	5	2702
+2702	5	2702
+
+
+

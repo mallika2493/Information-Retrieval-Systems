@@ -1,0 +1,55 @@
+
+
+
+an interactive software system computers-aided
+design application circuit project
+
+the characteristics interactive software system intended constitute 
+an interface designer computer steps of
+the design process presented main emphasis the
+description features high level user oriented
+languages operating levels interaction
+is based imol interactive monitor language 
+which designed perform control functions
+of software system design criteria provide user with
+commands simple efficient order perform all
+the functions needed computer-aided circuit design 
+coif circuit oriented graphic language designed
+to describe generate manipulate graphic problem specifications 
+it extension fortran graphic-type variables 
+so designer familiar fortran need learn 
+language application computer-aided circuit design
+is examined hand adopted design
+criteria provide sufficient generality extend languages 
+to computer-assisted applications 
+
+cacm september 1970
+
+bracchi 
+somalvico 
+
+interaction graphics computer graphics computer-aided design circuit
+design software system software organization language 
+monitor language graphic language extended fortran
+
+3.24 3.25 4.13 4.22 4.3
+
+ca700902 jb february 10 1978 2 20 pm
+
+1853	4	2003
+2003	4	2003
+2003	4	2003
+2003	4	2003
+2002	4	2003
+2152	4	2003
+1710	5	2003
+1767	5	2003
+2003	5	2003
+2003	5	2003
+2003	5	2003
+2105	5	2003
+2230	5	2003
+2003	6	2003
+
+
+

@@ -1,0 +1,78 @@
+
+
+
+reflections operating system design
+
+the main features general purpose multiaccess
+operating system developed cdc 6400 
+at berkeley presented good bad points are
+discussed retrospect distinctive 
+features design capabilities
+for protection organization system 
+into sequence layers building facilities
+provided earlier protecting 
+from malfunctions later serious
+problems maintaining protection 
+layers levels added memory hierarchy 
+these problems discussed solution 
+is 
+
+cacm 1976
+
+lampson 
+sturgis 
+
+operating system protection capabilities 
+layering domains memory hierarchy faults
+
+4.35
+
+ca760503 jb january 4 1978 3 57 pm
+
+2319	4	2868
+2378	4	2868
+2320	4	2868
+2436	4	2868
+2626	4	2868
+2626	4	2868
+2629	4	2868
+2632	4	2868
+2738	4	2868
+2740	4	2868
+2868	4	2868
+2868	4	2868
+2868	4	2868
+2868	4	2868
+2868	4	2868
+2868	4	2868
+2870	4	2868
+2870	4	2868
+2876	4	2868
+2928	4	2868
+2939	4	2868
+2941	4	2868
+2951	4	2868
+3105	4	2868
+3105	4	2868
+3127	4	2868
+3144	4	2868
+3144	4	2868
+2080	5	2868
+2377	5	2868
+2380	5	2868
+2558	5	2868
+2625	5	2868
+2632	5	2868
+2868	5	2868
+2868	5	2868
+2868	5	2868
+3105	5	2868
+1471	6	2868
+2625	6	2868
+2632	6	2868
+2868	6	2868
+2939	6	2868
+3068	6	2868
+
+
+

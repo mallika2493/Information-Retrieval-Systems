@@ -1,0 +1,48 @@
+
+
+
+the digital simulation river plankton population dynamics
+
+this paper deals development a
+mathematical model digital simulation 
+in fortran iv phytoplankton zooplankton population
+densities river previously developed 
+rate expressions order study relationships
+between ecological mechanisms involved 
+simulation parameters varied illustrating the
+response ecosystem conditions 
+including types chemical
+and thermal pollution investigation 
+of accuracy simulation methods simulation
+of actual population dynamics asterionella 
+in columbia river made based approximations
+of conditions river totally 
+accurate simulation found predict general
+annual pattern plankton growth fairly 
+and specifically revealed importance annual
+velocity cycle determining patterns 
+ addition study demonstrates usefulness of
+digital simulations examinations 
+aquatic ecosystems environmental
+planning involving examinations 
+
+cacm september 1975
+
+claudson 
+
+digital simulation mathematical modeling plankton
+population dynamics phytoplankton zooplankton 
+river ecosystems ecological mechanisms environmental simulation 
+modeling ecosystems pollution environmental 
+impact environmental planning
+
+3.12 3.19
+
+ca750903 jb january 6 1978 2 55 pm
+
+2721	5	2721
+2721	5	2721
+2721	5	2721
+
+
+

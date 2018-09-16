@@ -1,0 +1,34 @@
+
+
+
+automatic data compression
+
+the information explosion noted recent
+years makes essential storage requirements 
+for information minimum fully automatic
+and rapid three-part compressor 
+be body information greatly reduce
+slow external storage requirements increase 
+the rate information transmission computer
+is paper system 
+also decode compressed information
+on item-by-item basis required 
+three component compressors separately
+to accomplish specific tasks discussed 
+nupak automatic compression numerical data anpak
+for automatic compression information 
+and iopak compression information stored tape cards 
+
+cacm november 1967
+
+marron 
+demaine 
+
+ca671104 jb february 26 1978 3 08 pm
+
+1516	5	1516
+1516	5	1516
+1516	5	1516
+
+
+

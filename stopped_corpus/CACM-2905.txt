@@ -1,0 +1,56 @@
+
+
+
+perfect hashing functions single
+probe retrieving method static sets
+
+a refinement hashing retrieval
+of item static table single probe 
+is considered set identifiers methods
+are presented building mechanical 
+way perfect hashing functions functions transforming
+the elements unique addresses 
+ method quotient reduction method is
+shown complete sense 
+set smallest table elements i
+can stored retrieved 
+by perfect hashing function constructed this
+method found nonuniformly 
+distributed sets method give sparse tables 
+ method remainder reduction 
+method complete sense seems
+to give minimal minimal tables 
+every kind set techniques applicable
+directly small sets methods extend 
+these results larger sets presented rough
+comparison ordinary hashing 
+shows method conveniently
+in practical applications 
+
+cacm november 1977
+
+sprugnoli 
+
+hashing hashing methods hash coding direct addressing 
+identifier-to-address transformations 
+perfect hashing functions perfect hash coding reduction scatter storage
+
+3.7 3.74 4.34
+
+ca771111 jb december 27 1977 6 45 am
+
+2905	4	2905
+2905	5	2905
+2905	5	2905
+2905	5	2905
+3041	5	2905
+3126	5	2905
+3176	5	2905
+829	5	2905
+2846	6	2905
+2905	6	2905
+2905	6	2905
+2905	6	2905
+
+
+

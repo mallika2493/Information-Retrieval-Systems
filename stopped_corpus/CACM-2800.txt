@@ -1,0 +1,40 @@
+
+
+
+connections accuracy stability
+properties linear multistep formulas
+
+this paper concerned stability accuracy
+of families linear k-step formulas depending 
+on parameters emphasis numerical
+solution stiff ordinary differential equations 
+ upper bound derived order accuracy
+of inf -stable formulas criteria 
+are 0 -stability shown 1 for
+p arbitrary inf -stability implies 
+necessary conditions 0 -stability strict
+stability meaning extraneous roots 
+p psi satisfy psi 1 2 2,3,4 5 inf -stability
+ 5 constraint 
+implies strict stability 3 one-parameter
+classes formulas 3,4 5 
+a inf -stability implies 0 -stability 
+
+cacm january 1975
+
+liniger 
+
+stiff equations parametrized linear multistep formulas 
+order accuracy 0 -stability inf -stability 
+strict stability
+
+5.17
+
+ca750111 jb january 12 1978 9 26 am
+
+2800	5	2800
+2800	5	2800
+2800	5	2800
+
+
+

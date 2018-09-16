@@ -1,0 +1,37 @@
+
+
+
+a region coloring technique scene analysis
+
+a method converting picture cartoon 
+or map regions correspond differently 
+textured regions texture edges the
+picture detected solid regions surrounded 
+by broken edges colored using
+a propagation process resulting map cleaned 
+by comparing region colors textures of
+the regions picture 
+by merging regions according criteria
+based topology size method 
+been applied construction cloud cover maps
+from cloud cover pictures obtained satellites 
+
+cacm april 1973
+
+strong iii 
+rosenfeld 
+
+picture processing scene analysis edge detection
+
+3.63 8.2
+
+ca730405 jb january 24 1978 9 48 am
+
+2523	5	2523
+2523	5	2523
+2523	5	2523
+2980	5	2523
+2523	6	2523
+
+
+

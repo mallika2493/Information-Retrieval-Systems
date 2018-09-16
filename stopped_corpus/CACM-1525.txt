@@ -1,0 +1,53 @@
+
+
+
+on computing fast fourier transform
+
+cooley tukey proposed fast algorithm
+for computing complex fourier transform 
+have shown major time savings compute
+large transforms digital computer 
+a power computing time algorithm is
+proportional log2 major improvement 
+other methods computing time proportional 2 
+ paper fast fourier transform algorithm 
+is briefly reviewed fast difference equation methods
+for accurately computing needed trigonometric 
+function values problem computing
+a large fourier transform system virtual 
+memory considered solution proposed this
+method compute complex fourier 
+transforms size 2 16 computer 2 15
+words core storage exceeds factor 
+eight maximum radix transform size fixed
+allocation amount core storage 
+method compute large mixed radix
+transforms scaling plan computing 
+fast fourier transform fixed-point arithmetic 
+
+cacm october 1967
+
+singleton 
+
+ca671008 jb february 27 1978 2 03 pm
+
+1525	5	1525
+1525	5	1525
+1525	5	1525
+1668	5	1525
+1669	5	1525
+1679	5	1525
+1728	5	1525
+2859	5	1525
+1525	6	1525
+1525	6	1525
+1525	6	1525
+1525	6	1525
+1525	6	1525
+1647	6	1525
+1669	6	1525
+1676	6	1525
+1785	6	1525
+
+
+

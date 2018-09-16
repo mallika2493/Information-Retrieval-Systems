@@ -1,0 +1,36 @@
+
+
+
+tests computer method constructing school timetables 
+
+a previously proposed computer method constructing
+timetables based iteration involving 
+boolean matrices limited tests the
+method successfully produced timetables 
+every trial references relate the
+timetable problem theorems matrices zeros 
+and theorems bipartite graphs some
+problems applying method constructing 
+timetables real situations noted 
+
+cacm march 1964
+
+csima 
+gotlieb 
+
+ca640316 jb march 10 1978 2 34 am
+
+1116	5	1116
+1116	5	1116
+1116	5	1116
+1367	5	1116
+2772	5	1116
+2787	5	1116
+1116	6	1116
+1116	6	1116
+1116	6	1116
+1429	6	1116
+1429	6	1116
+
+
+

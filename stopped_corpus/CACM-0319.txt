@@ -1,0 +1,31 @@
+
+
+
+on class iteration formulas historical notes
+
+the class iteration formulas obtainable
+by rational approximations euler formula 
+is derived error estimates 
+some historical notes iterative procedures 
+followed derivation euler formula the
+associated error estimate notation 
+simplifies error estimate suggests generalizations 
+ final section considers pade approximants 
+to euler polynomial shows number known
+formulas derived unified approach 
+ short discussion formula 
+
+cacm june 1961
+
+traub 
+
+ca610606 jb march 16 1978 10 36 pm
+
+319	4	319
+319	5	319
+319	5	319
+319	5	319
+380	5	319
+
+
+

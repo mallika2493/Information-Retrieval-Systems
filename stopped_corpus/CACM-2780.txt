@@ -1,0 +1,31 @@
+
+
+
+on computing elements inverse sparse matrix
+
+a recursive algorithm computing inverse
+of matrix lu factors based relationships 
+in takahashi al examined formulas the
+algorithm dependency relationships 
+are derived computational costs developed some
+general comments application stability 
+are made 
+
+cacm march 1975
+
+erisman 
+tinney 
+
+sparse matrices triangular factorization elements
+of inverse tridiagonal matrix sensitivities
+
+3.24 5.14
+
+ca750308 jb january 9 1978 4 34 pm 
+
+2780	5	2780
+2780	5	2780
+2780	5	2780
+
+
+

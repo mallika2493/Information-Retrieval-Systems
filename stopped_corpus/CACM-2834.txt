@@ -1,0 +1,46 @@
+
+
+
+efficient generation binary
+reflected gray code applications
+
+algorithms presented generate n-bit
+binary reflected gray code codewords 
+fixed weight code algorithms efficient
+in time required generate 
+element constant applications
+to generation combinations things
+taken time compositions integers and
+the permutations multiset discussed 
+
+cacm september 1976
+
+bitner 
+ehrlich 
+reingold 
+
+gray code combinations subsets compositions combinatorial computing
+
+5.39
+
+ca760905 jb january 4 1978 9 14 am
+
+2466	4	2834
+2834	4	2834
+2834	4	2834
+2834	4	2834
+2834	4	2834
+2884	4	2834
+3115	4	2834
+3115	4	2834
+3115	4	2834
+969	5	2834
+2045	5	2834
+2417	5	2834
+2466	5	2834
+2834	5	2834
+2834	5	2834
+2834	5	2834
+
+
+

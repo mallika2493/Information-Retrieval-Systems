@@ -1,0 +1,58 @@
+
+
+
+a simply extended modified batch
+environment graphical system sembegs 
+
+sembegs complete batch environment graphical
+system components handling 
+graphical data displaying contents of
+these variety graphical hardware 
+and performing graphical batch input operations 
+ sembegs easy extend modify meet 
+growing needs large batch environment even
+extendable fully interactive system 
+paper presents conceptual view graphics leading
+to design sembegs outlines major 
+components system design sembegs founded
+upon basic assumption true aim 
+of computer graphics describe graphical entities 
+rather commonly held provide graphical 
+input output functional capabilities sembegs
+is built basic graphical data management 
+system bagdams common means communicating
+the descriptions graphical entities 
+ components sembegs bagdams
+provides facilities storing retrieving 
+manipulating descriptions graphical entities
+provided received application programs 
+graphics packages graphical devices 
+
+cacm november 1978
+
+wendorf 
+
+computer graphics data structures graphic display 
+graphic input graphical database device 
+independent graphics
+
+4.33 4.34 8.2
+
+ca781102 dh january 26 1979 1 30 pm
+
+3030	4	3049
+3031	4	3049
+3049	4	3049
+3049	4	3049
+3049	4	3049
+3049	4	3049
+2956	5	3049
+2957	5	3049
+2958	5	3049
+2960	5	3049
+3049	5	3049
+3049	5	3049
+3049	5	3049
+
+
+

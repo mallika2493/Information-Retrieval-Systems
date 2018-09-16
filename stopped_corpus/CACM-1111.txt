@@ -1,0 +1,26 @@
+
+
+
+a class iterative techniques factorization polynomials 
+
+a method iteration developed terms
+of function arbitrary character 
+ sufficient conditions convergence of
+the process yielding factors arbitrary degree 
+for polynomials variable lin method
+and newton method occur special cases 
+
+cacm march 1964
+
+luther 
+
+ca640321 jb march 10 1978 2 10 am
+
+1111	4	1111
+1111	5	1111
+1111	5	1111
+1111	5	1111
+894	5	1111
+
+
+

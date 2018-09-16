@@ -1,0 +1,36 @@
+
+
+
+a note computing approximations exponential function
+
+two methods discussed result near
+minimax rational approximations exponential 
+function time retain desirable property
+that approximation negative values 
+of argument reciprocal approximation
+for positive values methods 
+lead approximations superior the
+commonly convergents gaussian continued 
+fraction exponential coefficients errors
+are intervals 
+and 
+
+cacm january 1967
+
+cody 
+ralston 
+
+ca670110jb february 28 1978 4 25 pm
+
+1015	4	1645
+1346	4	1645
+1440	4	1645
+1645	4	1645
+951	4	1645
+1645	5	1645
+1645	5	1645
+1645	5	1645
+532	5	1645
+
+
+

@@ -1,0 +1,37 @@
+
+
+
+n-dimensional codes detecting correcting multiple errors
+
+the paper introduces family codes
+for detecting correcting multiple errors 
+a binary-coded message message arranged
+ conceptually multidimensional rectangular 
+array processes encoding error detection
+are based parity evaluations prescribed 
+dimensions array effectiveness codes
+is increased introducing system check bit 
+which essentially parity check parity
+bits three-dimensional codes discussed 
+in paper parity evaluations horizontal 
+the vertical main diagonal 
+the family codes restricted dimensions 
+as evidenced discussion minnick 
+and ashenhurst similar multidimensional single-bit
+selection plan purpose 
+ four-dimensional code correcting detecting
+four errors developed extension 
+to higher-dimensional codes greater correction power straightforward 
+
+cacm december 1961
+
+rubinoff 
+
+ca611207 jb march 15 1978 10 23 pm
+
+243	5	243
+243	5	243
+243	5	243
+
+
+

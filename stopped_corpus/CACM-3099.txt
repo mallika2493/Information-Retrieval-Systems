@@ -1,0 +1,44 @@
+
+
+
+new sufficient optimality conditions for
+integer programming application
+
+the purpose report present a
+new class sufficient optimality conditions 
+pure mixed integer programming problems of
+the sets sufficient conditions presented 
+be thought generalizations optimality conditions
+based primal-dual complementarity linear 
+programming sufficient conditions particularly
+useful construction difficult integer 
+programming problems known optimal solutions these
+problems test benchmark 
+integer programming codes 
+
+cacm 1978
+
+fleisher 
+meyer 
+
+integer programming optimality conditions test
+problem construction kuhn-tucker conditions 
+greatest common divisor 
+
+3.15 5.39 5.49
+
+ca780508 dh february 26 1979 1 19 pm
+
+2028	4	3099
+2521	4	3099
+3099	4	3099
+3099	4	3099
+3138	4	3099
+1313	5	3099
+2031	5	3099
+3099	5	3099
+3099	5	3099
+3099	5	3099
+
+
+

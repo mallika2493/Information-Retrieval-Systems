@@ -1,0 +1,38 @@
+
+
+
+on algorithm nonlinear minimax approximation
+
+certain nonlinear minimax approximation problems characterize
+d properties permit application special algorithms 
+mainly based exchange algorithms remes 1934 1935 for
+their solution paper application problems this
+type general nonlinear algorithm due osborne watson
+ 1969 considered examples illustrate this
+algorithm give satisfactory results can
+successfully solve problems lead difficulties
+with conventional specialist method 
+
+cacm march 1970
+
+watson 
+
+minimax approximation nonlinear approximation linear programming
+
+5.13 5.41
+
+ca700304 jb february 13 1978 4 52 pm
+
+1932	4	2094
+2094	4	2094
+1566	5	2094
+2094	5	2094
+2094	5	2094
+2094	5	2094
+2352	5	2094
+2353	5	2094
+2094	6	2094
+2094	6	2094
+
+
+

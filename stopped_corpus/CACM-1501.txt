@@ -1,0 +1,24 @@
+
+
+
+eigenvectors 2n 2n matrix
+
+it known eigenvalues a
+certain 2n 2n matrix obtained 
+two smaller matrices order easily
+constructed algorithm obtain 
+eigenvectors 2n 2n matrix of
+the eigenvectors smaller matrices 
+
+cacm december 1967
+
+charmonman 
+
+ca671207 jb february 26 1978 2 22 pm
+
+1501	5	1501
+1501	5	1501
+1501	5	1501
+
+
+

@@ -1,0 +1,38 @@
+
+
+
+a general formulation storage allocation
+
+formalization general computer storage
+allocation process attempted 
+computer fictitious computer essentially
+identical respect possession 
+of unbounded primary storage mappings total
+storage set internal external 
+direct address set introduced program
+sequence termed m-admissible relative 
+to specific execution time period mapping
+underwhich effective data referents 
+are located direct address set storage
+allocation considered process establishing 
+for arbitrary program sequence mappings decoupling
+of program m-admissible subprograms 
+and linking set interludes existence proof
+in terms completely interpretive program 
+as special cases discussed various
+restrictions generality programs 
+considered practical realization
+of allocation processes tractable 
+
+cacm october 1961
+
+roberts jr 
+
+ca611003 jb march 16 1978 1 22 pm
+
+278	5	278
+278	5	278
+278	5	278
+
+
+

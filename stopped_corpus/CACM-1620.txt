@@ -1,0 +1,35 @@
+
+
+
+methods evaluating polynomial approximations
+in function evaluation routines
+
+the method nested multiplication commonly
+used function evaluation routines evaluate 
+approximation polynomials polynomial evaluation
+methods developed recent years 
+require fewer multiplications nested multiplication
+and preferable function 
+evaluation routines methods
+do practically 
+rounding-error difficulties methods evaluating
+low-degree polynomials found 
+be satisfactory methods illustrated 
+
+cacm march 1967
+
+file 
+
+ca670309 jb february 28 1978 1 08 pm
+
+1620	4	1620
+1620	4	1620
+819	4	1620
+1620	5	1620
+1620	5	1620
+1620	5	1620
+436	5	1620
+819	5	1620
+
+
+

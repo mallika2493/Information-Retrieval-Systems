@@ -1,0 +1,32 @@
+
+
+
+digital simulation discrete flow systems 
+
+the discrete flow systems discussed characterized
+by movement randomly arriving 
+items interacting channels programing digital
+computer simulate systems utilizes 
+techniques common approaches physical
+problems principal portion paper 
+a discussion simulation studies illustrate
+some programming problems involved 
+is extensive package-handling plant the
+objective optimization parameters 
+storage capacities processing rates 
+air traffic flow control procedures simulated 
+to compare effects alternative control decisions 
+
+cacm december 1960
+
+moore 
+lewis 
+
+ca601212 jb march 20 1978 6 27 pm
+
+104	5	104
+104	5	104
+104	5	104
+
+
+

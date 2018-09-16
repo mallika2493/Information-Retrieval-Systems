@@ -1,0 +1,30 @@
+
+
+
+a system organization resource allocation 
+
+this paper introduces system resource management
+using concepts process facility 
+and event processor attempt has
+been made give suggestions policy 
+to resource allocation basic
+framework provided system analyst 
+can express solutions resource management problems 
+ paper divided tutorial presentation 
+a description system primitives small collection
+of examples primitives 
+
+cacm december 1967
+
+dahm 
+gerbstadt 
+pacelli 
+
+ca671203 jb february 26 1978 2 40 pm
+
+1505	5	1505
+1505	5	1505
+1505	5	1505
+
+
+

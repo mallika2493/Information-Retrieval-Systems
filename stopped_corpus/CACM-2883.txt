@@ -1,0 +1,47 @@
+
+
+
+an application heuristic search methods edge contour detection
+
+this paper presents method detecting edges
+and contours noisy pictures properties 
+of edge embedded figure merit edge
+detection problem problem minimizing 
+the figure merit problem represented
+as shortest path problem graph 
+can solved well-known graph search algorithms 
+ relations representation 
+the minimization problem dynamic programming approach
+are discussed showing graph search 
+method lead substantial improvements computing
+time heuristic search methods 
+are computing time depend amount
+of noise picture experimental results 
+are show information the
+shape contour object embedded
+in figure merit allowing extraction
+of contours noisy picture separation 
+of touching objects 
+
+cacm february 1976
+
+martelli 
+
+picture processing pattern recognition edge
+detection contour detection contour 
+optimization problems dynamic programming shortest
+path heuristic search methods problem solving 
+methods
+
+3.63 3.64 3.66 5.42
+
+ca760204 jb january 5 1978 9 30 am
+
+2883	4	2883
+2195	5	2883
+2883	5	2883
+2883	5	2883
+2883	5	2883
+
+
+

@@ -1,0 +1,30 @@
+
+
+
+testing random number generator
+
+the 1,000,000 numbers produced the
+random number generator general purpose 
+systems simulator gpss subjected statistical
+tests tests results 
+of tests presented tests indicate
+that numbers satisfactory 
+recommended suitable tests applied all
+random numbers computer simulations 
+
+cacm february 1967
+
+gorenstein 
+
+ca670211 jb february 28 1978 2 10 pm
+
+1631	5	1631
+1631	5	1631
+1631	5	1631
+1691	5	1631
+1293	6	1631
+1420	6	1631
+1631	6	1631
+
+
+

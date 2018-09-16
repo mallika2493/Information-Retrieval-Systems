@@ -1,0 +1,40 @@
+
+
+
+glypnir-a programming language illiac iv
+
+glypnir earliest existing languages
+designed programming illiac iv computer 
+the syntax language based algol 60 has
+been extended allow programmer explicitly 
+to parallelism algorithm terms 64-word
+vectors paper describes characteristics 
+goals philosophy language discusses some
+of problems parallel computer 
+architectures 
+
+cacm march 1975
+
+lawrie 
+layman 
+baer 
+randal 
+
+glypnir illiac iv programming language 
+parallel computation parallel architecture
+
+4.2 4.21 4.22
+
+ca750303jb january 9 1978 4 57 pm
+
+2785	4	2785
+2785	4	2785
+2876	4	2785
+2433	5	2785
+2685	5	2785
+2785	5	2785
+2785	5	2785
+2785	5	2785
+
+
+

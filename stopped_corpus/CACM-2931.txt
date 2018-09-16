@@ -1,0 +1,67 @@
+
+
+
+logic programming languages
+
+logic long terested answers
+to questions computable principle 
+since outcome puts bounds possibilities of
+formalization recently precise comparisons 
+in efficiency decision methods available
+through developments complexity theory 
+ applications logic big question
+is methods logic significance 
+in direction applied parts of
+computability theory programming languages offer 
+an obvious opportunity syntactic formalization
+is advanced semantical theory 
+can complete have
+many examples give wide-ranging 
+mathematical answers queries machine 
+ computable process 
+well machine simulate process programs naturally
+enter giving descriptions processes 
+ definition precise meaning program
+then requires explain objects 
+of computation statics problem 
+and transformed dynamics 
+ theories automata nets though
+most teresting dynamics formalized 
+a portion field too
+much concentration finite-state algebraic 
+aspects understanding higher-level
+program features involves infinite 
+objects forces pass levels
+of explanation conceptual ideas 
+the final simulation real machine levels
+can made mathematically exact find 
+the abstractions represent structures 
+ experience independent workers 
+with method data types lattices partial
+orderings information content ordering 
+and continuous mappings demonstrated the
+flexibility approach providing definitions 
+and proofs clean undue dependence
+on implementations remains 
+to showing abstract conceptualizations
+can actualized say 
+we unified theory 
+
+cacm september 1977
+
+scott 
+
+logic programming languages automata denotational
+semantics a-calculus models computability 
+partial functions approximation function spaces
+
+1.2 4.20 5.21 5.24 5.27
+
+ca770902 jb december 28 1977 6 49 am
+
+2931	5	2931
+2931	5	2931
+2931	5	2931
+
+
+

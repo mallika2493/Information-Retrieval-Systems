@@ -1,0 +1,30 @@
+
+
+
+improving round-off runge-kutta computations gill method
+
+a runge-kutta-gill scheme common based incomplete
+adaptation floating point operations gill method an
+improved version reduces round-off error significantly note
+the heart scheme presented fortran language is
+then shown improved version method obtained with
+the addition fortran statements version a
+significant improvement numerical comparing included 
+
+cacm december 1970
+
+thompson 
+
+runge-kutta methods ordinary differential
+equations round-off error error analysis
+
+5.11 5.17
+
+ca701205 jb february 9 1978 3 40 pm
+
+1958	5	1958
+1958	5	1958
+1958	5	1958
+
+
+

@@ -1,0 +1,31 @@
+
+
+
+programming tabular method analysis
+of variance factorial experiments 
+
+the ease programming tabular method analysis
+of variance complete factorial experiments 
+in fortran language demonstrated method 
+the total sum squares partitioned 
+orthogonal single degree freedom sums squares 
+main effect interaction sums squares 
+then obtained pooling single degree
+of freedom sums squares program segments 
+to accomplish procedure presented modifications
+to handle hierarchical designs replicated 
+experiments mentioned fortran ii program
+for ibm 7094 briefly 
+
+cacm february 1967
+
+carmer 
+
+ca670210 jb february 28 1978 2 33 pm
+
+1632	5	1632
+1632	5	1632
+1632	5	1632
+
+
+

@@ -1,0 +1,39 @@
+
+
+
+a code non-numeric information processing
+applications online systems
+
+a code specifically designed simplify
+the internal information processing operations 
+within online computer system respect non-numeric
+applications maximize transfer 
+rate information channel linking system and
+the system user code direct application 
+to problems area information retrieval document
+classification computer-aided teaching 
+text editing code called ipc information processing
+code 8-bit code set constructed 
+so 7 6 5 4-bit subsets easily derived
+from basic set code set organized 
+so simple binary operations distinguish between
+the numeric alphabetic special symbol control 
+character codes number usable characters within
+the basic set size expanded 
+use escape codes included set suitable
+interpretation unassigned codes 
+on basis requirements local environments 
+
+cacm january 1967
+
+morenoff 
+mclean 
+
+ca670103 jb march 1 1978 9 05 am
+
+1652	5	1652
+1652	5	1652
+1652	5	1652
+
+
+

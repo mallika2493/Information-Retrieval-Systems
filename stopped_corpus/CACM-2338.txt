@@ -1,0 +1,26 @@
+
+
+
+a starting method solving nonlinear volterra
+integral equations kind
+
+a fourth-order starting method for
+volterra integral equations kind 
+and numerical examples presented 
+
+cacm june 1972
+
+iguchi 
+
+algorithm volterra integral equations starting method
+
+5.18
+
+ca720607 jb january 30 1978 4 17 pm
+
+2338	5	2338
+2338	5	2338
+2338	5	2338
+
+
+

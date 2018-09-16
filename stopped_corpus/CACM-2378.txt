@@ -1,0 +1,68 @@
+
+
+
+an operating system based concept supervisory computer
+
+an operating system organized a
+small supervisor set independent processes 
+are supervisor handles external
+devices-the directory system-schedules 
+active processes manages memory handle errors and
+provides small set primitive functions 
+it execute process process able to
+specify request complicated action 
+part supervisor wait occurrence
+of compound event system combining 
+these primitives supervisory computer program 
+ part supervisor executes 
+programs viewed software implemented supervisory
+computer paper develops concepts 
+in detail outlines remainder supervisor and
+discusses advantages approach 
+
+cacm march 1972
+
+gaines 
+
+operating systems supervisors multiprogramming 
+time-sharing cooperating processes
+
+4.30 4.31 4.32
+
+ca720303 jb january 31 1978 3 08 pm
+
+1458	4	2378
+1523	4	2378
+1603	4	2378
+1698	4	2378
+1747	4	2378
+1748	4	2378
+1854	4	2378
+1877	4	2378
+1960	4	2378
+2319	4	2378
+2377	4	2378
+2378	4	2378
+2378	4	2378
+2320	4	2378
+2497	4	2378
+2558	4	2378
+2625	4	2378
+2632	4	2378
+2632	4	2378
+2738	4	2378
+2740	4	2378
+2840	4	2378
+2868	4	2378
+2941	4	2378
+3105	4	2378
+3127	4	2378
+3144	4	2378
+1471	5	2378
+2080	5	2378
+2378	5	2378
+2378	5	2378
+2378	5	2378
+
+
+

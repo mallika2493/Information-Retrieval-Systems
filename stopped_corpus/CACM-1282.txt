@@ -1,0 +1,26 @@
+
+
+
+the fortran subroutines cobol main programs
+
+by proper cobol coding techniques and
+accounting differences storage allocation 
+and library routines languages is
+possible write fortran iv subroutines 
+be called cobol main programs technique
+enables programmer take advantage 
+most properties language while
+minimizing respective disadvantages 
+
+cacm april 1965
+
+shavell 
+
+ca650409 jb march 7 1978 3 52 pm
+
+1282	5	1282
+1282	5	1282
+1282	5	1282
+
+
+

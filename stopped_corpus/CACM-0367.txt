@@ -1,0 +1,39 @@
+
+
+
+topological ordering list of
+randomly-numbered elements network
+
+a network directed line segments free circular
+elements assumed lines identified 
+by terminal nodes nodes assumed to
+be numbered non-topological system 
+a list lines numeric order simple technique
+can create high speed list 
+in topological order 
+
+cacm april 1961
+
+lasser 
+
+ca610401 jb march 17 1978 12 17 am
+
+1050	5	367
+1226	5	367
+367	5	367
+367	5	367
+367	5	367
+441	5	367
+758	5	367
+849	6	367
+106	6	367
+209	6	367
+367	6	367
+367	6	367
+367	6	367
+367	6	367
+441	6	367
+627	6	367
+
+
+

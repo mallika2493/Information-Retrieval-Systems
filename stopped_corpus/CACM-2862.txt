@@ -1,0 +1,52 @@
+
+
+
+analysis pff replacement algorithm semi-markov model
+
+an analytical model presented estimate
+the performance page fault frequency pff 
+replacement algorithm model program behavior
+is represented lru stack distance model 
+and pff replacement algorithm represented semi-markov
+model models parameters 
+as inter-page-fault interval distribution the
+probability number distinct pages 
+referenced inter-page-fault interval are
+able analytically determined 
+models evaluate parameter values permits study
+of performance replacement algorithm 
+by simulating page fault events every
+page reference event significantly reduces 
+the required computation time estimating
+the performance pff algorithm 
+
+cacm 1976
+
+chu 
+opderbeck 
+
+pff replacement algorithm semi-markov
+model simulation replacement algorithm
+
+4.31 4.32
+
+ca760509 jb january 4 1978 2 59 pm
+
+1892	4	2862
+1924	4	2862
+2095	4	2862
+2218	4	2862
+2297	4	2862
+2374	4	2862
+2526	4	2862
+2667	4	2862
+2668	4	2862
+2862	4	2862
+2863	4	2862
+1728	5	2862
+2862	5	2862
+2862	5	2862
+2862	5	2862
+
+
+

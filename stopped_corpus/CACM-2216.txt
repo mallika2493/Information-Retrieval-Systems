@@ -1,0 +1,61 @@
+
+
+
+on probability distribution values binary trees
+
+an integral equation derived generating
+function binary tree values values 
+reflecting sorting effort analysis assume
+uniformly distributed branching ratios 
+therefore applicable family sorting algorithms
+discussed hoare singleton van emden 
+ solution integral equation that
+using advanced algorithms family makes 
+only minor reductions expected sorting effort 
+but substantially reduces variance sorting 
+effort statistical tests values several
+thousand trees 10,000 points 
+given moments distribution
+function satisfactory agreement 
+the moments computed generating function the
+empirical tests analytical results 
+are agreement previously published results the
+first moment cases uniform nonuniform 
+distribution branching ratio moment
+in case uniform distribution branching 
+ratio 
+
+cacm february 1971
+
+hurwitz jr 
+
+binary trees sorting statistical analysis
+
+4.40 5.18 5.5
+
+ca710205 jb february 8 1978 9 09 am
+
+1175	4	2216
+1919	4	2216
+1997	4	2216
+2017	4	2216
+2041	4	2216
+2216	4	2216
+2216	4	2216
+2216	4	2216
+2216	4	2216
+2679	4	2216
+2679	4	2216
+3054	4	2216
+3054	4	2216
+3054	4	2216
+1919	5	2216
+1969	5	2216
+1997	5	2216
+2216	5	2216
+2216	5	2216
+2216	5	2216
+864	5	2216
+
+
+

@@ -1,0 +1,40 @@
+
+
+
+toward discipline real-time programming
+
+programming divided major categories
+with increasing complexity reasoning 
+in program validation sequential programming multiprogramming 
+and real-time programming adhering 
+to strict programming discipline suitable
+high-level language molded discipline 
+the complexity reasoning concurrency execution
+time constrain ts drastically reduced 
+ practical make real-time
+systems analytically verifiable ultimately 
+reliable discipline outlined and
+expressed terms language modula 
+
+cacm august 1977
+
+wirth 
+
+multiprogramming real-time programming process synchronization 
+processor sharing program validation 
+modula
+
+3.80 4.22
+
+ca770805 jb december 28 19777 39 am
+
+2938	4	2938
+2946	4	2938
+3128	4	2938
+2866	5	2938
+2938	5	2938
+2938	5	2938
+2938	5	2938
+
+
+

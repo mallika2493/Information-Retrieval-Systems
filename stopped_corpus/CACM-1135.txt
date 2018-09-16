@@ -1,0 +1,62 @@
+
+
+
+a general business-oriented language based decision expressions 
+
+the structure digital compute programming
+language covers wide class business 
+and processing applications presented such
+a structure based identifying incorporating 
+into compiler aspects common processes
+of class permits writing extremely compact 
+programs comparatively complex applications 
+in terms tables control expressions 
+express information characteristic particular
+application local 
+a process affecting output
+files involved effected local modifications 
+in program modification entry the
+tables structure inexpensive 
+preparation loading-speed compilers translate the
+source programs efficient machine codes 
+ approach adopted departs conventional mechanical
+language design philosophies stresses 
+the structural analysis class processes represented
+in languages opposed emphasizing 
+formal contents-independent syntactical definitions 
+ relies exclusively nonprocedural 
+representation process sets tables relations
+between data results control 
+statements procedure
+descriptions one-to-one translations 
+of flowcharts invariant pattern procedure
+is identified characteristic class 
+of batch processes philosophy has
+the potential overcome well-known deficiencies 
+of business-oriented languages fully meets
+the requirements set codasyl languages 
+including machine-independence 
+
+cacm february 1964
+
+lombardi 
+
+ca640208 jb march 10 1978 4 08 am
+
+1135	4	1135
+1136	4	1135
+493	4	1135
+2710	4	1135
+2765	4	1135
+2888	4	1135
+2906	4	1135
+729	4	1135
+1135	5	1135
+1135	5	1135
+1135	5	1135
+1959	5	1135
+616	5	1135
+1135	6	1135
+
+
+

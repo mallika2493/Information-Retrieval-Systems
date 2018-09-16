@@ -1,0 +1,39 @@
+
+
+
+an assembly language reprogramming
+
+complete reprogramming compiler language programs
+is seldom assembly language 
+programs present greatest difficulty assembly
+languages generally provide one-for-one translation 
+from symbolic numeric version program that
+is assembly language machine language 
+ meta-language presented specify
+the mapping language conforms 
+a canonical list form arbitrary stream bits 
+ bit stream treated machine 
+language program character stream else
+the user desire meta-language 
+can map assembly language another
+or assembly language machine 
+into machine language 
+
+cacm december 1965
+
+graham 
+ingerman 
+
+ca651207 jb march 6 1978 4 01 pm
+
+1162	5	1162
+1162	5	1162
+1162	5	1162
+1565	5	1162
+1162	6	1162
+1358	6	1162
+1455	6	1162
+205	6	1162
+
+
+

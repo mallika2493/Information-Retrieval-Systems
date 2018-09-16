@@ -1,0 +1,57 @@
+
+
+
+toward automatic program synthesis
+
+an elementary outline theorem-proving
+approach automatic program synthesis 
+without dwelling technical details method is
+illustrated automatic construction 
+recursive iterative programs operating natural
+numbers lists trees order construct 
+a program satisfying specifications theorem
+induced specifications proved 
+the desired program extracted proof the
+same technique applied transform recursively 
+defined functions iterative programs frequently
+with major gain inefficiency emphasized 
+that order construct program loops with
+recursion principle mathematical induction 
+must applied relation version of
+the induction rule form program 
+constructed explored detail 
+
+cacm march 1971
+
+manna 
+waldinger 
+
+artificial intelligence answer extraction automatic
+program synthesis mathematical induction 
+principle problem solving theorem proving
+
+3.64 5.23 5.24
+
+ca710302 jb february 3 1978 4 48 pm
+
+1515	4	2210
+2096	4	2210
+2127	4	2210
+2210	4	2210
+1155	5	2210
+2210	5	2210
+2210	5	2210
+2210	5	2210
+2657	5	2210
+2719	5	2210
+1626	6	2210
+210	6	2210
+2151	6	2210
+2167	6	2210
+2210	6	2210
+2210	6	2210
+2645	6	2210
+2657	6	2210
+
+
+

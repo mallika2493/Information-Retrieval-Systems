@@ -1,0 +1,32 @@
+
+
+
+near-minimax polynomial approximations partitioning intervals
+
+a method near-minimax polynomial approximation
+is by-product method 
+provides formula estimate maximum error
+associated degree approximation 
+ formula partitioning algorithm obtained
+for dividing basic interval subintervals 
+for approximations equal degree give equal maximum error 
+
+cacm august 1964
+
+fraser 
+hart 
+
+ca640815 jb march 9 1978 6 41 pm
+
+1015	4	1015
+1346	4	1015
+1440	4	1015
+1645	4	1015
+951	4	1015
+1015	5	1015
+1015	5	1015
+1015	5	1015
+532	5	1015
+
+
+

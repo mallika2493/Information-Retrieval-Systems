@@ -1,0 +1,44 @@
+
+
+
+a process determination of
+addresses variable length addressing
+
+an algorithm presented assignment
+of instruction addresses formats 
+following conditions 1 length instruction varies
+as function distance instruction 
+from target 2 exists optimality criterion
+which implies preferential choices subject 
+to addressing constraints 
+achieving smallest number long instructions 
+in case total code length minimized or
+minimizing assigned address point 
+in program algorithm suitable arbitrary
+program structure choice optimization 
+criteria 
+
+cacm june 1976
+
+frieder 
+saal 
+
+variable length addressing assembler paging
+
+4.11 4.12
+
+ca760604 jb january 4 1978 2 09 pm
+
+2858	4	2858
+3110	4	2858
+2194	5	2858
+2858	5	2858
+2858	5	2858
+2858	5	2858
+3110	5	2858
+2194	6	2858
+2629	6	2858
+2858	6	2858
+
+
+

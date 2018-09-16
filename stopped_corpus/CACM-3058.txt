@@ -1,0 +1,35 @@
+
+
+
+jump searching fast sequential search technique
+
+when sequential structures used
+and binary searching feasible jump searching 
+becomes appealing alternative paper explores
+variants classic jump searching scheme 
+where optimum jump size square root the
+number records multiple level variable 
+size jump strategies explored applications
+are discussed performance evaluated 
+
+cacm october 1978
+
+shneiderman 
+
+jump searching sequential management 
+search strategies database structures index 
+searching
+
+3.74 4.34
+
+ca781003 dh january 29 1979 6 15 pm
+
+3058	4	3058
+3063	4	3058
+2978	5	3058
+3058	5	3058
+3058	5	3058
+3058	5	3058
+
+
+

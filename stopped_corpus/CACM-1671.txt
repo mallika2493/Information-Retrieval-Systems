@@ -1,0 +1,51 @@
+
+
+
+a phonological rule tester
+
+the design implementation system to
+alleviate problem rule evaluation 
+linguist area phonology presented it
+permits user define on-line sets rules 
+statable framework presented sound
+patterns english chomsky halle 1968 
+to define phonemes bundles distinctive
+features define data strings phonemes 
+with grammatical structure test effect
+of applying rules data store 
+both definitions results rule application
+facility detail implemented 
+by translating linguistic rules rules flip a
+format-directed list processor embedded lisp 
+ made system construction easy providing
+sophisticated capabilities linguist 
+ system written bbn lisp scientific
+data system 940 computer designed 
+on-line interactive fashion control returned
+to user command executed 
+
+cacm november 1968
+
+borrow 
+fraser 
+
+phonology rule tester linguistics transformational
+grammar lisp format-directed list processing 
+on-line systems
+
+3.42 4.13 4.22
+
+ca681108 jb february 21 1978 2 41 pm
+
+1659	5	1671
+1671	5	1671
+1671	5	1671
+1671	5	1671
+1225	6	1671
+1265	6	1671
+1350	6	1671
+1671	6	1671
+1697	6	1671
+
+
+

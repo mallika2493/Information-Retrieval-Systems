@@ -1,0 +1,29 @@
+
+
+
+complexity computations
+
+the framework research theory complexity
+of computations emphasizing 
+the terrelation seemingly diverse problems
+and methods illustrative examples practical 
+and theoretical significance directions
+for research discussed 
+
+cacm september 1977
+
+rabin 
+
+complexity computations algebraic complexity 
+in tractable problems probabilistic algorithms
+
+5.25
+
+ca770901 jb december 28 1977 6 54 am
+
+2932	5	2932
+2932	5	2932
+2932	5	2932
+
+
+

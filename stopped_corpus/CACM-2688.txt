@@ -1,0 +1,44 @@
+
+
+
+attribute based organization paged memory environment
+
+the high cost page accessing implies need
+for careful data organization paged 
+memory typical inverted similar
+approaches multi-key retrieval article 
+analyses cost proposes method called multiple
+key hashing attempts minimize 
+since approach preferable inversion 
+a combined method exact 
+specifications combination given
+data traffic characteristics formulated 
+as mathematical program proposed heuristic solution
+to program improve simple 
+inversion technique factor 2 3 
+
+cacm february,1974
+
+rothnie jr 
+lozano 
+
+file organization paging retrieval algorithm 
+inverted multiple key hashing
+
+3.70 3.73 3.74 3.79
+
+ca740201 jb january 18 1978 1 37 pm
+
+2160	4	2688
+2688	4	2688
+2114	5	2688
+2688	5	2688
+2688	5	2688
+2688	5	2688
+2976	5	2688
+2688	6	2688
+2765	6	2688
+2882	6	2688
+
+
+

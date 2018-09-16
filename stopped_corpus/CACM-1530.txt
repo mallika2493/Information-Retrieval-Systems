@@ -1,0 +1,38 @@
+
+
+
+the ml macro processor
+
+a general purpose macro processor called ml i
+is ml implemented 
+pdp-7 atlas 2 computers intended a
+tool allow users extend existing programming 
+language incorporating statements other
+syntactic forms choosing 
+own notation complete user-oriented
+language built relative ease 
+
+cacm october 1967
+
+brown 
+
+ca671003 jb february 27 1978 2 38 pm
+
+1530	4	1530
+1530	4	1530
+1531	4	1530
+1565	4	1530
+1703	4	1530
+1781	4	1530
+1852	4	1530
+1945	4	1530
+2034	4	1530
+2036	4	1530
+1455	5	1530
+1530	5	1530
+1530	5	1530
+1530	5	1530
+1565	5	1530
+
+
+

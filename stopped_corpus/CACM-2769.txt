@@ -1,0 +1,34 @@
+
+
+
+a modification warshall algorithm for
+the transitive closure binary relations
+
+an algorithm computing transitive
+closure binary relation represented 
+by boolean matrix algorithm similar warshall s
+although executes faster sparse matrices
+on computers paging environment 
+
+cacm april 1975
+
+warren jr 
+
+warshall algorithm transitive closure reachability
+matrix directed graph digraph boolean 
+matrix binary relation
+
+5.30 5.32
+
+ca750408 jb january 9 1978 3 49 pm
+
+1151	4	2769
+1265	4	2769
+2769	4	2769
+2769	5	2769
+2769	5	2769
+2769	5	2769
+635	5	2769
+
+
+

@@ -1,0 +1,47 @@
+
+
+
+a model type checking
+
+most programming languages treat computation
+over classes objects 
+numbers strings labels functions correct
+compilation execution question 
+then arises program properly constructed that
+its operations operands compatible 
+activity answering question called
+type checking paper attempts isolate 
+the notion type checking presents partial
+solution type checking problem based 
+notions abstraction application functions 
+in program mapped expression 
+within decidable subset lambda calculus which
+characterizes type relations program 
+and eliminates information determination
+of type-wise correctness incorrectness 
+of program resolved reducing corresponding
+lambda calculus expression normal 
+forms constant correct type-wise correct
+program constant error application 
+to type checking algol 60 made attendant
+problems faced notion type checking 
+are discussed 
+
+cacm november 1972
+
+ledgard 
+
+type checking types lambda calculus models for
+programming languages syntax semantics compiler 
+writing language implementation formal definition
+
+4.12 4.22 5.2 5.21 5.23
+
+ca721104 jb january 27 1978 2 30 pm
+
+2265	5	2265
+2265	5	2265
+2265	5	2265
+
+
+

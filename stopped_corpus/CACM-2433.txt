@@ -1,0 +1,42 @@
+
+
+
+control structures illiac iv fortran
+
+as part effort design implement
+a fortran compiler illiac iv extended 
+fortran called ivtran developed language
+provides means expressing data control 
+structures suitable exploiting illiac iv parallelism 
+ paper reviews hardware characteristics 
+of illiac singles unconventional features
+which expected influence language 
+compiler design implications features for
+data layout algorithm structure discussed 
+and conclusion drawn data allocation than
+code structuring crucial illiac optimization 
+problem satisfactory method data allocation is
+then presented language structures utilize 
+this storage method express parallel algorithms 
+
+cacm october 1973
+
+millstein 
+
+array processing parallelism detection explicit
+parallelism array allocation parallel control 
+structures illiac iv fortran
+
+4.12 4.21 4.22
+
+ca731007 jb january 20 1978 11 30 am
+
+2433	5	2433
+2433	5	2433
+2433	5	2433
+2785	5	2433
+2433	6	2433
+2685	6	2433
+
+
+

@@ -1,0 +1,41 @@
+
+
+
+neater2 pl source statement reformatter
+
+neater2 accepts pl source program operates produce
+a reformatted version logical mode neater2 indicates
+the logical structure source program indentation
+pattern output logic errors discovered neater2
+logical analysis discovered economically possible
+through compilation trial runs number options are
+available give user full control output format and
+to maximize utility neater2 aid early
+stages development pl source deck option usage causes
+neater2 insert logical unit coding statement
+which case number times executed recorded
+during execution feature expected provide a
+major aid optimization pl programs 
+
+cacm november 1970
+
+conrow 
+smith 
+
+logical analysis pl source reformatting pl i
+source documentation aid execution time usage data
+
+1.52 4.12 4.19 4.42
+
+ca701104 jb february 10 1978 8 40 am
+
+1974	5	1974
+1974	5	1974
+1974	5	1974
+2971	5	1974
+1835	6	1974
+1974	6	1974
+2534	6	1974
+
+
+

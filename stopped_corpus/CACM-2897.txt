@@ -1,0 +1,45 @@
+
+
+
+a case study code generation technique compilers
+
+recent developments optimizing techniques
+have allowed design compilers emerge 
+ compiler translates parsed source code into
+lower level code sequence steps 
+step expands higher level statements blocks of
+lower level code performs optimizations 
+on result statement possible
+expansion-the task tailoring code take 
+advantage special cases optimizations 
+ paper evidence 
+strategy result good object code the
+traditionally difficult pl concatenate statement 
+was investigated detailed set fairly
+simple optimizations identified allow 
+the compiler produce good code elaborate optimizations
+can improve object code 
+ contexts concatenate statement code
+produced compiler expansion-optimization 
+strategy compares favorably the
+code produced conventional pl optimizing 
+compiler 
+
+cacm december 1977
+
+carter 
+
+compiler structure optimizing compiler code
+generation pl compiler concatenation program 
+optimization optimization techniques data flow analysis
+
+4.12 4.13 4.22
+
+ca771203 jb february 1 1980 3 54 am
+
+2897	5	2897
+2897	5	2897
+2897	5	2897
+
+
+

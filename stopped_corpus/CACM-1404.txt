@@ -1,0 +1,34 @@
+
+
+
+computational aspects multiple covariance
+analysis multifactor structure
+
+the computational procedure analysis
+of multiple covariance statistics discussed 
+with reference analysis variance special
+operator calculus developed hartly programming 
+analysis variance multifactor experiments extended
+to cover analysis covariance 
+extension accomplished utilizing connection
+between analysis covariance analysis 
+of variance introducing operator the
+results illustrated numerical 
+analysis covariance basic computations
+are shown carried analysis-of-variance 
+program 
+
+cacm july 1966
+
+peng 
+
+ca660708 jb march 2 1978 9 18 pm
+
+1404	4	1404
+1045	5	1404
+1404	5	1404
+1404	5	1404
+1404	5	1404
+
+
+

@@ -1,0 +1,26 @@
+
+
+
+dribble posting master file
+
+many business applications employ sequential
+magnetic tape random-access storage 
+techniques process small number transactions
+against voluminous master 
+situations prove economical avoid creating a
+new master updating run producing 
+instead dribble ledger master
+file accounts experienced activity 
+
+cacm february 1966
+
+head 
+
+ca660209 jb march 3 1978 2 41 pm
+
+1475	5	1475
+1475	5	1475
+1475	5	1475
+
+
+

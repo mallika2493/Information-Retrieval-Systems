@@ -1,0 +1,40 @@
+
+
+
+theoretical considerations information retrieval systems
+
+information storage retrieval systems composed
+of major components identification 
+of information tagging effective retrieval 
+ searching strategy enter 
+to circumvent scanning nonrelevant material and
+ organization make access information 
+efficient identification information paper
+suggests metalanguage recently discussed 
+in paper goffman verhoeff belzer associated
+with object language searching 
+strategy linear model evaluation function
+of relevancy developed rewards system 
+for retrieving relevant documents retrieving
+the nonrelevant penalizes system 
+escaped relevant documents false drops inadequacies
+of linear model approaches 
+to organization discussed self-organization
+of based history past 
+performance self-generating subset
+of high probability 
+relevant 
+
+cacm july 1964
+
+belzer 
+goffman 
+
+ca640715 jb march 9 1978 7 55 pm
+
+1032	5	1032
+1032	5	1032
+1032	5	1032
+
+
+

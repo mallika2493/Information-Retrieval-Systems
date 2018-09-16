@@ -1,0 +1,39 @@
+
+
+
+experimental investigations utility
+of detailed flowcharts programming
+
+this paper describes previous research on
+flowcharts series controlled experiments 
+to test utility detailed flowcharts aid
+to program composition comprehension debugging 
+and modification statistically significant difference
+between flowchart nonflowchart groups 
+has shown calling question utility
+of detailed flowcharting program 
+research suggested 
+
+cacm june 1977
+
+shneiderman 
+mayer 
+mckay 
+heller 
+
+flowcharts program composition program comprehension 
+debugging modification experimental testing 
+human factors
+
+1.5 4.0
+
+ca770602 jb december 29 1977 1 33 am
+
+2961	4	2961
+2961	5	2961
+2961	5	2961
+2961	5	2961
+721	5	2961
+
+
+

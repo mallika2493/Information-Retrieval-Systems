@@ -1,0 +1,52 @@
+
+
+
+the eschenbach drum scheme
+
+the prime function drum operating in
+real time perform accesses quickly 
+usual means increasing capacity incorporate
+engineering hardware improvements 
+this paper problem attacked changing the
+drum modifying manner 
+it operates outset drum functional
+definition simple design scheme eschenbach 
+is introduced enormously increases rate of
+accessing drums defined shown 
+enable system perform job employing fewer or
+less expensive drums suggested 
+the design scheme specific method underlying it
+has general applicability question 
+of efficacy drum scheme raised to
+deal standard efficiency developed 
+in light realistic real-time circumstances drum
+scheme modelled manner permits 
+it analyzed problem queueing theory 
+thus enabled ascertain drum 
+scheme efficient application 
+whereas analysis drum scheme 
+specific methods underlying general applicability 
+
+cacm july 1966
+
+weingarten 
+
+ca660706 jb march 2 1978 9 29 pm
+
+1408	5	1408
+1408	5	1408
+1408	5	1408
+2319	5	1408
+1408	6	1408
+1719	6	1408
+1749	6	1408
+1751	6	1408
+2016	6	1408
+2017	6	1408
+2080	6	1408
+2188	6	1408
+2203	6	1408
+2204	6	1408
+
+
+

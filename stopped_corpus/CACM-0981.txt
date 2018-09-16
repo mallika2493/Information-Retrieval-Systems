@@ -1,0 +1,27 @@
+
+
+
+rounding problems commercial data processing
+
+a common requirement commercial data processing
+is sum set numbers rounded 
+in generally understood manner equal sum
+of numbers rounded individually rounding 
+procedures accomplish particular
+procedure depends 
+whether numbers accumulated vary sign 
+whether sum vary sign 
+the number summed recognized prior rounding 
+
+cacm november 1964
+
+kelley 
+
+ca641102 jb march 9 1978 4 25 pm
+
+981	5	981
+981	5	981
+981	5	981
+
+
+

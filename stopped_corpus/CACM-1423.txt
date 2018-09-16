@@ -1,0 +1,39 @@
+
+
+
+a simple algorithm computing generalized inverse matrix
+
+the generalized inverse matrix important
+in analysis extension 
+of concept inverse applies matrices 
+ applications numerical 
+analysis widely existing
+algorithms fairly complicated require 
+considerable storage space simple extension has
+been found conventional orthogonalization 
+method inverting non-singular matrices gives
+the generalized inverse extra effort 
+and additional storage requirements algorithm
+gives generalized inverse 
+n matrix including special case a
+is non-singular case rank 
+ case algorithm ordinary
+inverse case algorithm 
+yields ordinary squares transformation matrix
+inv advantage avoiding 
+the loss significance results forming product explicitly 
+
+cacm 1966
+
+rust 
+burrus 
+schneeberger 
+
+ca660514 jb march 3 1978 9 22 am
+
+1423	5	1423
+1423	5	1423
+1423	5	1423
+
+
+

@@ -1,0 +1,29 @@
+
+
+
+some numerical experiments newton method
+for nonlinear parabolic ellipticboundary-value 
+problems
+
+using generalization newton method nonlinear
+parabolic equation form -u xx 
+and nonlinear elliptic equation xx yy exp 
+are solved numerically comparison results 
+with results obtained picard iteration procedure
+show cases quisi linearization 
+method offers substantial advantages time accuracy 
+
+cacm april 1961
+
+bellman 
+juncosa 
+kalaba 
+
+ca610433 jb march 16 1978 11 20 pm
+
+335	5	335
+335	5	335
+335	5	335
+
+
+

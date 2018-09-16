@@ -1,0 +1,37 @@
+
+
+
+a stochastic approach grammatical coding english
+
+a computer program will
+assign word english text form 
+class part speech program operates relatively
+high speed limited storage space 
+ half word-events corpus identified
+through small dictionary function 
+words frequently occurring lexical words suffix
+tests logical-decision rules employed 
+to code additional words finally remaining words
+are assigned class basis 
+of probable form classes occur already
+identified contexts conditional probabilities 
+used basis coding empirically derived
+from separate hand-coded corpusn preliminary 
+trials accuracy coder 91 93 with
+obvious ways improving algorithm 
+suggested analysis results 
+
+cacm june 1965
+
+stolz 
+tannenbaum 
+carstensen 
+
+ca650620 jb march 6 1978 9 35 pm
+
+1235	5	1235
+1235	5	1235
+1235	5	1235
+
+
+

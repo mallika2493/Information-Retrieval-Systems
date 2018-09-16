@@ -1,0 +1,57 @@
+
+
+
+on optimization performance time-sharing systems simulation
+
+a simulation model time-sharing system
+with finite noncontiguous store infinite 
+auxiliary store study variation system
+parameters store size number jobs 
+allowed execute simultaneously job-scheduling algorithm 
+etc effects variations 
+a measure system performance ascertain which
+of parameters controllable job-scheduling 
+algorithm including scheduling require optimization 
+and parameters 
+controllable scheduling algorithm marked
+effect system performance system performance 
+is based mean cost delay jobs processed 
+ shown significant improvements 
+in measure system performance obtained by
+using variable time-slice techniques selecting 
+the optimum round-robin cycle time appears these
+features benefit optimization 
+other parameters controllable scheduling algorithm
+affect system performance predictable 
+manner benefit optimization features
+not control scheduling 
+algorithm marked effect measure
+of performance supervisor overheads 
+the size store speed cpu comparison
+is made results simulation 
+model analytical equations quantum-oriented
+nonpreemptive time-sharing systems comparison 
+is found favorable 
+
+cacm june 1972
+
+blatny 
+clark 
+rourke 
+
+time-sharing simulation studies optimization 
+measure performance scheduling algorithms
+
+3.80 4.30 4.32
+
+ca720601 jb january 31 1978 9 19 am
+
+2219	4	2344
+2344	4	2344
+1938	5	2344
+2344	5	2344
+2344	5	2344
+2344	5	2344
+
+
+

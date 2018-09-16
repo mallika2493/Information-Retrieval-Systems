@@ -1,0 +1,40 @@
+
+
+
+coding clinical laboratory data automatic storage retrieval
+
+a series clinical laboratory codes been
+developed accept store urin analysis blood 
+chemistry hematology test results automatic
+data processing codes constructed 
+as part computerized hospital simulation been
+able handle results laboratory 
+test encountered unique feature of
+these codes accept conventionally 
+recorded qualitative quantitative test results 
+ clinical test results need 
+not arbitrarily stratified standardized altered
+in coded paper describes 
+how codes developed presents listing the
+urin analysis codes criteria developing 
+the codes outlined problem multiple-synonymous
+terminology discussed solution 
+the problem flexible computer-produced 
+composite laboratory reports discussed 
+along reproduction report paper concludes
+that problems remain unsolved 
+the ten years witness emergence practical
+automated information system laboratory 
+
+cacm november 1963
+
+gross 
+
+ca631117 jb march 13 1978 3 26 pm
+
+675	5	675
+675	5	675
+675	5	675
+
+
+

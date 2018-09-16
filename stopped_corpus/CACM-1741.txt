@@ -1,0 +1,69 @@
+
+
+
+brad brookhaven raster display
+
+a multiconsole computer display system has
+been designed rich displays 
+low unit cost brad brookhaven raster display 
+console plot tens thousands points 
+up 4000 characters 30 frames after
+an initial display system investment 50,000 
+each display teletype costs 3,000 
+ technique employed programmatically 
+generating binary image desired display a
+computer image written rotating drum 
+memory independent read heads continuously display
+the picture generated swept horizontal 
+lines standard tv monitor serves display device 
+ technique drawbacks computer 
+must compute image displayed pointing 
+interaction difficult 
+because pointing function coordinates
+of point screen inverse 
+the map generation process required calculate
+the coordinates point screen 
+inverse map generation process required to
+calculate coordinates selected point 
+in input space 
+
+cacm june 1968
+
+ophir 
+rankowitz 
+shepherd 
+spinrad 
+
+computer display computer graphics computer raster
+display tv display console digital tv display 
+swept raster computer display swept raster tv computer
+display tv graphics terminal multiconsole computer 
+graphics inexpensive graphic terminal
+
+2.0 4.49 6.35
+
+ca680604 jb february 22 1978 4 35 pm
+
+1741	5	1741
+1741	5	1741
+1741	5	1741
+1891	5	1741
+2211	5	1741
+2421	5	1741
+2674	5	1741
+2687	5	1741
+1554	6	1741
+1741	6	1741
+1741	6	1741
+1741	6	1741
+1741	6	1741
+1741	6	1741
+1915	6	1741
+2004	6	1741
+2004	6	1741
+2211	6	1741
+2421	6	1741
+2687	6	1741
+
+
+

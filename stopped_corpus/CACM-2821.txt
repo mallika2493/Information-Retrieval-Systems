@@ -1,0 +1,36 @@
+
+
+
+cobol control
+
+a sample set cobol programming standards
+is offered standards constrain code 
+be developed structured form data and
+control structures require syntax 
+beyond existing cobol language fact utilize
+a typical limited subset 1974 ans cobol 
+standard standards proved extremely valuable
+in practice reduced cost time 
+to produce maintain large software systems have
+been deployed live multiple customer environments 
+
+cacm november 1976
+
+ledgard 
+cave 
+
+cobol structured programming software development program standards
+
+3.5 4.22 4.43
+
+ca761102 jb january 3 1978 3 43 pm
+
+2821	4	2821
+3121	4	2821
+2709	5	2821
+2821	5	2821
+2821	5	2821
+2821	5	2821
+
+
+

@@ -1,0 +1,36 @@
+
+
+
+some methods detecting step edges digital pictures
+
+this note describes operators respond
+to step edges ramps 
+is similar digital laplacian max rather
+than sum differences 
+ difference mean and
+median gray levels neighborhood outputs 
+obtained operators applied set test
+pictures compared 
+the standard digital laplacian gradient third
+operator distance center 
+and centroid neighborhood edge also
+briefly considered turns equivalent 
+to standard digital approximations gradient 
+
+cacm february,1978
+
+schachter 
+rosenfeld 
+
+image processing pattern recognition edge detection
+
+3.63
+
+ca780210 jb march 28 1978 1 56 pm
+
+3013	5	3013
+3013	5	3013
+3013	5	3013
+
+
+

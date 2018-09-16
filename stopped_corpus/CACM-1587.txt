@@ -1,0 +1,27 @@
+
+
+
+storage allocation iterative process
+
+a method core storage allocation certain
+iterative process estimates 
+of machine time required method is
+applicable iterative processes input 
+data items chosen needed this
+method input data continuously relocated 
+and space made apportioned output
+tables overflow occurs important 
+special cases considered considerable simplification occurs 
+
+cacm june 1967
+
+abramowich 
+
+ca670605 jb february 28 1978 9 25 am
+
+1587	5	1587
+1587	5	1587
+1587	5	1587
+
+
+

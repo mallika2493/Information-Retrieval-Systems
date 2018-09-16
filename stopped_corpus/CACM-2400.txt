@@ -1,0 +1,38 @@
+
+
+
+use hough transformation todetect lines curves pictures
+
+hough proposed interesting computationally
+efficient procedure detecting lines 
+in pictures paper points angle-radius
+rather slope-intercept parameters 
+simplifies computation shows
+how method general curve 
+fitting alternative interpretations
+that explain source efficiency 
+
+cacm january 1972
+
+duda 
+hart 
+
+picture processing pattern recognition line detection 
+curve detection colinear points point-line 
+transformation hough transformation
+
+3.63
+
+ca720103 jb february 1 1978 9 36 am
+
+2400	5	2400
+2400	5	2400
+2400	5	2400
+2788	5	2400
+2910	5	2400
+2400	6	2400
+2400	6	2400
+2788	6	2400
+
+
+

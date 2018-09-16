@@ -1,0 +1,37 @@
+
+
+
+a modification efroymson technique stepwise regression analysis
+
+the computational technique conventionally used
+for stepwise multiple linear regression requires 
+the storage matrix data number
+of variables large requirement 
+taxes storage capacity presently machinery 
+ symmetry matrices involved permits 
+a modification requiring half storage computations
+of conventional algorithm 
+additional storage analysis problems containing
+more variables alternatively permits 
+the analysis problems number
+of variables computations performed 
+in double precision 
+
+cacm august 1968
+
+breaux 
+
+multiple linear regression statistical recurrence
+formulas correlation linear statistical models 
+statistical computer programs curve fitting
+
+4.0 4.40 5.0 5.5 5.10 5.13
+
+ca680805 jb february 22 1978 10 52 am
+
+1709	5	1709
+1709	5	1709
+1709	5	1709
+
+
+

@@ -1,0 +1,46 @@
+
+
+
+characteristics application software maintenance
+
+maintenance enhancement application
+software consume major portion total life 
+cycle cost system rough estimates total
+systems programming resources consumed range 
+as high 75-80 percent category 
+the area attention 
+literature analyze problems area a
+questionnaire developed pretested 
+then submitted 120 organizations respondents totaled
+69 responses analyzed spss 
+statistical package results analysis indicate
+that 1 maintenance enhancement consume 
+much total resources systems programming
+groups 2 maintenance enhancement tend 
+be viewed management important
+than application software development 
+ 3 maintenance enhancement problems management
+orientation tend significant 
+than technical orientation 4 user
+demands enhancements extension constitute 
+the important management problem area 
+
+cacm june 1978
+
+lientz 
+swanson 
+tompkins 
+
+software maintenance productivity
+aids management technical issues 
+
+3.50 4.6
+
+ca780605 dh february 26 1979 11 59 am
+
+3092	5	3092
+3092	5	3092
+3092	5	3092
+
+
+

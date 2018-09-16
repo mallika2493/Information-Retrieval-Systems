@@ -1,0 +1,40 @@
+
+
+
+determination intersection points two
+plane curves means differential equations
+
+a method proposed calculate intersection
+points plane curves theory 
+of singular points system differential equations
+is developing method intersection 
+point determined identified singular
+point modifications applied 
+to system ensure singular point stable 
+i integrals start neighborhood 
+of singular point approach point
+if integral parameter tends infinity 
+addition method systematically searching
+for intersection points prescribed 
+rectangular area 
+
+cacm july 1968
+
+kuiken 
+
+plane curves intersection points intersections
+plane curves integration differential equations 
+matrix iteration singular points nonlinear differential
+equations eigenvalues complex roots roots 
+stationary points runge kutta stable singularity unstable singularity
+
+2.0 3.10 3.20 3.50 5.10
+
+ca680708 jb february 22 1978 11 51 am
+
+1721	5	1721
+1721	5	1721
+1721	5	1721
+
+
+

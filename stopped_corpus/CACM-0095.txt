@@ -1,0 +1,31 @@
+
+
+
+elimination special functions differential equations
+
+a set ordinary differential equations which
+contains mathematical functions requiring 
+use subroutines numerical solution electronic
+computer tabular data numerical solution 
+by hand calculation function generators analog
+methods applied expanded 
+to equivalent set equations contain
+the functions practical functions 
+satisfy sufficiently simple differential equations 
+thus functions eliminated 
+by procedure trigonometric inverse trigonometric 
+exponential transcendental 
+functions 
+
+cacm march 1959
+
+powers 
+
+ca590301 jb march 22 1978 8 08 pm
+
+95	5	95
+95	5	95
+95	5	95
+
+
+

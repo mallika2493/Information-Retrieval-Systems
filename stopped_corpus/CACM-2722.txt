@@ -1,0 +1,49 @@
+
+
+
+multidimensional binary search trees associative searching
+
+this paper develops multidimensional binary
+search tree k-d tree dimensionality 
+of search space data structure storage of
+information retrieved associative searches 
+the k-d tree defined examples it
+is shown storage requirements 
+ significant advantage structure single
+data structure handle types queries 
+very efficiently utility algorithms developed 
+their proven average running times 
+n record insertion log deletion of
+the root k-1 deletion random node 
+o log optimization guarantees logarithmic performance
+of searches log search algorithms 
+are partial match queries keys specified
+ 
+and nearest neighbor queries empirically observed average
+running time log performances 
+far surpass known algorithms for
+these tasks algorithm presented handle 
+any general intersection query main focus this
+paper theoretical felt 
+k-d trees applications 
+and examples potential 
+
+cacm september 1975
+
+bently 
+
+associative retrieval binary search trees key 
+attribute information retrieval system nearest 
+neighbor queries partial match queries intersection
+queries binary tree insertion
+
+3.63 3.70 3.74 4.49
+
+ca750902 jb january 6 1978 3 22 pm
+
+2722	5	2722
+2722	5	2722
+2722	5	2722
+
+
+

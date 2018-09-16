@@ -1,0 +1,49 @@
+
+
+
+an executive system implemented finite-state automaton
+
+the 473l command control system by
+the air force permits operators access 
+large data computer man-machine
+interface satisfied communication 
+consoles operators enter queries and
+view replies data link permits remote stations 
+to send messages status reports inventories directly
+to computer information received 
+over on-line data link update data files
+which stored disk 473l programming 
+system divided executive control program and
+five components processing priorities 
+ priorities permit system sensitive
+to console inputs permit operators 
+at consoles time share central processor 
+ executive control program 
+the orderly transitions control programming
+system components major emphasis 
+paper technique definition a
+finite-state automaton organizing executive 
+control program 
+
+cacm november 1964
+
+heistand 
+
+ca641111 jb march 9 1978 3 56 pm
+
+1471	4	972
+1774	4	972
+2911	4	972
+560	4	972
+972	4	972
+972	4	972
+972	4	972
+972	5	972
+972	5	972
+972	5	972
+271	5	972
+273	5	972
+276	5	972
+
+
+

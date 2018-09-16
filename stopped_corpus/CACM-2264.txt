@@ -1,0 +1,43 @@
+
+
+
+derived semantics programming language constructs
+
+the constructs simple programming language
+are introduced informally 
+terms values side-effects translator defined
+which translates language flowcharts 
+for simple machine action machine executing
+a flowchart defined proof constructed 
+that effect translating executing program
+can expressed solely terms 
+and side-effect program course of
+constructing proof formal definitions 
+concepts side-effect derived order
+to make proof rigorous correctness 
+implementation involves checking definitions derived
+in step acceptable formalization 
+of informal description step 
+
+cacm november 1972
+
+henderson 
+
+lambda calculus formal description program
+correctness programming languages semantics
+
+4.22 5.23 5.24
+
+ca721105 jb january 27 1978 2 19 pm
+
+2264	5	2264
+2264	5	2264
+2264	5	2264
+2470	5	2264
+1303	6	2264
+1469	6	2264
+1834	6	2264
+2264	6	2264
+
+
+

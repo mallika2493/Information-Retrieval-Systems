@@ -1,0 +1,43 @@
+
+
+
+a comparison numerical techniques markov modeling
+
+this paper presents numerical methods which
+may obtain stationary probability 
+vectors markovian models nearly
+decomposable system considered results 
+obtained methods examined post
+mortem reveals standard techniques fail 
+to yield correct results finally means estimating
+the error inherent decomposition 
+of models presented 
+
+cacm february 1978
+
+stewart 
+
+markov models numerical techniques simultaneous
+iteration near-decomposability
+
+4.6 5.14 8.1
+
+ca780207 jb march 28 1978 3 43 pm
+
+2374	4	3016
+2481	4	3016
+2669	4	3016
+2863	4	3016
+3016	4	3016
+3016	4	3016
+3052	4	3016
+3070	4	3016
+3153	4	3016
+1901	5	3016
+2741	5	3016
+3016	5	3016
+3016	5	3016
+3016	5	3016
+
+
+

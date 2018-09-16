@@ -1,0 +1,36 @@
+
+
+
+machine independence technology economics
+
+a survey offered techniques transferring
+programs especially compilers 
+one computer methods examined the
+ bootstrap technique singled detailed 
+discussion emphasis economics considerations
+that determine applicability bootstrapping 
+in specific case discussed attempt
+is made assign qualitative weights 
+to finally reasons believing the
+machine-independence problem substantially 
+diminished trends computer design and
+that process convergence hardware 
+design foreseeable software developments
+that lead satisfactory resolution 
+
+cacm december 1965
+
+halpern 
+
+ca651210 jb march 6 1978 3 44 pm
+
+1159	4	1159
+1988	4	1159
+381	4	1159
+1159	5	1159
+1159	5	1159
+1159	5	1159
+14	5	1159
+
+
+

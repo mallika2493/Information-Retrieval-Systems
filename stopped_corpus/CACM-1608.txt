@@ -1,0 +1,36 @@
+
+
+
+numerical integration function pole
+
+it common need integrate numerically
+functions diverge 
+range integration divergence occurs quite
+far integration formulas simpson 
+that depend fitting polynomial be
+inaccurate pole bad 
+a method formulas integrate
+functions kind accurately 
+orders positions poles known explicit
+formulas easy 
+automatic computer shown used
+for singularities poles 
+ integral converges integration carried
+to singularity accuracy integration 
+with pole order discussed 
+the formula compared simpson 
+ formulas pole 
+while pole advantage overwhelming 
+
+cacm april 1967
+
+eisner 
+
+ca670407 jb february 28 1978 11 20 am
+
+1608	5	1608
+1608	5	1608
+1608	5	1608
+
+
+

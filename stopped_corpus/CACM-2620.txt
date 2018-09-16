@@ -1,0 +1,46 @@
+
+
+
+execution time requirements encipherment programs
+
+although encipherment discussed
+as means protect computer data costs 
+are established experiments conducted
+to measure cpu time cdc 6400 required 
+by additive ciphers programmed assembly language
+and fortran null transformation measure 
+the time move data encipherment encipherment
+with one-word key encipherment 125-word 
+key double key encipherment encipherment using
+a pseudo random key results analyzed 
+for consistency 100 runs effects constant
+and intermittent errors considered 
+timing rates assembly language encipherment ranged
+from 498,800 characters pseudo 
+random key cipher 2,092,000 characters second
+for constant one-word key cipher 
+is equivalent rate required simply move
+data encipherment fortran tests required 
+over times cpu time paper introduces
+the idea enciphering time coefficient 
+ratio enciphering time time to
+fetch store data encipherment 
+
+cacm august 1974
+
+friedman 
+offman 
+
+encipherment ciphers security privacy transformations 
+protection cryptography cryptology
+
+2.12 2.43 3.70 3.81 4.32 4.39
+
+ca740804 jb january 17 1978 10 05 am
+
+2620	5	2620
+2620	5	2620
+2620	5	2620
+
+
+

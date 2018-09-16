@@ -1,0 +1,36 @@
+
+
+
+a comparison list schedules parallel processing systems
+
+the problem scheduling processors
+to minimize execution time program 
+which consists set partially ordered tasks
+is studied cases task execution times 
+deterministic execution times are
+random variables analyzed shown 
+different algorithms suggested literature vary significantly
+in execution time b-schedule 
+of coffman graham near-optimal dynamic programming
+solution case execution 
+times random variables presented 
+
+cacm december 1974
+
+adam 
+chandy 
+dickson 
+
+parallel processing precedence graphs scheduling 
+list scheduling optimization dynamic programming
+
+4.3 4.32 4.34 4.35 5.3 5.32 5.4 5.42 8.1
+
+ca741204 jb january 16 1978 9 42 am
+
+2570	5	2570
+2570	5	2570
+2570	5	2570
+
+
+

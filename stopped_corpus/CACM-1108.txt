@@ -1,0 +1,39 @@
+
+
+
+digital data processor tracking partially illuminated moon 
+
+a study lunar tracking techniques fabrication
+of breadboard assess feasibility 
+of technique selected conducted define
+a tracking system observation sight line 
+to center partially illuminated moon the
+data processing portion system presented 
+in detail general operation
+of tracker head assembly data readout 
+the operation entire system effect data
+processing considerations design 
+the tracker system system basically consists of
+an optical sensor digital computer tracker 
+drive mechanism system units connected
+in cascade comprise control loop 
+application optical telescope radial mechanical
+scanning mechanism read 
+lunar sight line measurement information information
+is sequentially read special purpose 
+digital computer extracts measurements and
+computes error signals drive tracker 
+to attitude 
+
+cacm march 1964
+
+wilcox 
+
+ca640324 jb march 10 1978 2 02 am
+
+1108	5	1108
+1108	5	1108
+1108	5	1108
+
+
+

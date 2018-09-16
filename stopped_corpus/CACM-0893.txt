@@ -1,0 +1,32 @@
+
+
+
+significance arithmetic digital computer
+
+the 7090 nyu modified include
+a significance mode operation intended 
+to facilitate identification significant bits in
+the results floating-point arithmetic operations 
+ manner floating-point arithmetic handled
+in mode discussed numerical 
+experiments mode comparisons
+are made ordinary normalized mode 
+ examples include power series evaluation linear equations
+solution determinant evaluation matrix 
+inversion 
+
+cacm march 1963
+
+goldstein 
+
+ca630327 jb march 14 1978 12 47 pm
+
+3131	5	893
+893	5	893
+893	5	893
+893	5	893
+893	6	893
+1148	6	893
+
+
+

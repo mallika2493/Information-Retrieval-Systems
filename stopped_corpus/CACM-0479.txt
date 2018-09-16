@@ -1,0 +1,36 @@
+
+
+
+a dispersion pass algorithm polyphase merge
+
+this paper presents manner dispersing
+strings polyphase merge number 
+of strings dispersed levels acceptable
+by polyphase merge economical technique 
+of reaching level polyphase merge shown proved 
+
+cacm october 1962
+
+mendoza 
+
+ca621001 jb march 17 1978 7 27 pm
+
+2146	4	479
+479	4	479
+479	4	479
+862	4	479
+863	4	479
+264	5	479
+299	5	479
+479	5	479
+479	5	479
+479	5	479
+860	5	479
+862	5	479
+861	6	479
+299	6	479
+479	6	479
+479	6	479
+
+
+

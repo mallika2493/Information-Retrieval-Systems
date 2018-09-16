@@ -1,0 +1,40 @@
+
+
+
+a pl program assist comparative linguist
+
+a practical pl program which
+can assist comparative linguists determine
+the regular sound correspondences genetically related languages 
+the investigator arrange data input aligning pairs
+of suspected cognates program tabulates correspondences 
+and list processing techniques sort count 
+each pair words assigned relative function
+of total frequency data correspondence found
+in pair words output list correspondence
+types frequency occurrence data a
+separate listing correspondence word-pairs showing
+that correspondence relative arbitrarily 
+chosen cutoff point article explains usefulness 
+as limitations programs illustrates its
+use small portion hypothetical data 
+
+cacm june 1970
+
+frantz 
+
+comparative linguistics natural
+language processing comparative method historical linguistics diachronic
+linguistics genetic relationship sound change sound
+correspondence regular correspondence list processing
+
+3.42
+
+ca700604 jb february 13 1978 11 51 am
+
+2051	5	2051
+2051	5	2051
+2051	5	2051
+
+
+

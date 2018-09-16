@@ -1,0 +1,39 @@
+
+
+
+a heuristic approach inductive inference fact retrieval systems
+
+heuristic procedures presented have
+been developed perform inferences generalizing 
+from information procedures make use
+of similarity structure imposed 
+data base nonnumerical clustering algorithms they
+are implemented model fact retrieval system 
+which formal query language property-list data
+structure program experiments 
+wherein procedures test data bases
+which altered deleting part data 
+by purposely introducing false data found that
+the system infer correct response 
+a variety conditions involving incomplete inconsistent data 
+
+cacm december 1974
+
+skinner 
+
+inference inductive inference clustering fact retrieval heuristics
+
+3.61 3.71 3.79
+
+ca741213 jb january 13 1978 3 40 pm
+
+2178	4	2561
+2396	4	2561
+2561	4	2561
+2127	5	2561
+2561	5	2561
+2561	5	2561
+2561	5	2561
+
+
+

@@ -1,0 +1,31 @@
+
+
+
+data directed input-output fortran
+
+a statement similar namelist
+statement fortran iv incorporated 
+in fortran 63 compiler fortran 63 implementation
+allows greater flexibility simplicity 
+than fortran iv feature hollerith names the
+location mode dimensions variable 
+can discovered means standard fortran statements 
+ methods information illustrated 
+in relation general purpose data directed input and
+output routines matrix 
+manipulation discussed 
+
+cacm january 1967
+
+hassitt 
+
+ca670106 jb february 28 1978 4 41 pm
+
+1649	4	1649
+1053	5	1649
+1649	5	1649
+1649	5	1649
+1649	5	1649
+
+
+

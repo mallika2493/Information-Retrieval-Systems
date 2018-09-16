@@ -1,0 +1,30 @@
+
+
+
+multiple precision floating-point conversion
+from decimal-to-binary vice versa
+
+decimal-to-binary binary-to-decimal floating-point
+conversion performed 
+a table powers 10 ia positive integer for
+converting base 10 base 2 
+a table coefficient polynomial approximation
+of 10 0 1 converting base 2 
+to base 10 tables occupy large storage region
+in case nonsingle precision conversion 
+ paper shows single small table suffices
+for floating-point conversion decimal 
+binary vice versa precision 
+
+cacm 1966
+
+mancino 
+
+ca660507 jb march 3 1978 9 56 am
+
+1430	5	1430
+1430	5	1430
+1430	5	1430
+
+
+

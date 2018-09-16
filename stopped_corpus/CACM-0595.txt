@@ -1,0 +1,31 @@
+
+
+
+guides teaching cobol
+
+the teaching cobol divided into
+three main subject areas syntax 
+cobol syntax solving problem 
+and programming concepts generally 
+accepted knowledge hardware computer
+logic possessed programmer 
+ teaching problem arises determining thoroughly
+a student know hardware logic 
+for computer write cobol programs 
+ unfortunately historical data concerning 
+students programming proficiency non-existent
+and difficult measure 
+might approach solving problem 
+
+cacm 1962
+
+greene 
+
+ca620510 jb march 20 1978 1 44 pm
+
+595	5	595
+595	5	595
+595	5	595
+
+
+

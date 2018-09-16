@@ -1,0 +1,46 @@
+
+
+
+an exponential method solution of
+systems ordinary differential equations 
+
+an explicit coupled single-step method for
+the numerical solution initial problems 
+for systems ordinary differential equations presented 
+ method designed general purpose 
+in nature especially efficient dealing
+with stiff systems differential equations 
+it general order case
+of linear system constant coefficients 
+linear forcing terms case method third
+order implemented put routine 
+usage biological applications-where stiffness frequently
+appears-with favorable results compared 
+to standard fourth order runge-kutta implementation 
+computation time required method ranged 
+from comparable nonstiff problems better
+than orders magnitude faster 
+highly stiff systems 
+
+cacm december 1974
+
+chu 
+berman 
+
+numerical solution ordinary differential equations 
+initial problems stiff systems
+
+5.17
+
+ca741207 jb january 13 1978 4 20 pm
+
+2567	4	2567
+2567	4	2567
+2268	5	2567
+2567	5	2567
+2567	5	2567
+2567	5	2567
+755	5	2567
+
+
+

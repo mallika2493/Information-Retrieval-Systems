@@ -1,0 +1,25 @@
+
+
+
+recursive solution class combinatorial problems example
+
+combinatorial problems requiring selection
+of elements set elements 
+solved recursion process analogous for
+computing binomial coefficients specific 
+problems analyzed general technique exposed 
+and algol program developed 
+the problems 
+
+cacm october 1965
+
+lynch 
+
+ca651009 jb march 6 1978 6 40 pm
+
+1186	5	1186
+1186	5	1186
+1186	5	1186
+
+
+

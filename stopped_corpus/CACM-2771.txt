@@ -1,0 +1,40 @@
+
+
+
+the synthesis solids bounded faces
+
+a technique presented class
+of solid objects synthesized stored 
+using computer synthesis begins primitive solids
+like cube wedge cylinder solid 
+can moved scaled rotated solids be
+added subtracted algorithms 
+perform addition practical designers 
+the technique advantage operations 
+are concise readily composed terms
+of easily imagined solidsuite short sequences 
+of operations suffice build complex solids bounded faces 
+
+cacm april 1975
+
+braid 
+
+computational geometry computer-aided design 
+graphics machined components polyhedra shape 
+synthesis three-dimensional modeling
+
+3.2 8.2
+
+ca750406 jb january 9 1978 3 59 pm
+
+2771	5	2771
+2771	5	2771
+2771	5	2771
+2827	5	2771
+3116	5	2771
+2751	6	2771
+2771	6	2771
+2771	6	2771
+
+
+

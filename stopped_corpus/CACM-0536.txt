@@ -1,0 +1,32 @@
+
+
+
+nonlinear regression solution simultaneous equations
+
+if set observables z1 zm which
+are bound relation parameters 
+ a1 equation z1 a1 0 frequently
+has problem determining set 
+values ai minimizes sum squares of
+differences observed calculated values 
+of distinguished observable say zm solution
+of equation zm zm z1 a1 
+gives rise function nonlinear ai 
+then rely version gaussian regression 
+ iteration scheme converges minimizing
+set values shown 
+same minimization technique solution
+of simultaneous necessarily linear equations 
+
+cacm july 1962
+
+baer 
+
+ca620725 jb march 17 1978 8 09 pm
+
+536	5	536
+536	5	536
+536	5	536
+
+
+

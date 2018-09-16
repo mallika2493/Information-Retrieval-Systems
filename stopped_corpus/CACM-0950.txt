@@ -1,0 +1,31 @@
+
+
+
+parallel methods integrating ordinary differential equations
+
+this paper dedicated proposition 
+in order take full advantage real-time 
+computations highly parallel computers be
+expected future 
+of numerical analysis recast more
+ parallel form meant serial 
+algorithms replaced algorithm which
+consist subtasks computed 
+without knowledge results subtasks 
+as method proposed parallelizing 
+the numerical integration ordinary differential
+equation process standard methods 
+is entirely serial 
+
+cacm december 1964
+
+nievergelt 
+
+ca641221 jb march 9 1978 3 09 pm
+
+950	5	950
+950	5	950
+950	5	950
+
+
+

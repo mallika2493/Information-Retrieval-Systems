@@ -1,0 +1,50 @@
+
+
+
+median split trees fast lookup technique frequently occuring keys
+
+split trees technique searching sets
+of keys highly skewed frequency distributions 
+ split tree binary search tree node which
+contains key values-a node 
+a maximally frequent key subtree split
+value partitions remaining keys 
+respect lexical ordering left and
+right subtrees median split tree mst 
+the lexical median node descendents split
+value force search tree perfectly 
+balanced achieving space efficient representation
+of tree high search speed unlike 
+frequency ordered binary search trees cost a
+successful search mst log bounded 
+very stable minimal values mst
+can built key ordering set 
+frequencies time log opposed n2 an
+optimum binary search tree discussion 
+application mst dictionary lookup english is
+presented performance obtained contrasted 
+with techniques 
+
+cacm november 1978
+
+sheil 
+
+tree search dictionary lookup binary search heaps 
+balanced trees zipf law information retrieval
+
+3.74 5.25 5.39
+
+ca781110 dh january 25 1979 9 49 am
+
+3041	4	3041
+3041	4	3041
+3126	4	3041
+3176	4	3041
+2846	5	3041
+2905	5	3041
+3041	5	3041
+3041	5	3041
+3041	5	3041
+
+
+

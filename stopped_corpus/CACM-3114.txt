@@ -1,0 +1,53 @@
+
+
+
+a technique isolating differences files
+
+a simple algorithm isolating
+the differences application 
+is comparing versions source program
+or order display differences 
+ algorithm isolates differences corresponds
+closely intuitive notion difference 
+is easy implement computationally efficient 
+with time linear length 
+applications algorithm isolates differences similar
+to isolated longest common subsequence 
+ application algorithm merges files
+containing independently generated 
+single algorithm generate
+efficient encodings form 
+the differences datum 
+permitting reconstruction original 
+from difference datum 
+
+cacm april 1978
+
+heckel 
+
+difference isolation word processing text editing 
+program maintenance hash coding compression 
+bandwidth compression longest common subsequence 
+file comparison molecular evolution
+
+3.63 3.73 3.81 4.43
+
+ca780402 dh february 27 1979 10 52 am
+
+2299	4	3114
+2501	4	3114
+2629	4	3114
+2915	4	3114
+2963	4	3114
+3114	4	3114
+3114	4	3114
+3114	4	3114
+1502	5	3114
+2499	5	3114
+2745	5	3114
+3114	5	3114
+3114	5	3114
+3114	5	3114
+
+
+

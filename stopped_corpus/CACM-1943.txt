@@ -1,0 +1,23 @@
+
+
+
+complete elliptic integrals algorithm 165 
+
+cacm january,1969
+
+farkas 
+
+special functions complete elliptic integral
+of kind complete elliptic integral 
+the kind
+
+5.12
+
+ca690106 jb february 20 1978 11 54 am
+
+1943	5	1943
+1943	5	1943
+1943	5	1943
+
+
+

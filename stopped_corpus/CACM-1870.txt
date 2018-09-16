@@ -1,0 +1,32 @@
+
+
+
+some techniques pseudorandom numbers computer simulation
+
+an algorithm uniform pseudorandom
+integers construct binary 
+ numbers probability bit the
+word 1-bit assume desired parameter 
+value techniques making numbers 
+in simulation programming 
+
+cacm july 1969
+
+donnelly 
+
+random numbers simulation boolean algebra bit manipulation
+
+5.19 5.39
+
+ca690710 jb february 17 1978 8 54 am
+
+1794	4	1870
+1870	4	1870
+2122	4	1870
+1674	5	1870
+1870	5	1870
+1870	5	1870
+1870	5	1870
+
+
+

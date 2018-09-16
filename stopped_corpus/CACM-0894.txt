@@ -1,0 +1,30 @@
+
+
+
+an iterative factorization technique polynomials
+
+an iterative technique displayed factors
+of arbitrary degree found polynomials 
+in variable convergence shown occur always
+if jacobian vanish 
+initial approximation factor an
+actual factor process simply programmed 
+and preliminary results adapted
+to digital computers factors 
+degree technique similar bairstow 
+the present method simpler 
+
+cacm march 1963
+
+luther 
+
+ca630326 jb march 14 1978 12 51 pm
+
+1111	5	894
+894	5	894
+894	5	894
+894	5	894
+894	6	894
+
+
+

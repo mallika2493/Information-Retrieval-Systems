@@ -1,0 +1,43 @@
+
+
+
+considerations design multiple
+computer system extended core storage
+
+the large quantities addressable
+ executable fast random access memory 
+heighten multiprogramming performance multicomputer system
+is discussed general design 
+of hardware arrangement software components
+and functions system based 
+planned configuration dual cdc 6600 share one
+million words extended core storage 
+generalization design special emphasis is
+placed estimating expected gains compared 
+with traditional configuration separate independent
+computers extended core storage 
+ observation made conventional slower
+speed random access storage devices place 
+of faster memory 
+
+cacm 1968
+
+fuchel 
+heller 
+
+multiple computer systems extended core storage 
+multiprogrammed operating systems multiprocessor 
+operating systems control data corporation 6600 operating system ecs
+
+4.30 4.32
+
+ca680506 jb february 23 1978 9 27 am
+
+1750	5	1750
+1750	5	1750
+1750	5	1750
+2988	5	1750
+1750	6	1750
+
+
+

@@ -1,0 +1,35 @@
+
+
+
+on complexity computing measure u
+
+the decision tree complexity computing the
+measure union possibly overlapping 
+intervals shown log comparisons
+between linear functions interval endpoints 
+are allowed existence log lower bound
+to determine real numbers 
+are demonstrated these
+problems provide excellent opportunity 
+discussing effects computational model on
+the ease analysis results produced 
+
+cacm july 1978
+
+fredman 
+weide 
+
+analysis algorithms combinatorial problems 
+computational complexity computational models 
+decision tree programs lower bounds
+
+5.25 5.26 5.30 5.39
+
+ca780702 dh february 8 1979 3 46 pm
+
+3086	5	3086
+3086	5	3086
+3086	5	3086
+
+
+

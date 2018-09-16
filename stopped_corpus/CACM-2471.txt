@@ -1,0 +1,41 @@
+
+
+
+a learning program plays partnership dominoes
+
+a learning program written basic
+to play four-player partnership dominoes 
+dominoes game incomplete information program
+uses principles artificial 
+intelligence programs games
+of complete information checkers chess 
+and program constructed strategy
+signature table classifies board situations 
+through interactions game parameters entry
+in table adaptively determined 
+weights indicating advi sability strategies 
+ chosen strategy employs probability 
+analysis linear polynomial evaluation choose
+a move program wins approximately two-thirds 
+of games tournament situations defeated championship players 
+
+cacm august 1973
+
+smith 
+
+artificial intelligence intelligence learning 
+heuristic procedures heuristic programming game 
+playing problem solving dominoes incomplete information 
+machine learning signature table learning 
+programs strategy learning
+
+3.62 3.64 3.66 3.69
+
+ca730803 jb january 23 1978 11 09 am
+
+2471	5	2471
+2471	5	2471
+2471	5	2471
+
+
+

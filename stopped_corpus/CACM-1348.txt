@@ -1,0 +1,41 @@
+
+
+
+flowtrace computer program flowcharting programs
+
+the flowtrace system produces flowcharts programs
+written programming language 
+ describe syntax control statements
+in language purpose metalanguage 
+is resultant object deck to
+flowchart programs language 
+ examples fap snobol flowcharts 
+ confine 
+scope existing languages define own
+language well-structured manner 
+feature desirable
+to chart comments program 
+approach permits documentation descriptive remarks
+and avoids inclusion coding details 
+
+cacm december 1966
+
+sherman 
+
+ca661202 jb march 2 1978 2 49 pm
+
+1330	4	1348
+1348	4	1348
+2315	4	1348
+1348	5	1348
+1348	5	1348
+1348	5	1348
+2315	5	1348
+728	5	1348
+1348	6	1348
+1834	6	1348
+1987	6	1348
+728	6	1348
+
+
+

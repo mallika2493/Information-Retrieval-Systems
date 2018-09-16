@@ -1,0 +1,29 @@
+
+
+
+machine calculation moments probability distribution
+
+a method presented calculation a
+machine moments probability distribution 
+necessitating additions references
+to memory moment 
+minimum multiplication 2n additions 2n references
+to memory required straightforward 
+method number entries probability
+distribution method directly applicable 
+when tabulated distribution exists has
+been computed repeated convolution 
+case conserves time accuracy 
+
+cacm december 1961
+
+lechner 
+
+ca611209 jb march 15 1978 10 15 pm
+
+241	5	241
+241	5	241
+241	5	241
+
+
+

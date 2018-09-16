@@ -1,0 +1,86 @@
+
+
+
+the augmented predictive analyzer context-free
+languages-its relative efficiency
+
+it proven greibach given
+context-free grammar standard-form grammar 
+gs constructed generates languages
+as generated rules 
+of form -- cy 1 and
+y intermediate symbols terminal 
+symbol predictive analyzer harvard uses
+a standard-form grammar accept language 
+of context-free grammar equivalent standard-form
+grammar gs structural descriptions 
+sd gs assigned sentence predictive
+analyzer 
+the structural descriptions sd assigned the
+same sentence original context-free grammar 
+g gs derived section 1 algorithm 
+originally due abbott standard-form 
+grammar rules standard form supplemented
+by additional information describing 
+derivation original context-free grammar 
+a technique performing sd gs sd 
+transformation effectively section
+2 augmented predictive analyzer parsing 
+algorithm arbitrary context-free languages compared
+with parsing algorithms selective 
+top-to-bottom algorithm similar irons error correcting
+parse algorithm constituent 
+analyzer extension sakai-cocke algorithm
+for normal grammars comparison based 
+upon criteria efficiency covering core-storage
+requirements complexities programs 
+and processing time 
+
+cacm november 1966
+
+kuno 
+
+ca661108 jb march 2 1978 3 11 pm
+
+1225	4	1350
+1225	4	1350
+1350	4	1350
+1350	4	1350
+1350	4	1350
+1350	4	1350
+1350	4	1350
+1399	4	1350
+1646	4	1350
+1659	4	1350
+1659	4	1350
+1768	4	1350
+1781	4	1350
+1781	4	1350
+1856	4	1350
+1945	4	1350
+1945	4	1350
+1945	4	1350
+2050	4	1350
+2110	4	1350
+2650	4	1350
+2698	4	1350
+2708	4	1350
+3093	4	1350
+3094	4	1350
+1012	5	1350
+1225	5	1350
+1265	5	1350
+1350	5	1350
+1350	5	1350
+1350	5	1350
+1399	5	1350
+1659	5	1350
+680	5	1350
+1225	6	1350
+1265	6	1350
+1350	6	1350
+1671	6	1350
+1697	6	1350
+
+
+

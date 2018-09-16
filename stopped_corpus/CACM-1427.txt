@@ -1,0 +1,31 @@
+
+
+
+simulation radioisotope scans computer
+
+in radioisotope scanning field assuming
+increasing importance medical diagnosis 
+the scan two-dimensional pattern made dots 
+ areas increased source activity represented 
+on scan areas increased dot density study
+the output scanners characteristics 
+a program simulates radioisotope scans been
+written pdp-1 computer auxiliary disk 
+storage cathode ray tube display past present
+research output simulator 
+shown flexibility system important 
+ structure program 
+the simulation output quantum-limited system 
+
+cacm 1966
+
+pizer 
+
+ca660510 jb march 3 1978 9 47 am
+
+1427	5	1427
+1427	5	1427
+1427	5	1427
+
+
+

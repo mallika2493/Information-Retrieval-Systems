@@ -1,0 +1,57 @@
+
+
+
+two-level control structure nondeterministic programming
+
+the basic ideas nondeterministic programming
+are critically reconsidered single 
+proper attitude programming style language allowing
+direct control nondeterministic features 
+ proposed attitude aims retaining purity of
+the nondeterministic formulation search processes 
+on level attempt level deferring coordination
+of problem solving efforts 
+choice level feasibility recognizing two
+levels discussed stressing structure 
+to managed choice level free contexts 
+ leaves computational environments 
+each holding alternative inspection while
+the nodes choice poin ts 
+ according proposed programming style generative
+function choice poin 
+which expresses desired choice strategy main
+advantage approach localization 
+of search strategies nonterminal node the
+tree keeps track state computation 
+as choice poin interrogated 
+holding time strategy coordinate 
+the alternatives examples in
+term nd-lisp extension lisp designed 
+implemented according guidelines 
+
+cacm october 1977
+
+montangero 
+pacini 
+turini 
+
+nondeterministic programming artificial telligence 
+control structures backtracking search 
+strategy planning context tree
+
+3.64 4.22
+
+ca771004 jb december 27 1977 11 30 am
+
+2625	4	2922
+2922	4	2922
+3081	4	2922
+3101	4	2922
+3112	4	2922
+2438	5	2922
+2922	5	2922
+2922	5	2922
+2922	5	2922
+
+
+

@@ -1,0 +1,28 @@
+
+
+
+least squares piecewise cubic curve fitting
+
+the matrices involved linear squares
+formulation determined problem 
+of fitting piecewise cubic functions possessing
+a continuous derivative arrays planar data 
+
+cacm june 1973
+
+ferguson 
+staley 
+
+curve fitting data reduction function
+approximation approximation splines
+
+5.13
+
+ca730612 jb january 23 1978 1 47 pm
+
+2488	5	2488
+2488	5	2488
+2488	5	2488
+
+
+

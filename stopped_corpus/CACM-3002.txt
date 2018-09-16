@@ -1,0 +1,48 @@
+
+
+
+a record partitioning model
+
+one main objectives design of
+a system reduction storage data 
+transfer costs paper presents model which
+several requests access system 
+request requires information variable
+length data-items probabilities access 
+and distribution data-item length assumed
+to known mutually independent 
+the system storage devices and
+each record partitioned subrecords 
+that stored devices subrecords
+is designated primary record 
+a request record made primary record is
+first accessed subrecords accessed 
+only pertinent information stored the
+primary record model presented 
+this paper nonlinear programming model and
+a mixed integer programming model general 
+one types systems derived from
+it selection parameters 
+ model optimization of
+library routines storage large scale operating 
+system 
+
+cacm january 1977
+
+babad 
+
+file system design partitioning record partitioning
+
+3.73
+
+ca770103 jb january 3 1978 12 28 am
+
+3002	5	3002
+3002	5	3002
+3002	5	3002
+3168	5	3002
+2965	6	3002
+3002	6	3002
+
+
+

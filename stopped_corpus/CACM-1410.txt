@@ -1,0 +1,46 @@
+
+
+
+interarrival statistics time sharing systems
+
+the optimization time-shared system performance
+requires description stochastic 
+processes governing user inputs program activity 
+ paper statistical description 
+of user input process sdc-arpa general-purpose
+time-sharing system tss input process 
+is assumed stationary defined the
+interarrival time distribution data obtained 
+appear justify satisfactorily common assumption
+that interarrival times serially independent 
+ data justify very
+rough approximation usual assumption 
+exponential distribution interarrival time much
+more satisfactory approximation data 
+be obtained biphase triphase hyperexponential distribution 
+
+cacm july 1966
+
+coffman 
+wood 
+
+ca660704 jb march 2 1978 9 45 pm
+
+1410	5	1410
+1410	5	1410
+1410	5	1410
+1604	5	1410
+1951	5	1410
+2373	5	1410
+1224	6	1410
+1410	6	1410
+1410	6	1410
+1410	6	1410
+1604	6	1410
+1751	6	1410
+1810	6	1410
+1951	6	1410
+2374	6	1410
+
+
+

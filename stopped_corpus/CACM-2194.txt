@@ -1,0 +1,49 @@
+
+
+
+how addresses short
+
+an algorithm presented minimizing the
+sum lengths blocks coding produced 
+by assembler compiler 1 length of
+each computer instruction assumed 
+ long short long memory location addressed
+is predetermined distance 
+the location short 2 
+there blocks instructions beginnings 
+ origins separated prespecified amounts 
+some computers permit 8-bit addressing 
+ interpreted relative location counter full
+16-bit addressing memory assembling 
+or compiling blocks instructions which
+have mutual references computer 
+there simple iterative procedure keeping
+as addresses short 
+paper demonstrates wide class problems of
+this type formulated covering problems 
+solvable means elementary arithmetic operations
+on column vectors ternary matrix 
+
+cacm 1971
+
+richards 
+
+addressing assembler covering problem integer
+programming variable-length addressing
+
+4.11 4.12 4.21 5.41
+
+ca710505 jb february 3 1978 2 40 pm
+
+2194	5	2194
+2194	5	2194
+2194	5	2194
+2858	5	2194
+3110	5	2194
+2194	6	2194
+2194	6	2194
+2629	6	2194
+2858	6	2194
+
+
+

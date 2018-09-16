@@ -1,0 +1,29 @@
+
+
+
+a note range transformations square root logarithm
+
+there germ idea previous
+papers picked 
+up years functions seems
+desirable transform argument short 
+range symmetric 10.1 give examples this
+usage square root logarithm function 
+for binary decimal machines 
+
+cacm june 1963
+
+bemer 
+
+ca630601 jb march 14 1978 10 41 am
+
+848	4	848
+848	4	848
+26	5	848
+35	5	848
+848	5	848
+848	5	848
+848	5	848
+
+
+

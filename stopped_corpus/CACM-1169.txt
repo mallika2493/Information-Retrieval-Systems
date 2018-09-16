@@ -1,0 +1,36 @@
+
+
+
+an algorithm minimizing backboard wiring functions
+
+a partially exhaustive algorithm presented
+for solving problem arising 
+automatic layout computer ordered set
+e1 e2 en computer components 
+permutation elements e1 e2 en attached
+a integer function algorithm 
+finds local minimum evaluating set delta
+f increments 
+set exchanges elementshen exchange
+corresponding negative increment 
+ delta performed process iterated stopped
+when set increments positive 
+or empty set proved corresponds a
+minimum procedure similar downhill 
+method finding minimum real function 
+and applied placement problems 
+ experimental results presented backboards formed
+by elements initial placements 
+
+cacm november 1965
+
+pomentale 
+
+ca651112 jb march 6 1978 4 35 pm
+
+1169	5	1169
+1169	5	1169
+1169	5	1169
+
+
+

@@ -1,0 +1,34 @@
+
+
+
+a method solution the
+cauchy problem parabolic equations
+
+an integral equation representation given
+for parabolic partial differential equations 
+ equations defined unbounded domains as
+in initial cauchy problem solution 
+of integral equation method successive
+approximation inherent advantages 
+methods error bounds methods order 3 2 
+and 7 2 increment size depending 
+on finite difference approximations involved 
+
+cacm december 1972
+
+moore 
+robinson 
+
+parabolic equations cauchy problem 
+method successive approximations
+
+5.17
+
+ca721207 jb january 27 1978 11 13 am
+
+2248	5	2248
+2248	5	2248
+2248	5	2248
+
+
+

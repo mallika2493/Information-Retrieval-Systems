@@ -1,0 +1,41 @@
+
+
+
+control procedures data communication-an asa progress report
+
+sectional committee x.3 american standards
+association charged task 
+groups x3.3.4 responsibility define specify
+functional control requirements characteristics 
+governing operation digital data generating and
+receiving systems interconnected communication 
+system effort primarily directed systems
+employing american standard code information 
+interchange ascii paper represents progress
+report work group proposal 
+for national international standardization the
+field control procedures describes 
+the work task group work
+is presented detail work 
+been presented earlier papers control procedures for
+data communication task group document x3.3.4 44 
+may 1964 transparent-mode control procedures data
+communication task group document x3.3.4 58 
+december 1964 comm acm 8 apr 1965 203-206 control
+procedures data communications task 
+group document x3.3.4 60 march 1965 retained here
+in summary form concepts principles 
+described submitted international
+organization standardization earlier 
+papers embodied working papers organization 
+
+cacm february 1966
+
+ca660208jb march 3 1978 3 04 pm
+
+1476	5	1476
+1476	5	1476
+1476	5	1476
+
+
+

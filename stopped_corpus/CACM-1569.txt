@@ -1,0 +1,22 @@
+
+
+
+implementing phrase-structure productions pl i
+
+a method implementing productions
+of context-free phrase structure grammar 
+in pl procedure structure statements parallel
+the structure notation grammar 
+
+cacm july 1967
+
+irwin 
+
+ca670704 jb february 28 1978 9 01 am
+
+1569	5	1569
+1569	5	1569
+1569	5	1569
+
+
+

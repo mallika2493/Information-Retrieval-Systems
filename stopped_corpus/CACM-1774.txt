@@ -1,0 +1,46 @@
+
+
+
+program overlay techniques
+
+the general features program overlay systems
+are main types -- automatic 
+semiautomatic nonautomatic -- classified the
+programming techniques explained function 
+of machine hardware system features the
+implementation semiautomatic overlay facility 
+in multiprogrammed system cdc 6600 described
+in detail special reference real time 
+applications 
+
+cacm february 1968
+
+pankhurst 
+
+loaders multiprogramming overlay techniques 
+storage allocation segmentation
+
+4.39
+
+ca680208 jb february 23 1978 11 59 am
+
+1471	4	1774
+1774	4	1774
+1774	4	1774
+1774	4	1774
+2343	4	1774
+560	4	1774
+972	4	1774
+1173	5	1774
+271	5	1774
+1774	5	1774
+1774	5	1774
+1774	5	1774
+2343	5	1774
+800	5	1774
+1173	6	1774
+1774	6	1774
+1845	6	1774
+
+
+
